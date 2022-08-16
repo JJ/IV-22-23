@@ -1,12 +1,13 @@
-# Semana del 13 de septiembre; comienzo del curso
+# Semana del 15 de septiembre; comienzo del curso
 
 Agradeceré que contestes la
-[encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLSeRIARhjTikI6X23VAB8TaQpx21BdIjZzxysJFXGI2TUxuEMQ/viewform).
+[encuesta inicial]().
 
-Se
-recuerda al estudiante que es su responsabilidad asistir a clase o, si
-no es posible,
-enterarse de los contenidos impartidos en la misma a través de esta web, el grupo de Telegram o los compañeros. Se recomienda encarecidamente, en todo caso, asistir a las primeras clases, al menos hasta que se supere la fase de evaluación formativa.
+Se recuerda al estudiante que es su responsabilidad asistir a clase o, si no es
+posible, enterarse de los contenidos impartidos en la misma a través de esta
+web, el grupo de Telegram o los compañeros. Se recomienda encarecidamente, en
+todo caso, asistir a las primeras clases, al menos hasta que se supere la fase
+de evaluación formativa.
 
 ## Objetivos a cubrir en la semana
 
@@ -24,9 +25,13 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 
 ## Contenidos
 
+### Meta
+
 * Presentación del profesor de la asignatura.
 * Con el número de estudiantes matriculados y aforo suficiente, no hace falta organizar grupos
-  de prácticas. Que cada uno venga el día que quiera, pero se aconseja vivamente no faltar a prácticas (es decir, a todas las clases, no hay distinción entre teoría y prácticas).
+  de prácticas. Que cada uno venga el día que quiera, pero se aconseja vivamente
+  no faltar a prácticas (es decir, a todas las clases, no hay distinción entre
+  teoría y prácticas).
 * Presentación de los recursos de la
   asignatura: [web](http://jj.github.io/IV)
   y [Twitter `@iv_gii`](http://twitter.com/iv_gii), incluyendo el
@@ -39,17 +44,12 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
   consecuencias que trae.
 * [Metodología y criterios de evaluación](../Metodología_y_criterios_de_evaluación.md).
 * Tutorías y como hacerlas
-* Introducción al desarrollo ágil y el software libre. Los proyectos que se presenten *son software libre* y por tanto no pueden ser privados.
-* Sistema operativo de referencia en la asignatura: **Linux** (Ubuntu,
-  Debian, ArchLinux, Fedora, OpenSUSE, Linux Mint, Antergos). Aunque la práctica
-  y la mayoría de ejercicios se pueden hacer en otros sistemas
-  operativos, no estoy cualificado para resolver dudas
-  específicas de los mismos y en particular no se garantiza que
-  ninguna de las herramientas de la asignatura funcionen. De hecho, algunas
-  sabemos positivamente que no funcionan o lo hacen de otra forma.
-  * Si trabajas en Windows 10, puedes activar el subsistema Linux, pero aún
-  así, habrá cosas que no funcionen. También habrá que usar
-  particiones *nativas* para evitar problemas, no máquinas virtuales.
+
+### Entrando en materia
+
+* Introducción al desarrollo ágil y el software libre. Los proyectos que se
+  presenten *son software libre* y por tanto no pueden ser privados.
+* Sistema operativo de referencia en la asignatura: **Linux**.
 * Entender cómo se entregan los objetivos y los hitos posteriores: *fork* de este repositorio (que
   habrá que actualizar periódicamente), hacer una *rama* del mismo y *pull request* desde esa rama.
 * Debe queder muy claro que las tutorías no son para que el profesor
@@ -66,16 +66,32 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
   indicarán si se han alcanzado los objetivos mínimos, a través del
   pull request que se haga se indicará qué es necesario para cubrir el
   resto de los objetivos. Los objetivos alcanzados se calificarán
-  según la dificultad de los mismos (en general, menos la principio, más al final); sólo se calificarán los últimos hitos
-  del proyecto (y tampoco es seguro, dependerá de cómo se desarrolle la asignatura).
-  * En el momento que se alcancen objetivos suficientes, se puede solicitar al profesor calificación para abandonar, si se desea, la asignatura.
+  según la dificultad de los mismos.
+  * En el momento que se alcancen objetivos suficientes, se puede solicitar al
+    profesor calificación del 30% restante para abandonar, si se desea, la asignatura.
 * Para "entregar" cada objetivo:
   * Se crea una rama específica para cada uno en el repositorio del proyecto.
-  * Se hace un PR en el mismo repositorio indicando qué cambios se han hecho para alcanzar este objetivo.
-  * Se incluye en el fichero `objetivos-x.md` un *enlace al pull request* desde la que se esté haciendo el PR.
-  * Hay que esperar que el profesor apruebe el PR para fusionarlo. Cuando se apruebe el PR, se habrá alcanzado el objetivo.
+  * Se hace un PR en el repositorio propio indicando qué cambios se han hecho
+    para alcanzar este objetivo.
+  * Se incluye en el fichero `objetivos-x.md` *de este repositorio* un *enlace
+    al pull request* desde la que se esté haciendo el PR.
+  * Hay que esperar que el profesor apruebe el PR para fusionarlo. Cuando se
+    apruebe el PR, se habrá alcanzado el objetivo. El profesor hará indicaciones
+    para que el estudiante supere el objetivo en otro caso.
 
-## Sesión de prácticas (día 17 de septiembre)
+### Hackatón inicial
+
+El principio de esta asignatura puede ser un poco chocante por sus diferencias
+con el resto. Se puede hacer un hackatón el *viernes 16* de *5 a 9 de la tarde*
+donde se irá ayudando con estas fases iniciales, y corrigiendo sobre la marcha.
+
+#### Organización del hackatón
+
+* Qué es la ingeniería de software
+* Design thinking y cómo diseñar un proyecto
+* Trabajo práctico.
+
+## Sesión dividida (día 15 de septiembre)
 
 [Introducción a git](http://jj.github.io/IV/preso/git.html#/). Antes del final
 de la sesión, [entregar el objetivo
@@ -92,7 +108,10 @@ contribuirán a mejor conocimiento teórico de la asignatura, aunque no
 contribuyen, en general, a la evaluación.
 
 Se aconseja, pero no se obliga, a que se alcance el
-[objetivo cero de la asignatura](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) al final de la clase "dividida" del grupo que se escoja, el viernes 17 de septiembre (10:30 o 14:30, según el que se haya elegido).
+[objetivo cero de la
+asignatura](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) al final
+de la clase "conjunta" del grupo que se escoja, el viernes 16 de septiembre, o a
+continuación en el hackatón por la tarde.
 
 ## Siguientes sesiones
 
