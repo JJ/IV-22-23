@@ -3,10 +3,13 @@
 Directorio para entrega de los diferentes objetivos del proyecto modificando el
 fichero correspondiente.
 
-A continuación, algunos cnsejos por si surgen problemas en el PR, aunque este
-año no seberían surgir, ya que *hay que hacer siempre PR a este repositorio
-desde una rama, diferente para cada objetivo, que se puede borrar al ser
-fusionada*.
+A continuación, algunos consejos por si surgen problemas en el PR. *Hay que
+hacer siempre PR a este repositorio desde una rama, diferente para cada
+objetivo, que se puede borrar al ser fusionada*.
+
+> La forma más fácil de hacerlo es directamente desde la web, pero puedes
+> hacerlo desde tu copia local o usando `gh`, la línea de órdenes de GitHub, lo
+> que prefieras.
 
 ## Cómo eliminar *commits* problemáticos
 
@@ -18,14 +21,13 @@ principal de tu copia del repositorio.
 
 Puede ser que se haya mezclado una versión del repositorio obsoleta, o
 simplemente que se hayan hecho commits con una configuración
-incorrecta de git (generalmente, por no haber establecido el correo
+incorrecta de `git` (generalmente, por no haber establecido el correo
 electrónico). Si quieres restablecer tu copia del repositorio "a
 fábrica", es decir, al estado de este repositorio, de forma que puedas
 volver a hacer los cambios, haz lo siguiente.
 
 1. Guarda los ficheros que hayas modificado aparte, en un directorio
-   temporal o donde quieras. Generalmente, serán el `hito-?.md` y el
-   fichero de objetivos.
+   temporal o donde quieras.
 
 2. Tienes que borrar los commits. Lo puedes hacer de varias formas.
 
@@ -34,14 +36,12 @@ volver a hacer los cambios, haz lo siguiente.
        Stackoverflow](https://stackoverflow.com/questions/927358/how-to-undo-the-most-recent-commits-in-git)
     2. La otra opción incluye *pisar* tu repositorio. Hazlo así.
        1. Mueve tu directorio `IV-XX-XX` a otro nombre
-       2. `git clone https://github.com/JJ/IV-21-22.git`
+       2. `git clone https://github.com/JJ/IV-22-23.git`
        3. Ahora: `git remote rm origin # Borras como origen el de la
        asignatura; git remote add origin
-       git@github.com:<minick>/IV-21-22.git # Añades el tuyo; git remote add upstream https://github.com/JJ/IV-21-22.git`
+       git@github.com:<minick>/IV-22-23.git # Añades el tuyo; git remote add upstream https://github.com/JJ/IV-22-23.git`
     3. Sobre la copia *fresca* del repositorio, copia los dos ficheros
     que hayas cambiado.
     4. `git push --force` pisará tu repositorio y pondrá el original +
        el cambio que quieras hacer.
 
-Recuerda que si has modificado los dos ficheros, tienes que hacer PRs
-separados para objetivos y para el hito.

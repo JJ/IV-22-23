@@ -9,6 +9,6 @@ Repositorio para el material específico de cada clase, planificación y ejercic
 * Comienza con [la programación y objetivos de las diferentes sesiones de la asignatura](sesiones/README.md).
 * Las entregas de los diferentes objetivos se hacen mediante pull requests a
   ficheros en [este directorio](proyectos). Lee [las
-  instrucciones](proyectos/README.md) para hacerlo correctamente, y resolver
-  conflictos.
+  instrucciones](proyectos/README.md) para hacerlo correctamente, y resolver los 
+  conflictos que puedan surgir.
 
