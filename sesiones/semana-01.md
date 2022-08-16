@@ -88,7 +88,7 @@ donde se irá ayudando con estas fases iniciales, y corrigiendo sobre la marcha.
 #### Organización del hackatón
 
 * Qué es la ingeniería de software
-* Design thinking y cómo diseñar un proyecto
+* *Design thinking* y cómo diseñar un proyecto
 * Trabajo práctico.
 
 ## Sesión dividida (día 15 de septiembre)
