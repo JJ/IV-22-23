@@ -9,7 +9,7 @@ use File::Slurper 'read_text';
 use GitHub::Actions;
 use LWP::UserAgent;
 
-use constant MAXREVIEWERS => 3;
+use constant MAXREVIEWERS => 5;
 
 my $objetivos_json = read_text( "data/objetivos.json" ) || die "No encuentro el fichero de objetivos";
 

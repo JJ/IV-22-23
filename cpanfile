@@ -8,3 +8,4 @@ requires "Term::ANSIColor";
 requires "Net::Ping";
 requires "GitHub::Actions";
 requires "LWP::UserAgent";
+requires "App::FatPacker";

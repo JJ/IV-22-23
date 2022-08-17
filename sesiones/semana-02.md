@@ -38,9 +38,7 @@ asignadas al mismo.
 ## Material para la clase
 
 * [Guión del primer objetivo del
-  proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura.recursos). Fecha
-  aconsejada para la entrega de este hito: **Al final de la clase de prácticas
-  del 24 de septiembre de 2021**.
+  proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura).
 
 * Presentación de la [clase dividida sobre historias de
   usuario](http://jj.github.io/IV/preso/hu.html)

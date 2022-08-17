@@ -217,8 +217,9 @@ jobs:
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
       pull_number: ${{ needs.ops-on-pr.outputs.pull_number }}
       GITHUB_TOKEN: ${{ secrets.IV_COMMENTS_TOKEN }}
+    if: ${{env.objetivo >= 1 }}
     steps:
       - name: Fuentes de este repo (para JSON)
         uses: actions/checkout@v2
       - name: Revisores aleatorios
-        run: t/random-reviewer
+        run: scripts/random-reviewer
