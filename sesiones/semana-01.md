@@ -1,4 +1,4 @@
-# Semana del 15 de septiembre; comienzo del curso
+# Semana del 12 de septiembre; comienzo del curso
 
 Agradeceré que contestes la
 [encuesta inicial]().
