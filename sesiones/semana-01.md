@@ -94,7 +94,7 @@ donde se irá ayudando con estas fases iniciales, y corrigiendo sobre la marcha.
 ## Sesión dividida (día 15 de septiembre)
 
 [Introducción a git](http://jj.github.io/IV/preso/git.html#/). Antes del final
-de la sesión, [entregar el objetivo
+de la sesión (si es posible), [entregar el objetivo
 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) que se revisará
 sobre la marcha (dentro de lo posible).
 
