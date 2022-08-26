@@ -16,8 +16,10 @@ de evaluación formativa.
    grupo de Telegram de la asignatura (se debe haber recibido una invitación en el correo de la UGR) y conocer el resto de los recursos de la misma.
 2. Entender el concepto de software libre y su aplicación práctica en esta asignatura.
 3. Vernos las caras.
-4. Explicar el
-   [objetivo 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Sugerencia de entrega: mañana viernes 17 de septiembre, al final de la clase práctica.
+4. Entender y entregar el
+   [objetivo
+   0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Sugerencia de
+   entrega: mañana viernes 16 de septiembre, al final del seminario.
 6. Empezar a usar git y GitHub (o usarlo más intensamente). Por
    ejemplo,
    [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o
@@ -25,61 +27,65 @@ de evaluación formativa.
 
 ## Contenidos
 
-### Meta
+### Sesión dividida (día 15 de septiembre)
 
-* Presentación del profesor de la asignatura.
-* Con el número de estudiantes matriculados y aforo suficiente, no hace falta organizar grupos
-  de prácticas. Que cada uno venga el día que quiera, pero se aconseja vivamente
-  no faltar a prácticas (es decir, a todas las clases, no hay distinción entre
-  teoría y prácticas).
-* Presentación de los recursos de la
-  asignatura: [web](http://jj.github.io/IV)
-  y [Twitter `@iv_gii`](http://twitter.com/iv_gii), incluyendo el
-  grupo de Telegram.
-* [Visión general de la asignatura](https://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/curso_actual/cuarto/tecnologiasdelainformacion/infraestructuravirtual).
-* Metodología
-  docente:
-  [Clase invertida](http://www.tecnologiasparalaeducacion.es/la-clase-inversa-flip-classroom-tecnologias/), y evaluación formativa
-  incluyendo eliminación de la distinción teoría/prácticas y las
-  consecuencias que trae.
-* [Metodología y criterios de evaluación](../Metodología_y_criterios_de_evaluación.md).
-* Tutorías y como hacerlas
+No hay diferencia entre teoría y práctica, toda la asignatura es práctica. Estas
+explicaciones están dirigidas a grupos pequeños. Esta sesión tiene los
+siguientes objetivos.
 
-### Entrando en materia
+* Entender git a través de esta [introducción a
+git](http://jj.github.io/IV/preso/git.html#/), y las buenas prácticas de uso de
+GitHub.
 
-* Introducción al desarrollo ágil y el software libre. Los proyectos que se
-  presenten *son software libre* y por tanto no pueden ser privados.
-* Sistema operativo de referencia en la asignatura: **Linux**.
-* Entender cómo se entregan los objetivos y los hitos posteriores: *fork* de este repositorio (que
-  habrá que actualizar periódicamente), hacer una *rama* del mismo y *pull request* desde esa rama.
-* Debe queder muy claro que las tutorías no son para que el profesor
-  repita el material de clase ni para *poner al día al estudiante*,
-  cuya obligación es precisamente mantenerse al día de los contenidos
-  impartidos en clase, sobre todo porque el material de clase
-  está todo en la web y las explicaciones son sólo bajo demanda.
-* Los objetivos se pre-evalúan automáticamente usando
+* Bases de la evaluación formativa, basada en objetivos:
+  * Los objetivos se pre-evalúan automáticamente usando
   sistemas integrados en GitHub. Cuando los indicadores están en rojo,
   es que ha habido algún error. Hay que pinchar en el mismo y navegar
   hasta encontrar el error concreto en la página del sistema que lanza
   los tests.
-* *Cómo se va a usar la evaluación formativa*: los tests automáticos
+  * *Cómo se va a usar la evaluación formativa*: los tests automáticos
   indicarán si se han alcanzado los objetivos mínimos, a través del
   pull request que se haga se indicará qué es necesario para cubrir el
   resto de los objetivos. Los objetivos alcanzados se calificarán
   según la dificultad de los mismos.
   * En el momento que se alcancen objetivos suficientes, se puede solicitar al
     profesor calificación del 30% restante para abandonar, si se desea, la asignatura.
-* Para "entregar" cada objetivo:
-  * Se crea una rama específica para cada uno en el repositorio del proyecto.
-  * Se hace un PR en el repositorio propio indicando qué cambios se han hecho
+  * Para "entregar" cada objetivo:
+    * Se crea una rama específica para cada uno en el repositorio del proyecto.
+    * Se hace un PR en el repositorio propio indicando qué cambios se han hecho
     para alcanzar este objetivo.
-  * Se incluye en el fichero `objetivos-x.md` *de este repositorio* un *enlace
+    * Se incluye en el fichero `objetivos-x.md` *de este repositorio* un *enlace
     al pull request* desde la que se esté haciendo el PR.
-  * Hay que esperar que el profesor apruebe el PR para fusionarlo. Cuando se
+    * Hay que esperar que el profesor apruebe el PR para fusionarlo. Cuando se
     apruebe el PR, se habrá alcanzado el objetivo. El profesor hará indicaciones
     para que el estudiante supere el objetivo en otro caso.
 
-### Hackatón inicial
+* [Entender el objetivo 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) que se revisará
+sobre la marcha (dentro de lo posible).
+
+### Clase conjunta (16 de septiembre)
+
+* Presentación del profesor de la asignatura.
+* Presentación de los recursos de la
+  asignatura: [web](http://jj.github.io/IV)
+  y [Twitter `@iv_gii`](http://twitter.com/iv_gii), incluyendo el
+  grupo de Telegram.
+* [Visión general de la asignatura](https://grados.ugr.es/informatica/pages/infoacademica/guias_docentes/curso_actual/cuarto/tecnologiasdelainformacion/infraestructuravirtual).
+* Metodología docente:
+  [Clase invertida](http://www.tecnologiasparalaeducacion.es/la-clase-inversa-flip-classroom-tecnologias/), y evaluación formativa
+  incluyendo eliminación de la distinción teoría/prácticas y las
+  consecuencias que trae.
+* [Metodología y criterios de evaluación](../Metodología_y_criterios_de_evaluación.md).
+* Tutorías y como hacerlas
+
+#### Entrando en materia
+
+* Introducción al desarrollo ágil y el software libre. Los proyectos que se
+  presenten *son software libre* y por tanto no pueden ser privados.
+* Cómo trabajar remotamente o llevar al día la asignatura. Respondiendo a la
+  pregunta: ¿asistir a clase es obligatorio?
+
+### Hackatón inicial (día 16, tarde)
 
 El principio de esta asignatura puede ser un poco chocante por sus diferencias
 con el resto. Se puede hacer un hackatón el *viernes 16* de *5 a 9 de la tarde*
@@ -91,12 +97,6 @@ donde se irá ayudando con estas fases iniciales, y corrigiendo sobre la marcha.
 * *Design thinking* y cómo diseñar un proyecto
 * Trabajo práctico.
 
-## Sesión dividida (día 15 de septiembre)
-
-[Introducción a git](http://jj.github.io/IV/preso/git.html#/). Antes del final
-de la sesión (si es posible), [entregar el objetivo
-0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) que se revisará
-sobre la marcha (dentro de lo posible).
 
 ## Material de la asignatura
 
