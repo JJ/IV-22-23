@@ -1,7 +1,7 @@
 # Semana del 19 de septiembre
 
 Agradeceré que, si todavía no lo has hecho, contestes la [encuesta
-inicial](). Se
+inicial](https://docs.google.com/forms/d/e/1FAIpQLSeO7AvY19pQt6kMXzKSrrc4ELat4b6qR9hA5NqK7GlKPBgwSA/viewform). Se
 recuerda al estudiante que es su responsabilidad asistir a clase o, si
 no es posible, enterarse de los contenidos impartidos en la misma a
 través de esta web, el grupo de Telegram o los compañeros. En todo

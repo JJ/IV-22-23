@@ -1,7 +1,7 @@
 # Semana del 12 de septiembre; comienzo del curso
 
 Agradeceré que contestes la
-[encuesta inicial]().
+[encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLSeO7AvY19pQt6kMXzKSrrc4ELat4b6qR9hA5NqK7GlKPBgwSA/viewform).
 
 Se recuerda al estudiante que es su responsabilidad asistir a clase o, si no es
 posible, enterarse de los contenidos impartidos en la misma a través de esta
