@@ -85,6 +85,11 @@ sobre la marcha (dentro de lo posible).
 * Cómo trabajar remotamente o llevar al día la asignatura. Respondiendo a la
   pregunta: ¿asistir a clase es obligatorio?
 
+#### Al final de esta clase: Objetivos mínimos
+
+Se habrá dado de alta GitHub (si no se está), inicializado el repositorio con el
+proyecto, entendido qué se espera.
+
 ### Hackatón inicial (día 16, tarde)
 
 El principio de esta asignatura puede ser un poco chocante por sus diferencias
@@ -96,7 +101,6 @@ donde se irá ayudando con estas fases iniciales, y corrigiendo sobre la marcha.
 * Qué es la ingeniería de software
 * *Design thinking* y cómo diseñar un proyecto
 * Trabajo práctico.
-
 
 ## Material de la asignatura
 
