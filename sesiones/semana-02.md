@@ -10,15 +10,20 @@ conjunta como a la clase divida, para llevar a cabo los objetivos de
 la asignatura, en la medida de lo posible, dentro de las horas
 asignadas al mismo.
 
-## Objetivos a cubrir en la sesión
+## Antes de la clase
 
-1. Entender qué implica diseñar un proyecto que se irá elaborando
+Se tendrá que haber intentado hacer la entrega del [objetivo
+0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
+
+## Objetivos a cubrir en la semana
+
+1. Entender qué implica ejecutar un proyecto que se irá elaborando
    durante la asignatura.
 2. Aprender algunas técnicas de planificación de proyectos.
 
 ## Contenidos
 
-* Plantear los problemas que se tengan con el [objetivo
+* Plantear los problemas que se hayan tenido tengan con el [objetivo
   0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
 * Qué es la arquitectura limpia.
 * Ideas mejores y peores, problemas mejores y peores.

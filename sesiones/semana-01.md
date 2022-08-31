@@ -9,6 +9,11 @@ web, el grupo de Telegram o los compañeros. Se recomienda encarecidamente, en
 todo caso, asistir a las primeras clases, al menos hasta que se supere la fase
 de evaluación formativa.
 
+## Antes de la clase
+
+Se habrá recibido un correo electrónico con instrucciones y se habrá tenido que
+aceptar la invitación al grupo de Telegram (tutorías grupales) de la asignatura.
+
 ## Objetivos a cubrir en la semana
 
 1. Entender la metodología docente, de evaluación y de interacción de la asignatura.
