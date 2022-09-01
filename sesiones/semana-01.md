@@ -115,7 +115,7 @@ donde se irá ayudando con estas fases iniciales, y corrigiendo sobre la marcha.
   software](https://jj.github.io/IV/preso/ingenieria-software.html).
 * [*Design thinking*](https://jj.github.io/IV/preso/design-thinking.html) y cómo
   diseñar un proyecto.
-* Trabajo práctico.
+* Trabajo por parte del estudiante.
 
 ## Material de la asignatura
 
