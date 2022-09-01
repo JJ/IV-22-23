@@ -67,6 +67,14 @@ GitHub.
 
 * [Entender el objetivo 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) que se revisará
 sobre la marcha (dentro de lo posible).
+    * Descargar (desde el móvil, en formato iCalendar), [recordatorio para
+    dentro de 5 días](https://jj.github.io/IV/calendarios/0-la-mitad.ics)
+    (cuando el 50% de los estudiantes ya lo tenía entregado el año pasado),
+y en [**10**
+días](https://jj.github.io/IV/calendarios/0-tres-cuartos.ics), cuando el 75% lo
+    había entregado ya. Aunque no hay plazo para entregarlos, sí hay que cubrir
+    un número mínimo de objetivos para superar la asignatura, así que conviene
+    organizarse para no tener problemas eventualmente.
 
 ### Clase conjunta (16 de septiembre)
 
