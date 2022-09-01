@@ -111,8 +111,10 @@ donde se irá ayudando con estas fases iniciales, y corrigiendo sobre la marcha.
 
 #### Organización del hackatón
 
-* Qué es la ingeniería de software
-* *Design thinking* y cómo diseñar un proyecto
+* Qué es la [ingeniería de
+  software](https://jj.github.io/IV/preso/ingenieria-software.html).
+* [*Design thinking*](https://jj.github.io/IV/preso/design-thinking.html) y cómo
+  diseñar un proyecto.
 * Trabajo práctico.
 
 ## Material de la asignatura
