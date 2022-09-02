@@ -27,7 +27,19 @@ estudiantes del año pasado lo entregaron en 5 días.
 
 * Plantear los problemas que se hayan tenido tengan con el [objetivo
   0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
+
 * Qué es la arquitectura limpia.
+
+### Clase dividida, 22 de septiembre
+
+* Manejar de forma básica la línea de órdenes de Linux.
+  * Incluyendo el cliente de GitHub (oficial `gh` o extraoficial `hub`).
+  * Incluyendo también un *tema* para la línea de órdenes como Oh-my-zsh.
+* Entender el [desarrollo ágil](https://jj.github.io/IV/preso/ágil.html)
+* Saber cómo dar respuesta a las necesidades del cliente expresándolas en
+  [historias de usuario](https://jj.github.io/IV/preso/hu.html).
+
+### Clase conjunta, 23 de septiembre
 
 * Ideas mejores y peores, problemas mejores y peores.
 * Problemas comunes en la entrega:
@@ -35,14 +47,14 @@ estudiantes del año pasado lo entregaron en 5 días.
   * Nadie ha puesto documentación sobre la creación y uso del par de claves.
   * Tampoco sobre la configuración.
   * Algunos siguen con el avatar por omisión.
-* Manejar de forma básica la línea de órdenes de Linux.
-  * Incluyendo el cliente de GitHub (oficial `gh` o extraoficial `hub`).
-  * Incluyendo también un *tema* para la línea de órdenes como Oh-my-zsh.
-* Entender el [desarrollo ágil](https://jj.github.io/IV/preso/ágil.html)
+
+* Organizar el desarrollo del producto en una serie de etapas de [productos
+  mínimamente viables](https://jj.github.io/IV/preso/pmv.html).
 * Entender qué es lo que se pide en el proyecto de la asignatura, y
   por tanto en el
-  [objetivo del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura)
-  al final de la clase de mañana.
+  [objetivo del
+  proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura).
+
 
 ## Material para la clase
 

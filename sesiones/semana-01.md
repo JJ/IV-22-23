@@ -115,6 +115,10 @@ donde se irá ayudando con estas fases iniciales, y corrigiendo sobre la marcha.
   software](https://jj.github.io/IV/preso/ingenieria-software.html).
 * [*Design thinking*](https://jj.github.io/IV/preso/design-thinking.html) y cómo
   diseñar un proyecto.
+* [Qué es la lógica de
+  negocio]((https://jj.github.io/IV/preso/logica-negocio.html) y por qué es
+  importante en el proyecto de IV (y en cualquiera, en general).
+* *Pitch* de diferentes ideas, en público si se desea.
 * Trabajo por parte del estudiante.
 
 #### En caso de que haya tiempo
