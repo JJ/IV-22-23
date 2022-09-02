@@ -12,7 +12,7 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 ## Antes de la clase
 
 Habría que haber entregado ya el objetivo 0. El 90% de los que lo entregaron lo
-hicieron en 12 días a partir del comienzo.
+hicieron en 12 días a partir del comienzo; el 75% lo hizo antes de esta semana.
 
 Una vez entregado, se debería de haber comenzado ya a trabajar con el objetivo 1.
 
