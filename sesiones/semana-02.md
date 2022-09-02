@@ -13,19 +13,22 @@ asignadas al mismo.
 ## Antes de la clase
 
 Se tendrá que haber intentado hacer la entrega del [objetivo
-0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
+0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). El 50% de los
+estudiantes del año pasado lo entregaron en 5 días.
 
 ## Objetivos a cubrir en la semana
 
 1. Entender qué implica ejecutar un proyecto que se irá elaborando
    durante la asignatura.
 2. Aprender algunas técnicas de planificación de proyectos.
+3. Entender la relación con la infraestructura virtual.
 
 ## Contenidos
 
 * Plantear los problemas que se hayan tenido tengan con el [objetivo
   0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
 * Qué es la arquitectura limpia.
+
 * Ideas mejores y peores, problemas mejores y peores.
 * Problemas comunes en la entrega:
   * Sólo un 20% lo ha hecho en clase.
@@ -34,6 +37,7 @@ Se tendrá que haber intentado hacer la entrega del [objetivo
   * Algunos siguen con el avatar por omisión.
 * Manejar de forma básica la línea de órdenes de Linux.
   * Incluyendo el cliente de GitHub (oficial `gh` o extraoficial `hub`).
+  * Incluyendo también un *tema* para la línea de órdenes como Oh-my-zsh.
 * Entender el [desarrollo ágil](https://jj.github.io/IV/preso/ágil.html)
 * Entender qué es lo que se pide en el proyecto de la asignatura, y
   por tanto en el
@@ -50,7 +54,8 @@ Se tendrá que haber intentado hacer la entrega del [objetivo
 
 ## Material adicional
 
-Podéis añadir trucos o enlaces en [el documento correspondiente](https://github.com/JJ/IV/blob/master/documentos/proyecto/1.Infraestructura.recursos.md)
+Podéis añadir trucos o enlaces en [el documento
+correspondiente](https://github.com/JJ/IV/blob/master/documentos/proyecto/1.Infraestructura.recursos.md).
 
 ## Siguientes sesiones
 

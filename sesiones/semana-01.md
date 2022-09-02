@@ -117,6 +117,13 @@ donde se irá ayudando con estas fases iniciales, y corrigiendo sobre la marcha.
   diseñar un proyecto.
 * Trabajo por parte del estudiante.
 
+#### En caso de que haya tiempo
+
+Comenzar con el siguiente [objetivo del
+proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura),
+explicando los objetivos correspondientes [contenidos en la siguiente
+semana](semana-02.md).
+
 ## Material de la asignatura
 
 Todo [el material de la asignatura está en
