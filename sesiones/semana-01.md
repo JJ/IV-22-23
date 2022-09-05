@@ -132,11 +132,8 @@ semana](semana-02.md).
 
 Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
-Se aconseja, pero no se obliga, a que se alcance el
-[objetivo cero de la
-asignatura](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) al final
-de la clase "conjunta" del grupo que se escoja, el viernes 16 de septiembre, o a
-continuación en el hackatón por la tarde.
+Texto del [objetivo cero de la
+asignatura](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
 
 ## Siguientes sesiones
 
