@@ -116,7 +116,7 @@ donde se irá ayudando con estas fases iniciales, y corrigiendo sobre la marcha.
 * [*Design thinking*](https://jj.github.io/IV/preso/design-thinking.html) y cómo
   diseñar un proyecto.
 * [Qué es la lógica de
-  negocio]((https://jj.github.io/IV/preso/logica-negocio.html) y por qué es
+  negocio](https://jj.github.io/IV/preso/logica-negocio.html) y por qué es
   importante en el proyecto de IV (y en cualquiera, en general).
 * *Pitch* de diferentes ideas, en público si se desea.
 * Trabajo por parte del estudiante.
@@ -130,12 +130,7 @@ semana](semana-02.md).
 
 ## Material de la asignatura
 
-Todo [el material de la asignatura está en
-GitHub](http://jj.github.io/IV). Si se desea, se puede mirar el [primer
-tema](http://jj.github.io/IV/documentos/temas/Intro_concepto_y_soporte_fisico)
-y hacer los ejercicios de autoevaluación correspondientes, que
-contribuirán a mejor conocimiento teórico de la asignatura, aunque no
-contribuyen, en general, a la evaluación.
+Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
 Se aconseja, pero no se obliga, a que se alcance el
 [objetivo cero de la
