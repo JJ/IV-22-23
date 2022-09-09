@@ -1,4 +1,4 @@
-name: "Genera JSON a partir de los ficheros de objetivos"
+name: "Genera fichero objetivos cumplidos a partir de los ficheros de objetivos"
 on:
   push:
     branches:
