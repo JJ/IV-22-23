@@ -81,7 +81,7 @@ jobs:
             }
       - name: Comprueba hitos desde el 1
         uses: actions/github-script@v4
-        if: ${{env.objetivo >= 1}}
+        if: ${{ env.objetivo >= 1 }}
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
@@ -217,9 +217,10 @@ jobs:
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
       pull_number: ${{ needs.ops-on-pr.outputs.pull_number }}
       GITHUB_TOKEN: ${{ secrets.IV_COMMENTS_TOKEN }}
-    if: ${{env.objetivo >= 1 }}
     steps:
       - name: Fuentes de este repo (para JSON)
+        if: env.objetivo >= 1
         uses: actions/checkout@v2
       - name: Revisores aleatorios
+        if: env.objetivo >= 1
         run: scripts/random-reviewer
