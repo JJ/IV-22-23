@@ -211,16 +211,14 @@ jobs:
   random-revisor:
     runs-on: ubuntu-latest
     needs: [ops-on-pr, ops-on-source, ops-using-API]
+    if: needs.ops-on-pr.outputs.objetivo >= 1
     env:
       user: ${{ needs.ops-on-pr.outputs.user }}
       repo: ${{ needs.ops-on-pr.outputs.repo }}
-      objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
       pull_number: ${{ needs.ops-on-pr.outputs.pull_number }}
       GITHUB_TOKEN: ${{ secrets.IV_COMMENTS_TOKEN }}
     steps:
       - name: Fuentes de este repo (para JSON)
-        if: env.objetivo >= 1
         uses: actions/checkout@v2
       - name: Revisores aleatorios
-        if: env.objetivo >= 1
         run: scripts/random-reviewer
