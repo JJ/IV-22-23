@@ -1,4 +1,4 @@
-# Entrega del hito/objetivo del proyecto de Infraestructura virtual
+# Entrega del objetivo del proyecto de Infraestructura virtual
 
 ## Primero y mas importante
 
