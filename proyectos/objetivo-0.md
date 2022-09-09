@@ -8,6 +8,7 @@ iniciales.
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
+| https://github.com/orgs/community/discussions/25725 |||
 | <!-- Enlace de A S A --> | | |
 | <!-- Enlace de C P F --> | | |
 | <!-- Enlace de E B V --> | | |
