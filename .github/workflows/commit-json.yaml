@@ -1,7 +1,7 @@
 name: "Genera JSON a partir de los ficheros de objetivos"
 on:
   push:
-    branch:
+    branches:
       - master
     paths:
       - proyectos/objetivo*.md
