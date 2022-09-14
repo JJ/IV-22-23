@@ -1,5 +1,7 @@
 # Semana del 12 de septiembre; comienzo del curso
 
+> Si no entiendes bien esto a la primera lectura, lee el [COMO](COMO.md)
+
 Agradeceré que contestes la
 [encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLSeO7AvY19pQt6kMXzKSrrc4ELat4b6qR9hA5NqK7GlKPBgwSA/viewform).
 
