@@ -22,10 +22,10 @@
 | <!-- Enlace de M P G --> | | |
 | <!-- Enlace de PedroMarting --> | | |
 | <!-- Enlace de M D D --> | | |
-| <!-- Enlace de M R E --> | | |
 | <!-- Enlace de M S A --> | | |
 | <!-- Enlace de M S D L L --> | | |
 | <!-- Enlace de alias9981 --> | | |
+| <!-- Enlace de M S P D --> | | |
 | <!-- Enlace de dmonjasm --> | | |
 | <!-- Enlace de Santi_m15 --> | | |
 | <!-- Enlace de M P I --> | | |
@@ -40,7 +40,7 @@
 | <!-- Enlace de carolinaramosb --> | | |
 | <!-- Enlace de R L S --> | | |
 | <!-- Enlace de crdelapuente --> | | |
-| <!-- Enlace de R G F J --> | | |
+| <!-- Enlace de R D L P C --> | | |
 | <!-- Enlace de R M M --> | | |
 | <!-- Enlace de S0lracS --> | | |
 | <!-- Enlace de S M A R --> | | |
