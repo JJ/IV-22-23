@@ -21,7 +21,7 @@
 | <!-- Enlace de M A J J --> | | |
 | <!-- Enlace de Gundisalvus2 --> | | |
 | <!-- Enlace de pedromarting3 --> | | |
-| <!-- Enlace de M D D --> | | |
+| <!-- Enlace de Davidmd00 --> | | |
 | <!-- Enlace de M S A --> | | |
 | <!-- Enlace de M S D L L --> | | |
 | <!-- Enlace de lovelace9981 --> | | |
@@ -30,7 +30,7 @@
 | <!-- Enlace de santim15 --> | | |
 | <!-- Enlace de M P I --> | | |
 | <!-- Enlace de MauronMP --> | | |
-| <!-- Enlace de M G A --> | | |
+| <!-- Enlace de amogue73 --> | | |
 | <!-- Enlace de delightfulagony --> | | |
 | <!-- Enlace de pablo1mc315 --> | | |
 | <!-- Enlace de P J A J --> | | |
