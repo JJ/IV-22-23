@@ -32,7 +32,7 @@ jobs:
       - name: Instala módulos Raku
         if: steps.meta6.outputs.cache-hit != 'true'
         continue-on-error: true
-        run:  export PERL6LIB="inst#/home/raku/.raku" &&  zef install File::Temp && zef install --deps-only .
+        run:  HOME=/home/raku zef install --deps-only .
       - name: Genera JSON
         run: raku -Ilib scripts/iv-objetivos.raku > data/objetivos.json
       - name: Sube JSON actualizado
