@@ -27,7 +27,7 @@ jobs:
         uses: actions/cache@v2
         id: meta6
         with:
-          path: ~/.raku/
+          path: /home/raku/.raku/
           key: ${{ runner.os }}-${{ hashFiles('META6.json') }}
       - name: Instala módulos Raku
         if: steps.meta6.outputs.cache-hit != 'true'

@@ -7,7 +7,7 @@
       "Git::File::History",
       "JSON::Fast"
   ],
-  "description" : "Scripts Raku para ayudar con la asignatura IV",
+  "description" : "Scripts Raku para analizara datos de la asignatura IV",
   "license" : "Artistic-2.0",
   "name" : "IV scripts",
   "perl" : "6.d",
@@ -20,6 +20,6 @@
   "tags" : [
     "scripts", "learning analytics"
   ],
-    "version" : "0.0.2",
-    "meta-version": 1
+  "version" : "0.0.2",
+  "meta-version": 1
 }
