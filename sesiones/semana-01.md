@@ -17,8 +17,10 @@ aceptar la invitación al grupo de Telegram (tutorías grupales) de la asignatur
 ## Objetivos a cubrir en la semana
 
 1. Entender la metodología docente, de evaluación y de interacción de la asignatura.
-2. Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub y el
-   grupo de Telegram de la asignatura (se debe haber recibido una invitación en el correo de la UGR) y conocer el resto de los recursos de la misma.
+2. Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub
+   y el grupo de Telegram de la asignatura (se debe haber recibido una
+   invitación en el correo de la UGR) y conocer el resto de los recursos de la
+   misma.
 2. Entender el concepto de software libre y su aplicación práctica en esta asignatura.
 3. Vernos las caras.
 4. Entender y entregar el
@@ -76,6 +78,11 @@ días](https://jj.github.io/IV/calendarios/0-tres-cuartos.ics), cuando el 75% lo
     un número mínimo de objetivos para superar la asignatura, así que conviene
     organizarse para no tener problemas eventualmente.
 
+#### Al final de esta clase: Objetivos mínimos
+
+Se habrá dado de alta GitHub (si no se está), inicializado el repositorio con el
+proyecto, entendido qué se espera.
+
 ### Clase conjunta (16 de septiembre)
 
 * Presentación del profesor de la asignatura.
@@ -91,6 +98,7 @@ días](https://jj.github.io/IV/calendarios/0-tres-cuartos.ics), cuando el 75% lo
 * [Metodología y criterios de evaluación](../Metodología_y_criterios_de_evaluación.md).
 * Tutorías y como hacerlas
 
+
 #### Entrando en materia
 
 * Introducción al desarrollo ágil y el software libre. Los proyectos que se
@@ -100,8 +108,8 @@ días](https://jj.github.io/IV/calendarios/0-tres-cuartos.ics), cuando el 75% lo
 
 #### Al final de esta clase: Objetivos mínimos
 
-Se habrá dado de alta GitHub (si no se está), inicializado el repositorio con el
-proyecto, entendido qué se espera.
+Haber entendido los mecanismos de la asignatura y empezado a trabajar en el
+objetivo 0.
 
 ### Hackatón inicial (día 16, tarde)
 
