@@ -32,7 +32,7 @@ jobs:
       - name: Instala módulos Raku
         if: steps.meta6.outputs.cache-hit != 'true'
         continue-on-error: true
-        run:  zef locate File::Directory::Tree && zef install --deps-only .
+        run:  zef locate File::Directory::Tree && echo $RAKULIB &&  zef install --deps-only .
       - name: Genera JSON
         run: raku -Ilib scripts/iv-objetivos.raku > data/objetivos.json
       - name: Sube JSON actualizado
