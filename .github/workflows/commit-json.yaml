@@ -10,7 +10,7 @@ on:
       - .github/workflows/commit-json.yaml
 
 jobs:
-  test:
+  genera-objetivos:
     runs-on: ubuntu-latest
     permissions:
       contents: write
