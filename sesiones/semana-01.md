@@ -16,6 +16,14 @@ de evaluación formativa.
 Se habrá recibido un correo electrónico con instrucciones y se habrá tenido que
 aceptar la invitación al grupo de Telegram (tutorías grupales) de la asignatura.
 
+Lista de comprobación:
+
+  * ¿Estáis en el grupo de Telegram?
+  * ¿Habéis inscrito vuestros nicks tras solicitar acceso a la hoja de cálculo
+    compartida?
+  * ¿Os habéis abierto cuenta en GitHub o configurado para usarla desde el
+    equipo de clase?
+
 ## Objetivos a cubrir en la semana
 
 1. Entender la metodología docente, de evaluación y de interacción de la asignatura.
