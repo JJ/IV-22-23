@@ -34,7 +34,7 @@ iniciales.
 | <!-- Enlace de Davidmd00 --> | | |
 | <!-- Enlace de M S A --> | | |
 | <!-- Enlace de M S D L L --> | | |
-| <!-- Enlace de lovelace9981 --> | | |
+| <!-- Enlace de lovelace9981 --> https://github.com/lovelace9981/IV/pull/2 | 1.0 |  |
 | <!-- Enlace de M S P D --> | | |
 | <!-- Enlace de dmonjasm --> | | |
 | <!-- Enlace de santim15 --> | | |
