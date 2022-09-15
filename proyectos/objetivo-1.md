@@ -1,10 +1,4 @@
-# Objetivo 0
-
-Añade en la tabla el enlace al PR en *tu* repositorio, siguiendo las
-instrucciones en [el guión](https://jj.github.io/IV/proyectos/objetivo-0). Usa
-la línea con tu nick de GitHub (si lo has proporcionado). Si no lo has hecho,
-primero ponlo en la hoja de equivalencias y a continuación usa la línea con tus
-iniciales.
+# Objetivo 1
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
@@ -33,14 +27,14 @@ iniciales.
 | <!-- Enlace de Davidmd00 --> | | |
 | <!-- Enlace de M S A --> | | |
 | <!-- Enlace de LuisMart7 --> | | |
-| https://github.com/lovelace9981/IV/pull/2 | 1.0 |  |
+| <!-- Enlace de lovelace9981 --> | | |
 | <!-- Enlace de M S P D --> | | |
 | <!-- Enlace de dmonjasm --> | | |
 | <!-- Enlace de santim15 --> | | |
 | <!-- Enlace de M P I --> | | |
 | <!-- Enlace de MauronMP --> | | |
 | <!-- Enlace de amogue73 --> | | |
-| https://github.com/delightfulagony/oishi/pull/1 | v0.0.1 | ✓ |
+| <!-- Enlace de delightfulagony --> | | |
 | <!-- Enlace de pablo1mc315 --> | | |
 | <!-- Enlace de P J A J --> | | |
 | <!-- Enlace de ottoeprz --> | | |
@@ -61,3 +55,4 @@ iniciales.
 | <!-- Enlace de joseantonio2001 --> | | |
 | <!-- Enlace de mariavallejo20 --> | | |
 | <!-- Enlace de vdeq79 --> | | |
+
