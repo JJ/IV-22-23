@@ -40,7 +40,7 @@ iniciales.
 | <!-- Enlace de M P I --> | | |
 | <!-- Enlace de MauronMP --> | | |
 | <!-- Enlace de amogue73 --> | | |
-| https://github.com/delightfulagony/oishi/pull/1 | v0.0.1 | |
+| https://github.com/delightfulagony/oishi/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de pablo1mc315 --> | | |
 | <!-- Enlace de P J A J --> | | |
 | <!-- Enlace de ottoeprz --> | | |
