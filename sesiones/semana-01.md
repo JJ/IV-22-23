@@ -11,6 +11,15 @@ web, el grupo de Telegram o los compañeros. Se recomienda encarecidamente, en
 todo caso, asistir a las primeras clases, al menos hasta que se supere la fase
 de evaluación formativa.
 
+## Objetivos cumplidos
+
+```
+0 🧮:  2%🚧  2%✅ 95%❌ ⇒ 
+     🚧
+     ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+```
+
 ## Antes de la clase
 
 Se habrá recibido un correo electrónico con instrucciones y se habrá tenido que
