@@ -35,7 +35,7 @@ estudiantes del año pasado lo entregaron en 5 días.
 * Manejar de forma básica la línea de órdenes de Linux.
   * Incluyendo el cliente de GitHub (oficial `gh` o extraoficial `hub`).
   * Incluyendo también un *tema* para la línea de órdenes como Oh-my-zsh.
-* Entender el [desarrollo ágil](https://jj.github.io/IV/preso/ágil.html)
+* Entender el [desarrollo ágil](https://jj.github.io/IV/preso/agil2.html)
 * Saber cómo dar respuesta a las necesidades del cliente expresándolas en
   [historias de usuario](https://jj.github.io/IV/preso/hu.html).
 
