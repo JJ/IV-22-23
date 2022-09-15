@@ -34,14 +34,14 @@ iniciales.
 | <!-- Enlace de Davidmd00 --> | | |
 | <!-- Enlace de M S A --> | | |
 | <!-- Enlace de M S D L L --> | | |
-| <!-- Enlace de lovelace9981 --> | | |
+| <!-- Enlace de lovelace9981 --> https://github.com/lovelace9981/IV/pull/2 | 1.0 |  |
 | <!-- Enlace de M S P D --> | | |
 | <!-- Enlace de dmonjasm --> | | |
 | <!-- Enlace de santim15 --> | | |
 | <!-- Enlace de M P I --> | | |
 | <!-- Enlace de MauronMP --> | | |
 | <!-- Enlace de amogue73 --> | | |
-| <!-- Enlace de delightfulagony --> | | |
+| https://github.com/delightfulagony/oishi/pull/1 | v0.0.1 | |
 | <!-- Enlace de pablo1mc315 --> | | |
 | <!-- Enlace de P J A J --> | | |
 | <!-- Enlace de P R O E --> | | |
@@ -54,7 +54,7 @@ iniciales.
 | <!-- Enlace de R M M --> | | |
 | <!-- Enlace de Carlos-SE --> | | |
 | <!-- Enlace de arsa-dev --> | | |
-| <!-- Enlace de T F M --> | | |
+| <!-- Enlace de OchoTumbao --> | | |
 | <!-- Enlace de T R --> | | |
 | <!-- Enlace de T Z I --> | | |
 | <!-- Enlace de T F L --> | | |
@@ -62,3 +62,4 @@ iniciales.
 | <!-- Enlace de joseantonio2001 --> | | |
 | <!-- Enlace de mariavallejo20 --> | | |
 | <!-- Enlace de vdeq79 --> | | |
+
