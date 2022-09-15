@@ -14,7 +14,6 @@
 | <!-- Enlace de alvarogaro --> | | |
 | <!-- Enlace de Juanmihdz --> | | |
 | <!-- Enlace de martahuetem --> | | |
-| <!-- Enlace de J P S --> | | |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de JoseCarlosJC --> | | |
 | <!-- Enlace de adrianlc3 --> | | |
