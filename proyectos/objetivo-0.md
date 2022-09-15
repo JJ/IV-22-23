@@ -41,7 +41,7 @@ iniciales.
 | <!-- Enlace de M P I --> | | |
 | <!-- Enlace de MauronMP --> | | |
 | <!-- Enlace de amogue73 --> | | |
-| <!-- Enlace de delightfulagony --> | | |
+| https://github.com/delightfulagony/oishi/pull/1 | v0.0.1 | |
 | <!-- Enlace de pablo1mc315 --> | | |
 | <!-- Enlace de P J A J --> | | |
 | <!-- Enlace de P R O E --> | | |
