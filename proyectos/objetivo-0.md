@@ -13,8 +13,8 @@ iniciales.
 | <!-- Enlace de PacoCP5 --> | | |
 | <!-- Enlace de C C S --> | | |
 | <!-- Enlace de C V C --> | | |
-| <!-- Enlace de C L F J --> | | |
 | https://github.com/iscoct/cotan/pull/1 | v0.0.1 | |
+| <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de F J --> | | |
