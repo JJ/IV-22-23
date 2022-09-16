@@ -38,7 +38,7 @@ iniciales.
 | <!-- Enlace de dmonjasm --> | | |
 | <!-- Enlace de santim15 --> | | |
 | <!-- Enlace de M P I --> | | |
-| <!-- Enlace de MauronMP --> | | |
+| https://github.com/MauronMP/PMP_IV/pull/2| v0.0.1 | |
 | <!-- Enlace de amogue73 --> | | |
 | https://github.com/delightfulagony/oishi/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de pablo1mc315 --> | | |
@@ -52,7 +52,7 @@ iniciales.
 | <!-- Enlace de fjromeero --> | | |
 | <!-- Enlace de R M M --> | | |
 | <!-- Enlace de Carlos-SE --> | | |
-| https://github.com/arsa-dev/IV/pull/1 | v0.0.1 | |
+| <!-- Enlace de arsa-dev --> | | |
 | <!-- Enlace de OchoTumbao --> | | |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
