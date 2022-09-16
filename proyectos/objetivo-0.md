@@ -60,4 +60,4 @@ iniciales.
 | <!-- Enlace de mahotoca00 --> | | |
 | <!-- Enlace de joseantonio2001 --> | | |
 | <!-- Enlace de mariavallejo20 --> | | |
-| <!-- Enlace de vdeq79 --> | | |
+| https://github.com/vdeq79/Projecto-XSZ/pull/1 | v0.1 | |
