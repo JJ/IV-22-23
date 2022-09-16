@@ -23,7 +23,7 @@ iniciales.
 | https://github.com/JaimeGM96/IV-JGM/pull/1 | v0.1 | |
 | <!-- Enlace de fjgallardo00 --> | | |
 | <!-- Enlace de alvarogaro --> | | |
-| <!-- Enlace de Juanmihdz -->(https://github.com/juanmihdz/beFit) |v0.0.1 | |
+| <!-- Enlace de Juanmihdz -->https://github.com/juanmihdz/beFit |v0.0.1 | |
 | <!-- Enlace de martahuetem --> | | |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de JoseCarlosJC --> | | |
