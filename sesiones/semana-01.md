@@ -150,6 +150,9 @@ donde se irá ayudando con estas fases iniciales, y corrigiendo sobre la marcha.
     entregado) en el mismo sitio, para no tener que ir averiguando cuál de los
     2, o 3, o 4 es el "definitivo".
   * Ningún detalle de implementación es relevante en este objetivo.
+  * No hacer, y por tanto no rellenar, la lista de comprobación. La lista de
+    comprobación sirve para que al revisar yo pueda ver si se han llevado a cabo
+    todas las tareas.
 * Qué es la [ingeniería de
   software](https://jj.github.io/IV/preso/ingenieria-software.html).
 * [*Design thinking*](https://jj.github.io/IV/preso/design-thinking.html) y cómo
