@@ -53,7 +53,7 @@ iniciales.
 | <!-- Enlace de fjromeero --> | | |
 | <!-- Enlace de R M M --> | | |
 | <!-- Enlace de Carlos-SE --> | | |
-| <!-- Enlace de arsa-dev --> | | |
+| https://github.com/arsa-dev/IV/pull/1 | v0.0.1 | |
 | <!-- Enlace de OchoTumbao --> | | |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
@@ -62,3 +62,4 @@ iniciales.
 | <!-- Enlace de joseantonio2001 --> | | |
 | <!-- Enlace de mariavallejo20 --> | | |
 | <!-- Enlace de vdeq79 --> | | |
+
