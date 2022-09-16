@@ -52,8 +52,6 @@ iniciales.
 | <!-- Enlace de CharlsMars --> | | |
 | <!-- Enlace de fjromeero --> | | |
 | <!-- Enlace de R M M --> | | |
-| <!-- Enlace de Carlos-SE --> | | |
-| <!-- Enlace de arsa-dev --> | | |
 | [Carlos-SE/App-chores/pull/1](https://github.com/Carlos-SE/App-chores/pull/1) | v0.0.1 | |
 | https://github.com/arsa-dev/IV/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de OchoTumbao --> | | |
