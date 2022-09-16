@@ -15,6 +15,7 @@ iniciales.
 | <!-- Enlace de C V C --> | | |
 | <!-- Enlace de C L F J --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
+| https://github.com/MarinoFajardo/ControlaTuGasto/pull/1 | 1.0 |  |
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de F J --> | | |
