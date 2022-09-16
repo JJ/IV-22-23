@@ -13,7 +13,7 @@ iniciales.
 | <!-- Enlace de PacoCP5 --> | | |
 | <!-- Enlace de C C S --> | | |
 | <!-- Enlace de C V C --> | | |
-| https://github.com/iscoct/cotan/pull/1 | v0.0.1 | |
+| https://github.com/iscoct/cotan/pull/2 | v0.0.1 | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
