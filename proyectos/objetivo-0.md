@@ -56,7 +56,7 @@ iniciales.
 | https://github.com/arsa-dev/IV/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de OchoTumbao --> | | |
 | <!-- Enlace de RafaelT00 --> | | |
-| <!-- Enlace de ignaciotitos --> | | |
+| https://github.com/ignaciotitos/IV---HealthForAll/pull/2 | v0.0.2 | |
 | https://github.com/luistf24/Trozo-de-panceta/pull/1 | v0.0.1 | |
 | <!-- Enlace de mahotoca00 --> | | |
 | <!-- Enlace de joseantonio2001 --> | | |
