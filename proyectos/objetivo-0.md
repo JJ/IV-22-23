@@ -15,6 +15,7 @@ iniciales.
 | <!-- Enlace de C V C --> | | |
 | <!-- Enlace de C L F J --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
+| https://github.com/MarinoFajardo/ControlaTuGasto/pull/1 | 1.0 |  |
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de F J --> | | |
@@ -53,11 +54,13 @@ iniciales.
 | <!-- Enlace de R M M --> | | |
 | <!-- Enlace de Carlos-SE --> | | |
 | <!-- Enlace de arsa-dev --> | | |
+| [Carlos-SE/App-chores/pull/1](https://github.com/Carlos-SE/App-chores/pull/1) | v0.0.1 | |
+| https://github.com/arsa-dev/IV/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de OchoTumbao --> | | |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
-| <!-- Enlace de luistf24 --> | | |
+| https://github.com/luistf24/Trozo-de-panceta/pull/1 | v0.0.1 | |
 | <!-- Enlace de mahotoca00 --> | | |
 | <!-- Enlace de joseantonio2001 --> | | |
 | <!-- Enlace de mariavallejo20 --> | | |
-| <!-- Enlace de vdeq79 --> | | |
+| https://github.com/vdeq79/Projecto-XSZ/pull/1 | v0.1 | |

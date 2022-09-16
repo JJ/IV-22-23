@@ -14,10 +14,11 @@ de evaluación formativa.
 ## Objetivos cumplidos
 
 ```
-0 🧮:  2%🚧  2%✅ 95%❌ ⇒ 
-     🚧
-     ✅
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+raku -Ilib scripts/iv-stats.raku
+ 0 🧮:  8%🚧  4%✅ 86%❌ ⇒ 
+     🚧 🚧 🚧 🚧
+     ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
 ```
 
 ## Antes de la clase
@@ -138,6 +139,20 @@ donde se irá ayudando con estas fases iniciales, y corrigiendo sobre la marcha.
 
 #### Organización del hackatón
 
+* Errores frecuentes observados hasta ahora
+  * Crear el repositorio para empezar. No hay que esperar a tener todo el
+    objetivo completo para hacerlo.
+  * La forma más fácil de hacer el PR en este repo es editar desde la web el
+    fichero correspondiente. Así te aseguras que es la última versión.
+  * Se trata de que arregles el error editando el fichero (cambiando el número
+    de version), *no* de que abras nuevos PRs. Tienes que entender que este
+    flujo de trabajo está creado para ir corrigiendo el código (o lo que se haya
+    entregado) en el mismo sitio, para no tener que ir averiguando cuál de los
+    2, o 3, o 4 es el "definitivo".
+  * Ningún detalle de implementación es relevante en este objetivo.
+  * No hacer, y por tanto no rellenar, la lista de comprobación. La lista de
+    comprobación sirve para que al revisar yo pueda ver si se han llevado a cabo
+    todas las tareas.
 * Qué es la [ingeniería de
   software](https://jj.github.io/IV/preso/ingenieria-software.html).
 * [*Design thinking*](https://jj.github.io/IV/preso/design-thinking.html) y cómo
