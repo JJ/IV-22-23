@@ -20,7 +20,7 @@ iniciales.
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de F J --> | | |
 | <!-- Enlace de F A D --> | | |
-| https://github.com/JaimeGM96/IV-JGM/pull/1 | v0.1 | |
+| https://github.com/JaimeGM96/IV-JGM/pull/1 | v0.1 | ✓ |
 | <!-- Enlace de fjgallardo00 --> | | |
 | <!-- Enlace de alvarogaro --> | | |
 | <!-- Enlace de Juanmihdz --> | | |
