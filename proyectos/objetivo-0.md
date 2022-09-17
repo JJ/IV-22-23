@@ -13,7 +13,7 @@ iniciales.
 | <!-- Enlace de PacoCP5 --> | | |
 | <!-- Enlace de C C S --> | | |
 | <!-- Enlace de C V C --> | | |
-| https://github.com/iscoct/cotan/pull/11 | v0.0.2 | |
+| https://github.com/iscoct/cotan/pull/11 | v0.0.2 | ✓ |
 | <!-- Enlace de MarinoFajardo --> | | |
 | https://github.com/MarinoFajardo/ControlaTuGasto/pull/1 | 1.0 |  |
 | <!-- Enlace de F V J A --> | | |
@@ -30,7 +30,7 @@ iniciales.
 | <!-- Enlace de adrianlc3 --> | | |
 | <!-- Enlace de M A J J --> | | |
 | <!-- Enlace de Gundisalvus2 --> | | |
-| https://github.com/pedromarting3/OnTime/pull/1 | v0.0.1 | |
+|  | v0.0.1 | |
 | <!-- Enlace de Davidmd00 --> | | |
 | <!-- Enlace de M S A --> | | |
 | <!-- Enlace de LuisMart7 --> | | |
