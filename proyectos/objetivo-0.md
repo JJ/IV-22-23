@@ -46,7 +46,7 @@ iniciales.
 | <!-- Enlace de P J A J --> | | |
 | <!-- Enlace de ottoeprz --> | | |
 | <!-- Enlace de danielsp13 --> | | |
-| <!-- Enlace de jmramirezG --> | | |
+| https://github.com/jmramirezG/WhatCook/pull/1 | v0.0.1 | |
 | <!-- Enlace de R B C --> | | |
 | <!-- Enlace de chowfie --> | | |
 | <!-- Enlace de CharlsMars --> | | |
