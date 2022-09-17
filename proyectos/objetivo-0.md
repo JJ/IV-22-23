@@ -54,7 +54,7 @@ iniciales.
 | <!-- Enlace de R M M --> | | |
 | [Carlos-SE/App-chores/pull/1](https://github.com/Carlos-SE/App-chores/pull/1) | v0.0.1 | |
 | https://github.com/arsa-dev/IV/pull/1 | v0.0.1 | ✓ |
-| <[OchoTumbao/MLEdu](https://github.com/OchoTumbao/MLEdu/pull/1) | v0.0.1 | |
+| [OchoTumbao/MLEdu](https://github.com/OchoTumbao/MLEdu/pull/1) | v0.0.1 | |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
 | https://github.com/luistf24/Trozo-de-panceta/pull/1 | v0.0.1 | |
