@@ -33,9 +33,11 @@ estudiantes del año pasado lo entregaron en 5 días.
 ### Clase dividida, 22 de septiembre
 
 * Errores comunes:
+  * No usar el proceso de *design thinking* para entender un contexto determinado e identificar los problemas que puede haber (y que se pueden resolver mediante un programa).
   * No resolver, o no reconocer, los fallos en los PRs en el envío.
   * Fusionar el PR en el repo del estudiante antes de que se acepte (o cerrarlo
     de alguna otra forma).
+  * No entender bien el concepto de "lógica de negocio".
 * Manejar de forma básica la línea de órdenes de Linux.
   * Incluyendo el cliente de GitHub (oficial `gh` o extraoficial `hub`).
   * Incluyendo también un *tema* para la línea de órdenes como Oh-my-zsh.
