@@ -49,7 +49,7 @@ iniciales.
 | https://github.com/jmramirezG/WhatCook/pull/1 | v0.0.1 | |
 | <!-- Enlace de R B C --> | | |
 | <!-- Enlace de chowfie --> | | |
-| <!-- Enlace de CharlsMars --> | | |
+| https://github.com/crdelapuente/SmartFood/pull/1 | v0.1 | |
 | <!-- Enlace de fjromeero --> | | |
 | <!-- Enlace de R M M --> | | |
 | [Carlos-SE/App-chores/pull/1](https://github.com/Carlos-SE/App-chores/pull/1) | v0.0.1 | |
