@@ -31,7 +31,7 @@ iniciales.
 | <!-- Enlace de M A J J --> | | |
 | <!-- Enlace de Gundisalvus2 --> | | |
 |  | v0.0.1 | |
-| <!-- Enlace de Davidmd00 --> | | |
+| https://github.com/Davidmd00/iv-DMD/pull/2 | v0.0.1 | |
 | <!-- Enlace de M S A --> | | |
 | <!-- Enlace de LuisMart7 --> | | |
 | https://github.com/lovelace9981/IV/pull/2 | 1.0 |  |
