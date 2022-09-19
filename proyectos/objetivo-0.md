@@ -22,7 +22,7 @@ iniciales.
 | <!-- Enlace de F A D --> | | |
 | https://github.com/JaimeGM96/IV-JGM/pull/1 | v0.1 | ✓ |
 | <!-- Enlace de fjgallardo00 --> | | |
-| <!-- Enlace de alvarogaro --> | | |
+| https://github.com/alvarogaro/AGR-MVS/pull/1 |v0.1| |
 | <!-- Enlace de Juanmihdz --> | | |
 | <!-- Enlace de martahuetem --> | | |
 | <!-- Enlace de manujurado1 --> | | |
