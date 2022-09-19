@@ -42,7 +42,7 @@ iniciales.
 | https://github.com/MauronMP/PMP_IV/pull/2 | v0.0.1 | |
 | <!-- Enlace de amogue73 --> | | |
 | https://github.com/delightfulagony/oishi/pull/1 | v0.0.1 | ✓ |
-| https://github.com/pablo1mc315/iv_pablomc/pull/2 | v0.0.1 | |
+| [https://github.com/pablo1mc315/iv_pablomc/pull/2](https://github.com/pablo1mc315/iv_pablomc/pull/1) | v0.0.1 | |
 | <!-- Enlace de P J A J --> | | |
 | <!-- Enlace de ottoeprz --> | | |
 | <!-- Enlace de danielsp13 --> | | |
