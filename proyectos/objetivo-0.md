@@ -14,7 +14,7 @@ iniciales.
 | <!-- Enlace de C C S --> | | |
 | <!-- Enlace de C V C --> | | |
 | https://github.com/iscoct/cotan/pull/11 | v0.0.2 | ✓ |
-| <!-- Enlace de MarinoFajardo --> | | |
+| <!-- Enlace de D H J M --> | | |
 | https://github.com/MarinoFajardo/ControlaTuGasto/pull/1 | 1.0 |  |
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
@@ -27,12 +27,11 @@ iniciales.
 | <!-- Enlace de martahuetem --> | | |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de JoseCarlosJC --> | | |
+| <!-- Enlace de L A S --> | | |
 | <!-- Enlace de adrianlc3 --> | | |
 | <!-- Enlace de M A J J --> | | |
-| <!-- Enlace de Gundisalvus2 --> | | |
-|  | v0.0.1 | |
+| <!-- Enlace de Gundisalvus2 --> | v0.0.1 | |
 | <!-- Enlace de Davidmd00 --> | | |
-| <!-- Enlace de M S A --> | | |
 | <!-- Enlace de LuisMart7 --> | | |
 | https://github.com/lovelace9981/IV/pull/2 | 1.0 |  |
 | <!-- Enlace de M S P D --> | | |
@@ -49,7 +48,7 @@ iniciales.
 | https://github.com/jmramirezG/WhatCook/pull/1 | v0.0.1 | |
 | <!-- Enlace de R B C --> | | |
 | <!-- Enlace de chowfie --> | | |
-| <!-- Enlace de CharlsMars --> | | |
+| <!-- Enlace de crdelapuente --> | | |
 | <!-- Enlace de fjromeero --> | | |
 | https://github.com/marcosrmartin/PerroAndaluz/pull/1 |v0.0.1 | | |
 | [Carlos-SE/App-chores/pull/1](https://github.com/Carlos-SE/App-chores/pull/1) | v0.0.1 | |
@@ -58,7 +57,6 @@ iniciales.
 | <!-- Enlace de RafaelT00 --> | | |
 | https://github.com/ignaciotitos/IV---HealthForAll/pull/4 | v0.0.4 | |
 | https://github.com/luistf24/Trozo-de-panceta/pull/1 | v0.0.1 | |
-| <!-- Enlace de mahotoca00 --> | | |
 | <!-- Enlace de joseantonio2001 --> | | |
 | [<!-- Enlace de mariavallejo20 -->](https://github.com/mariavallejo20/proyecto_mvo/pull/1) | v0.0.1 | |
 | https://github.com/vdeq79/Projecto-XSZ/pull/1 | v0.1 | |
