@@ -30,7 +30,7 @@ iniciales.
 | <!-- Enlace de L A S --> | | |
 | <!-- Enlace de adrianlc3 --> | | |
 | <!-- Enlace de M A J J --> | | |
-| <!-- Enlace de Gundisalvus2 --> | v0.0.1 | |
+| <!-- Enlace de Gundisalvus2 --> | | |
 | https://github.com/pedromarting3/OnTime/pull/1 | v0.0.1 | |
 | <!-- Enlace de Davidmd00 --> | | |
 | <!-- Enlace de LuisMart7 --> | | |
