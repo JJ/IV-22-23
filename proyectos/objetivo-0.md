@@ -58,5 +58,5 @@ iniciales.
 | https://github.com/ignaciotitos/IV---HealthForAll/pull/4 | v0.0.4 | |
 | https://github.com/luistf24/Trozo-de-panceta/pull/1 | v0.0.1 | |
 | <!-- Enlace de joseantonio2001 --> | | |
-| [<!-- Enlace de mariavallejo20 -->](https://github.com/mariavallejo20/proyecto_mvo/pull/1) | v0.0.1 | |
+| https://github.com/mariavallejo20/proyecto_mvo/pull/1 | v0.0.1 | |
 | https://github.com/vdeq79/Projecto-XSZ/pull/1 | v0.1 | |
