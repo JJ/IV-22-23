@@ -18,7 +18,6 @@ iniciales.
 | https://github.com/MarinoFajardo/ControlaTuGasto/pull/1 | 1.0 |  |
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
-| <!-- Enlace de F J --> | | |
 | <!-- Enlace de F A D --> | | |
 | https://github.com/JaimeGM96/IV-JGM/pull/1 | v0.1 | ✓ |
 | <!-- Enlace de fjgallardo00 --> | | |

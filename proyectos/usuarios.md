@@ -8,7 +8,6 @@
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
-| <!-- Enlace de F J --> | | |
 | <!-- Enlace de dfolcha --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de fjgallardo00 --> | | |
