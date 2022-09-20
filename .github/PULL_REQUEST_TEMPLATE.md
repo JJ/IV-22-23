@@ -2,7 +2,8 @@
 
 ## Primero y mas importante
 
-* [ ] NOCERRAR: No voy a cerrar ningún PR pase lo que pase.
+* [ ] NOCERRAR: No voy a cerrar ningún PR pase lo que pase. Ni voy a abrir otro
+      para el mismo objetivo.
 
 ## Lista de comprobación para hitos
 
