@@ -48,7 +48,7 @@ iniciales.
 | https://github.com/jmramirezG/WhatCook/pull/1 | v0.0.1 | |
 | <!-- Enlace de R B C --> | | |
 | <!-- Enlace de chowfie --> | | |
-| <!-- Enlace de crdelapuente --> | | |
+| https://github.com/crdelapuente/SmartFood/pull/1 | v0.0.1 | |
 | <!-- Enlace de fjromeero --> | | |
 | https://github.com/marcosrmartin/PerroAndaluz/pull/1 |v0.0.1 | | |
 | [Carlos-SE/App-chores/pull/1](https://github.com/Carlos-SE/App-chores/pull/1) | v0.0.1 | |
