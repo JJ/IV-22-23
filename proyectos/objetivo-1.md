@@ -5,14 +5,15 @@
 | <!-- Enlace de aacosa34 --> | | |
 | <!-- Enlace de ArturoAcf --> | | |
 | <!-- Enlace de PacoCP5 --> | | |
-| <!-- Enlace de C C S --> | | |
+| <!-- Enlace de SixtoCoca --> | | |
 | <!-- Enlace de C V C --> | | |
-| <!-- Enlace de C L F J --> | | |
+| https://github.com/iscoct/cotan/pull/12 | v0.0.1 | |
+| <!-- Enlace de D H J M --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de F J --> | | |
-| <!-- Enlace de F A D --> | | |
+| <!-- Enlace de dfolcha --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de fjgallardo00 --> | | |
 | <!-- Enlace de alvarogaro --> | | |
@@ -20,15 +21,16 @@
 | <!-- Enlace de martahuetem --> | | |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de JoseCarlosJC --> | | |
+| <!-- Enlace de L A S --> | | |
 | <!-- Enlace de adrianlc3 --> | | |
 | <!-- Enlace de M A J J --> | | |
 | <!-- Enlace de Gundisalvus2 --> | | |
 | <!-- Enlace de pedromarting3 --> | | |
 | <!-- Enlace de Davidmd00 --> | | |
-| <!-- Enlace de M S A --> | | |
 | <!-- Enlace de LuisMart7 --> | | |
 | <!-- Enlace de lovelace9981 --> | | |
-| <!-- Enlace de M S P D --> | | |
+| <!-- Enlace de PabloSpiegel --> | | |
+| <!-- Enlace de M M J M --> | | |
 | <!-- Enlace de dmonjasm --> | | |
 | <!-- Enlace de santim15 --> | | |
 | <!-- Enlace de M P I --> | | |
@@ -42,17 +44,15 @@
 | <!-- Enlace de jmramirezG --> | | |
 | <!-- Enlace de R B C --> | | |
 | <!-- Enlace de chowfie --> | | |
-| <!-- Enlace de CharlsMars --> | | |
+| <!-- Enlace de crdelapuente --> | | |
 | <!-- Enlace de fjromeero --> | | |
-| <!-- Enlace de R M M --> | | |
+| <!-- Enlace de marcosrmartin --> | | |
 | <!-- Enlace de Carlos-SE --> | | |
 | <!-- Enlace de arsa-dev --> | | |
 | <!-- Enlace de OchoTumbao --> | | |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
 | <!-- Enlace de luistf24 --> | | |
-| <!-- Enlace de mahotoca00 --> | | |
 | <!-- Enlace de joseantonio2001 --> | | |
 | <!-- Enlace de mariavallejo20 --> | | |
 | <!-- Enlace de vdeq79 --> | | |
-

@@ -8,57 +8,55 @@ iniciales.
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| <!-- Enlace de aacosa34 --> | | |
+| [aacosa34/Keikaku](https://github.com/aacosa34/Keikaku/pull/1) | v0.0.1 | ✓ |
 | <!-- Enlace de ArturoAcf --> | | |
 | <!-- Enlace de PacoCP5 --> | | |
 | <!-- Enlace de C C S --> | | |
 | <!-- Enlace de C V C --> | | |
-| <!-- Enlace de C L F J --> | | |
-| <!-- Enlace de MarinoFajardo --> | | |
+| https://github.com/iscoct/cotan/pull/11 | v0.0.2 | ✓ |
+| <!-- Enlace de D H J M --> | | |
 | https://github.com/MarinoFajardo/ControlaTuGasto/pull/1 | 1.0 |  |
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
-| <!-- Enlace de F J --> | | |
 | <!-- Enlace de F A D --> | | |
-| https://github.com/JaimeGM96/IV-JGM/pull/1 | v0.1 | |
+| https://github.com/JaimeGM96/IV-JGM/pull/1 | v0.1 | ✓ |
 | <!-- Enlace de fjgallardo00 --> | | |
-| <!-- Enlace de alvarogaro --> | | |
-| https://github.com/juanmihdz/beFit |v0.0.1 | |
+| https://github.com/alvarogaro/AGR-MVS/pull/1 |v0.1| |
+| https://github.com/juanmihdz/beFit/pull/1 |v0.0.1 | |
 | <!-- Enlace de martahuetem --> | | |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de JoseCarlosJC --> | | |
+| <!-- Enlace de L A S --> | | |
 | <!-- Enlace de adrianlc3 --> | | |
 | <!-- Enlace de M A J J --> | | |
 | <!-- Enlace de Gundisalvus2 --> | | |
-| <!-- Enlace de pedromarting3 --> | | |
+| https://github.com/pedromarting3/OnTime/pull/1 | v0.0.1 | |
 | <!-- Enlace de Davidmd00 --> | | |
-| <!-- Enlace de M S A --> | | |
 | <!-- Enlace de LuisMart7 --> | | |
 | https://github.com/lovelace9981/IV/pull/2 | 1.0 |  |
 | <!-- Enlace de M S P D --> | | |
-| <!-- Enlace de dmonjasm --> | | |
+| https://github.com/dmonjasm/IV/pull/1 | v0.0.1 | |
 | <!-- Enlace de santim15 --> | | |
 | <!-- Enlace de M P I --> | | |
-| <!-- Enlace de MauronMP --> | | |
+| https://github.com/MauronMP/PMP_IV/pull/2 | v0.0.1 | |
 | <!-- Enlace de amogue73 --> | | |
 | https://github.com/delightfulagony/oishi/pull/1 | v0.0.1 | ✓ |
-| <!-- Enlace de pablo1mc315 --> | | |
+| https://github.com/pablo1mc315/iv_pablomc/pull/1 | v0.0.1 | |
 | <!-- Enlace de P J A J --> | | |
 | <!-- Enlace de ottoeprz --> | | |
 | <!-- Enlace de danielsp13 --> | | |
-| <!-- Enlace de jmramirezG --> | | |
+| https://github.com/jmramirezG/WhatCook/pull/1 | v0.0.1 | |
 | <!-- Enlace de R B C --> | | |
 | <!-- Enlace de chowfie --> | | |
-| <!-- Enlace de CharlsMars --> | | |
+| <!-- Enlace de crdelapuente --> | | |
 | <!-- Enlace de fjromeero --> | | |
-| <!-- Enlace de R M M --> | | |
+| https://github.com/marcosrmartin/PerroAndaluz/pull/1 |v0.0.1 | | |
 | [Carlos-SE/App-chores/pull/1](https://github.com/Carlos-SE/App-chores/pull/1) | v0.0.1 | |
 | https://github.com/arsa-dev/IV/pull/1 | v0.0.1 | ✓ |
-| <!-- Enlace de OchoTumbao --> | | |
+| [OchoTumbao/MLEdu](https://github.com/OchoTumbao/MLEdu/pull/1) | v0.0.1 | |
 | <!-- Enlace de RafaelT00 --> | | |
-| <!-- Enlace de ignaciotitos --> | | |
+| https://github.com/ignaciotitos/IV---HealthForAll/pull/4 | v0.0.4 | |
 | https://github.com/luistf24/Trozo-de-panceta/pull/1 | v0.0.1 | |
-| <!-- Enlace de mahotoca00 --> | | |
 | <!-- Enlace de joseantonio2001 --> | | |
-| <!-- Enlace de mariavallejo20 --> | | |
+| https://github.com/mariavallejo20/proyecto_mvo/pull/1 | v0.0.1 | |
 | https://github.com/vdeq79/Projecto-XSZ/pull/1 | v0.1 | |
