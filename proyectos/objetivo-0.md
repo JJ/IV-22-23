@@ -31,6 +31,7 @@ iniciales.
 | <!-- Enlace de adrianlc3 --> | | |
 | <!-- Enlace de M A J J --> | | |
 | <!-- Enlace de Gundisalvus2 --> | v0.0.1 | |
+| https://github.com/pedromarting3/OnTime/pull/1 | v0.0.1 | |
 | <!-- Enlace de Davidmd00 --> | | |
 | <!-- Enlace de LuisMart7 --> | | |
 | https://github.com/lovelace9981/IV/pull/2 | 1.0 |  |
