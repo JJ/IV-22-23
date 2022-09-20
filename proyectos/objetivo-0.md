@@ -8,7 +8,7 @@ iniciales.
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| [aacosa34/Keikaku](https://github.com/aacosa34/Keikaku/pull/1) | v0.0.1 | |
+| [aacosa34/Keikaku](https://github.com/aacosa34/Keikaku/pull/1) | v0.0.1 | ✓ |
 | <!-- Enlace de ArturoAcf --> | | |
 | <!-- Enlace de PacoCP5 --> | | |
 | <!-- Enlace de C C S --> | | |
