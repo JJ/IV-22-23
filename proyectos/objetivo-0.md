@@ -40,7 +40,7 @@ iniciales.
 | <!-- Enlace de santim15 --> | | |
 | <!-- Enlace de M P I --> | | |
 | https://github.com/MauronMP/PMP_IV/pull/2 | v0.0.1 | ✓ |
-| <!-- Enlace de amogue73 --> | | |
+| https://github.com/amogue73/Proyecto-IV/pull/2 | v0.0.1 | |
 | https://github.com/delightfulagony/oishi/pull/1 | v0.0.1 | ✓ |
 | https://github.com/pablo1mc315/iv_pablomc/pull/1 | v0.0.1 | |
 | <!-- Enlace de P J A J --> | | |
