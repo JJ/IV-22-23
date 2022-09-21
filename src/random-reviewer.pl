@@ -11,20 +11,35 @@ use LWP::UserAgent;
 
 use constant MAXREVIEWERS => 5;
 
-my $objetivos_json = read_text( "data/objetivos.json" ) || die "No encuentro el fichero de objetivos";
+my $filename = "data/objetivos.json";
+my $objetivos_json;
+
+if ( -e $filename ) {
+  $objetivos_json = read_text( $filename );
+} elsif ( -e "../$filename" ) {
+  $objetivos_json = read_text( "../$filename" );
+} else {
+  die "No encuentro el fichero de objetivos";
+}
 
 my @objetivos = @{from_json( $objetivos_json )};
 
-my $este_objetivo = $ENV{'objetivo'};
+my $este_objetivo = $ENV{'objetivo'} || 0;
 my $user          = $ENV{'user'};
 my $repo          = $ENV{'repo'};
 my $pull_number   = $ENV{'pull_number'};
 my $auth_token    = $ENV{'GITHUB_TOKEN'};
 
-my @reviewers;
 my @these_students = @{$objetivos[$este_objetivo]};
+
+if ( !@these_students ) {
+  warning( "Todavía no hay suficientes personas para poder revisarlo" );
+  exit(0);
+}
+
 my $num_reviewers = scalar(@these_students) < MAXREVIEWERS ? scalar(@these_students) : MAXREVIEWERS;
 
+my @reviewers;
 for ( my $i = 0; $i < $num_reviewers; $i ++ ) {
   my $this_reviewer = splice( @these_students, int(rand( $#these_students ) ), 1 );
   push( @reviewers, "\@".$this_reviewer );
