@@ -10,7 +10,7 @@ iniciales.
 |--------------------------------------------|---------|-----------|
 | [aacosa34/Keikaku](https://github.com/aacosa34/Keikaku/pull/1) | v0.0.1 | ✓ |
 | <!-- Enlace de ArturoAcf --> | | |
-| <!-- Enlace de PacoCP5 --> | | |
+| https://github.com/PacoCP5/proyecto-PCP/pull/1 | v0.0.1 | |
 | <!-- Enlace de C C S --> | | |
 | <!-- Enlace de C V C --> | | |
 | https://github.com/iscoct/cotan/pull/11 | v0.0.2 | ✓ |
