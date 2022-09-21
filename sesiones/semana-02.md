@@ -35,6 +35,14 @@ todas ellas tendrán que estar al día.
 
 ### Clase dividida, 22 de septiembre
 
+Agruparemos a los estudiantes en aquellos que hayan superado el objetivo 0, en
+  los que lo hayan enviado y no superado y los que no lo hayan enviado. Irán
+  rotando en las primeras mesas de la sala e iremos planteando los problemas y
+  resolviéndolos en grupo.
+
+### Clase conjunta, 23 de septiembre
+
+* Ideas mejores y peores, problemas mejores y peores.
 * Errores comunes:
   * No usar el proceso de *design thinking* para entender un contexto determinado e identificar los problemas que puede haber (y que se pueden resolver mediante un programa).
   * No resolver, o no reconocer, los fallos en los PRs en el envío.
@@ -53,15 +61,6 @@ todas ellas tendrán que estar al día.
 * Entender el [desarrollo ágil](https://jj.github.io/IV/preso/agil2.html)
 * Saber cómo dar respuesta a las necesidades del cliente expresándolas en
   [historias de usuario](https://jj.github.io/IV/preso/hu.html).
-
-### Clase conjunta, 23 de septiembre
-
-* Ideas mejores y peores, problemas mejores y peores.
-* Problemas comunes en la entrega:
-  * Sólo un 20% lo ha hecho en clase.
-  * Nadie ha puesto documentación sobre la creación y uso del par de claves.
-  * Tampoco sobre la configuración.
-  * Algunos siguen con el avatar por omisión.
 
 * Organizar el desarrollo del producto en una serie de etapas de [productos
   mínimamente viables](https://jj.github.io/IV/preso/pmv.html).
