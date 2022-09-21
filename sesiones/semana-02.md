@@ -12,9 +12,12 @@ asignadas al mismo.
 
 ## Antes de la clase
 
-Se tendrá que haber intentado hacer la entrega del [objetivo
+Se tendrá que haber intentado entregar del [objetivo
 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). El 50% de los
 estudiantes del año pasado lo entregaron en 5 días.
+
+Esto presupone la realización del resto de tareas *administrativas*, así que
+todas ellas tendrán que estar al día.
 
 ## Objetivos a cubrir en la semana
 
