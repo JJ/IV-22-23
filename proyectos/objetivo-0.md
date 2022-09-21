@@ -46,7 +46,7 @@ iniciales.
 | <!-- Enlace de P J A J --> | | |
 | github.com/ottoeprz/glowing-engine/pull/1 | v0.0.1 | |
 | <!-- Enlace de danielsp13 --> | | |
-| https://github.com/jmramirezG/WhatCook/pull/1 | v0.0.1 | |
+| https://github.com/jmramirezG/WhatCook/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de R B C --> | | |
 | <!-- Enlace de chowfie --> | | |
 | https://github.com/crdelapuente/SmartFood/pull/1 | v0.0.1 | |
