@@ -44,7 +44,7 @@ iniciales.
 | https://github.com/delightfulagony/oishi/pull/1 | v0.0.1 | ✓ |
 | https://github.com/pablo1mc315/iv_pablomc/pull/1 | v0.0.1 | |
 | <!-- Enlace de P J A J --> | | |
-| github.com/ottoeprz/glowing-engine/pull/1 | v0.0.1 | |
+| https://github.com/ottoeprz/glowing-engine/pull/1 | v0.0.1 | |
 | <!-- Enlace de danielsp13 --> | | |
 | https://github.com/jmramirezG/WhatCook/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de R B C --> | | |
