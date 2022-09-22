@@ -20,7 +20,7 @@ iniciales.
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de F A D --> | | |
 | https://github.com/JaimeGM96/IV-JGM/pull/1 | v0.1 | ✓ |
-| <!-- Enlace de fjgallardo00 --> | | |
+| https://github.com/fjgallardo00/Akinah/pull/1 | v0.1 | |
 | https://github.com/alvarogaro/AGR-MVS/pull/1 |v0.1| |
 | https://github.com/juanmihdz/beFit/pull/1 |v0.0.1 | |
 | <!-- Enlace de martahuetem --> | | |
@@ -29,8 +29,8 @@ iniciales.
 | <!-- Enlace de L A S --> | | |
 | <!-- Enlace de adrianlc3 --> | | |
 | https://github.com/jesusjmma/Proyecto-Infraestructura-Virtual/pull/1 | v0.0.1 | |
-| <!-- Enlace de Gundisalvus2 --> | | |
-| https://github.com/pedromarting3/OnTime/pull/1 | v0.0.1 | |
+| https://github.com/Gundisalvus2/Wind-of-change/pull/1 |v.0.1| |
+| https://github.com/pedromarting3/OnTime/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de Davidmd00 --> | | |
 | https://github.com/LuisMart7/ProBusiness/pull/1 | v0.0.1 | |
 | https://github.com/lovelace9981/IV/pull/2 | 1.0 |  ✓ |
@@ -42,7 +42,7 @@ iniciales.
 | https://github.com/MauronMP/PMP_IV/pull/2 | v0.0.1 | ✓ |
 | <!-- Enlace de amogue73 --> | | |
 | https://github.com/delightfulagony/oishi/pull/1 | v0.0.1 | ✓ |
-| https://github.com/pablo1mc315/iv_pablomc/pull/1 | v0.0.1 | |
+| https://github.com/pablo1mc315/iv_pablomc/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de P J A J --> | | |
 | https://github.com/ottoeprz/glowing-engine/pull/1 | v0.0.1 | |
 | <!-- Enlace de danielsp13 --> | | |

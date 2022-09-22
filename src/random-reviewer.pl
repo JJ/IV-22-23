@@ -28,7 +28,7 @@ my $este_objetivo = $ENV{'objetivo'} || 0;
 my $user          = $ENV{'user'};
 my $repo          = $ENV{'repo'};
 my $pull_number   = $ENV{'pull_number'};
-my $auth_token    = $ENV{'GITHUB_TOKEN'};
+my $auth_token    = $ENV{'IV_COMMENTS_TOKEN'};
 
 my @these_students = @{$objetivos[$este_objetivo]};
 
@@ -58,6 +58,9 @@ my $request = new HTTP::Request('POST' => $url,
                                  'Accept' =>  'application/vnd.github.v3.raw'
                                 ]);
 $request->content($post_data);
-my $response = $ua->request($request)->as_string() || die "No puedo poner comentario: $@";
+my $response;
+
+eval { $response = $ua->request($request)->as_string() } || set_failed "No puedo poner comentario: $@";
+
 warning($response);
 
