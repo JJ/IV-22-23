@@ -58,6 +58,9 @@ my $request = new HTTP::Request('POST' => $url,
                                  'Accept' =>  'application/vnd.github.v3.raw'
                                 ]);
 $request->content($post_data);
-my $response = $ua->request($request)->as_string() || die "No puedo poner comentario: $@";
+my $response;
+
+eval { $response = $ua->request($request)->as_string() } || set_failed "No puedo poner comentario: $@";
+
 warning($response);
 
