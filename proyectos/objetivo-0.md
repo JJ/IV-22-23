@@ -36,7 +36,7 @@ iniciales.
 | https://github.com/lovelace9981/IV/pull/2 | 1.0 |  ✓ |
 | <!-- Enlace de M S P D --> | | |
 | <!-- Enlace de M M J M --> | | |
-| https://github.com/dmonjasm/IV/pull/1 | v0.0.1 | |
+| https://github.com/dmonjasm/IV/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de santim15 --> | | |
 | <!-- Enlace de M P I --> | | |
 | https://github.com/MauronMP/PMP_IV/pull/2 | v0.0.1 | ✓ |
