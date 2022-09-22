@@ -222,6 +222,6 @@ jobs:
       - name: Fuentes de este repo (para JSON)
         uses: actions/checkout@v2
       - name: Paquete no fatpackeado
-        run: cpan LWP::Protocol::https
+        run: sudo cpan LWP::Protocol::https
       - name: Revisores aleatorios
         run: scripts/random-reviewer
