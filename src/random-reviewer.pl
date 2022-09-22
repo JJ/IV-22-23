@@ -28,7 +28,7 @@ my $este_objetivo = $ENV{'objetivo'} || 0;
 my $user          = $ENV{'user'};
 my $repo          = $ENV{'repo'};
 my $pull_number   = $ENV{'pull_number'};
-my $auth_token    = $ENV{'GITHUB_TOKEN'};
+my $auth_token    = $ENV{'IV_COMMENTS_TOKEN'};
 
 my @these_students = @{$objetivos[$este_objetivo]};
 
