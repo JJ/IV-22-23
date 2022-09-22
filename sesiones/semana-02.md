@@ -19,6 +19,19 @@ estudiantes del año pasado lo entregaron en 5 días.
 Esto presupone la realización del resto de tareas *administrativas*, así que
 todas ellas tendrán que estar al día.
 
+## Estadísticas de objetivoa
+
+```
+ 0 🧮: 33%🚧 16%✅ 49%❌ ⇒
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 1 🧮:  3%🚧  0%✅ 96%❌ ⇒
+     🚧 🚧
+
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+```
+
 ## Objetivos a cubrir en la semana
 
 1. Entender qué implica ejecutar un proyecto que se irá elaborando
