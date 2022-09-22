@@ -50,7 +50,7 @@ iniciales.
 | <!-- Enlace de R B C --> | | |
 | <!-- Enlace de chowfie --> | | |
 | https://github.com/crdelapuente/SmartFood/pull/1 | v0.0.1 | |
-| <!-- Enlace de fjromeero --> | | |
+| https://github.com/fjromeero/MangaForum/pull/1#issue-1382368646 | v0.0.1 | |
 | https://github.com/marcosrmartin/PerroAndaluz/pull/1 |v0.0.1 | | |
 | [Carlos-SE/App-chores/pull/1](https://github.com/Carlos-SE/App-chores/pull/1) | v0.0.1 | |
 | https://github.com/arsa-dev/IV/pull/1 | v0.0.1 | ✓ |
