@@ -7,7 +7,7 @@
 | <!-- Enlace de PacoCP5 --> | | |
 | <!-- Enlace de SixtoCoca --> | | |
 | <!-- Enlace de C V C --> | | |
-| https://github.com/iscoct/cotan/pull/12 | v0.0.1 | |
+| https://github.com/iscoct/cotan/pull/12 | v0.0.1 |  ✓ |
 | <!-- Enlace de D H J M --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de F V J A --> | | |
