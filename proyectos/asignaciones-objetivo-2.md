@@ -2,6 +2,4 @@
 
 | Quien | Trabaja sobre el repo de |
 |------------|---------------------|
-| delightfulagony | arsa-dev       |
-| arsa-dev   | iscoct |
 | iscoct     | delightfulagony |
