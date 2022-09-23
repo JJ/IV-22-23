@@ -55,7 +55,7 @@ my $ua = LWP::UserAgent->new();
 my $request = new HTTP::Request('POST' => $url,
                                 [
                                  'Authorization' => "Bearer $auth_token",
-                                 'Accept' =>  'application/vnd.github.v3.raw'
+                                 'Accept' =>  'application/vnd.github+json'
                                 ]);
 $request->content($post_data);
 my $response;
