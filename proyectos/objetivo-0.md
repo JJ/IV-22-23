@@ -37,7 +37,7 @@ iniciales.
 | <!-- Enlace de M S P D --> | | |
 | <!-- Enlace de M M J M --> | | |
 | https://github.com/dmonjasm/IV/pull/1 | v0.0.1 | ✓ |
-| <!-- Enlace de santim15 --> | | |
+| [<!-- Enlace de santim15 -->](https://github.com/santim15/Aegis/pull/1) | v0.0.1 | |
 | <!-- Enlace de M P I --> | | |
 | https://github.com/MauronMP/PMP_IV/pull/2 | v0.0.1 | ✓ |
 | <!-- Enlace de amogue73 --> | | |
