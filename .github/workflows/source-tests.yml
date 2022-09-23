@@ -210,13 +210,15 @@ jobs:
             }
   random-revisor:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
     needs: [ops-on-pr, ops-on-source, ops-using-API]
     if: needs.ops-on-pr.outputs.objetivo >= 1
     env:
       user: ${{ needs.ops-on-pr.outputs.user }}
       repo: ${{ needs.ops-on-pr.outputs.repo }}
       pull_number: ${{ needs.ops-on-pr.outputs.pull_number }}
-      IV_COMMENTS_TOKEN: ${{ secrets.IV_COMMENTS_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
     steps:
       - name: Fuentes de este repo (para JSON)
