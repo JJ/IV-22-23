@@ -210,8 +210,7 @@ jobs:
             }
   random-revisor:
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
+    permissions: write-all
     needs: [ops-on-pr, ops-on-source, ops-using-API]
     if: needs.ops-on-pr.outputs.objetivo >= 1
     env:
