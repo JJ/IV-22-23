@@ -3,8 +3,8 @@ on:
   pull_request_target:
     paths:
       - "proyectos/*.md"
-  permissions:
-    pull-requests: write
+permissions:
+  pull-requests: write
 jobs:
   ops-on-pr:
     runs-on: ubuntu-latest
