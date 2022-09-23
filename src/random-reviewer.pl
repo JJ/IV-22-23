@@ -29,6 +29,7 @@ my $user          = $ENV{'user'};
 my $repo          = $ENV{'repo'};
 my $pull_number   = $ENV{'pull_number'};
 my $auth_token    = $ENV{'GITHUB_TOKEN'};
+my $pr_number     = $ENV{'this_pr_number'};
 
 my @these_students = @{$objetivos[$este_objetivo]};
 
@@ -45,9 +46,9 @@ for ( my $i = 0; $i < $num_reviewers; $i ++ ) {
   push( @reviewers, "\@".$this_reviewer );
 }
 
-my $data = "⛹ Revisores → ". join(" ", @reviewers);
+my $data = "[🔗](https://github.com/$user/$repo/pull/$pull_number) ⛹ Revisores → ". join(" ", @reviewers);
 my $post_data = sprintf('{"body":"%s"}', $data);
-my $url = sprintf('https://api.github.com/repos/%s/%s/issues/%s/comments', $user, $repo, $pull_number);
+my $url = sprintf('https://api.github.com/repos/JJ/IV-22-23/issues/%s/comments', $this_pr_number);
 
 warning($data);
 
