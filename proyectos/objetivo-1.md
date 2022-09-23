@@ -13,7 +13,7 @@
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de dfolcha --> | | |
-| <!-- Enlace de JaimeGM96 --> | | |
+| https://github.com/JaimeGM96/IV-JGM/pull/2 | v0.1.1 | |
 | <!-- Enlace de fjgallardo00 --> | | |
 | <!-- Enlace de alvarogaro --> | | |
 | <!-- Enlace de Juanmihdz --> | | |
