@@ -24889,7 +24889,7 @@ warning($data);
 my $ua = LWP::UserAgent->new();
 my $request = new HTTP::Request('POST' => $url,
                                 [
-                                 'Authorization' => "token $auth_token",
+                                 'Authorization' => "Bearer $auth_token",
                                  'Accept' =>  'application/vnd.github.v3.raw'
                                 ]);
 $request->content($post_data);
