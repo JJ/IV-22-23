@@ -27,7 +27,7 @@
 | <!-- Enlace de pedromarting3 --> | | |
 | <!-- Enlace de Davidmd00 --> | | |
 | <!-- Enlace de LuisMart7 --> | | |
-| https://github.com/lovelace9981/IV/pull/6  | v1.1 | |
+| https://github.com/lovelace9981/IV/pull/6 | v1.1 | |
 | <!-- Enlace de PabloSpiegel --> | | |
 | <!-- Enlace de M M J M --> | | |
 | <!-- Enlace de dmonjasm --> | | |
