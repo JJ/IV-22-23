@@ -21,7 +21,7 @@ iniciales.
 | <!-- Enlace de F A D --> | | |
 | https://github.com/JaimeGM96/IV-JGM/pull/1 | v0.1 | ✓ |
 | https://github.com/fjgallardo00/Akinah/pull/1 | v0.1 | |
-| https://github.com/alvarogaro/AGR-MVS/pull/1 |v0.1| |
+| https://github.com/alvarogaro/AGR-MVS/pull/1 |v0.1| ✓ |
 | https://github.com/juanmihdz/beFit/pull/1 |v0.0.1 | |
 | <!-- Enlace de martahuetem --> | | |
 | <!-- Enlace de manujurado1 --> | | |
