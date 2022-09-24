@@ -15,7 +15,7 @@ iniciales.
 | <!-- Enlace de C V C --> | | |
 | https://github.com/iscoct/cotan/pull/11 | v0.0.2 | ✓ |
 | <!-- Enlace de D H J M --> | | |
-| https://github.com/MarinoFajardo/ControlaTuGasto/pull/1 | 1.0 |  |
+| https://github.com/MarinoFajardo/ControlaTuGasto/pull/1 | 1.0 |  ✓ |
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de F A D --> | | |
@@ -37,7 +37,7 @@ iniciales.
 | <!-- Enlace de M S P D --> | | |
 | <!-- Enlace de M M J M --> | | |
 | https://github.com/dmonjasm/IV/pull/1 | v0.0.1 | ✓ |
-| [<!-- Enlace de santim15 -->](https://github.com/santim15/Aegis/pull/1) | v0.0.1 | |
+| https://github.com/santim15/Aegis/pull/1 | v0.0.1 | |
 | <!-- Enlace de M P I --> | | |
 | https://github.com/MauronMP/PMP_IV/pull/2 | v0.0.1 | ✓ |
 | <!-- Enlace de amogue73 --> | | |
