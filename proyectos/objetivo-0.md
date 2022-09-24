@@ -56,7 +56,7 @@ iniciales.
 | https://github.com/arsa-dev/IV/pull/1 | v0.0.1 | ✓ |
 | [OchoTumbao/MLEdu](https://github.com/OchoTumbao/MLEdu/pull/1) | v0.0.1 | |
 | https://github.com/RafaelT00/AutoIV/pull/2 | v0.1 | |
-| https://github.com/ignaciotitos/IV---HealthForAll/pull/4 | v0.0.4 | |
+| https://github.com/ignaciotitos/IV---HealthForAll/pull/4 | v0.0.4 | ✓ |
 | https://github.com/luistf24/Trozo-de-panceta/pull/1 | v0.0.1 | |
 | [joseantonio2001/SportZone](https://github.com/joseantonio2001/SportZone/pull/1) | v0.1 | |
 | https://github.com/mariavallejo20/proyecto_mvo/pull/1 | v0.0.1 | |
