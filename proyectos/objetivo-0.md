@@ -51,7 +51,7 @@ iniciales.
 | <!-- Enlace de chowfie --> | | |
 | https://github.com/crdelapuente/SmartFood/pull/1 | v0.0.1 | |
 | https://github.com/fjromeero/MangaForum/pull/1 | v0.0.1 | |
-| https://github.com/marcosrmartin/PerroAndaluz/pull/1 |v0.0.1 | | |
+| https://github.com/marcosrmartin/PerroAndaluz/pull/1 |v0.0.1 | ✓  |
 | [Carlos-SE/App-chores/pull/1](https://github.com/Carlos-SE/App-chores/pull/1) | v0.0.1 | |
 | https://github.com/arsa-dev/IV/pull/1 | v0.0.1 | ✓ |
 | [OchoTumbao/MLEdu](https://github.com/OchoTumbao/MLEdu/pull/1) | v0.0.1 | |
