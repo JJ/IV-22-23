@@ -35,7 +35,7 @@
 | <!-- Enlace de M P I --> | | |
 | https://github.com/MauronMP/PMP_IV/pull/4 | v0.0.2 | |
 | <!-- Enlace de amogue73 --> | | |
-| https://github.com/delightfulagony/oishi/pull/11 | v0.1.0 | |
+| https://github.com/delightfulagony/oishi/pull/11 | v0.1.0 | ✓ |
 | <!-- Enlace de pablo1mc315 --> | | |
 | <!-- Enlace de antoniojesuus --> | | |
 | <!-- Enlace de ottoeprz --> | | |
