@@ -1,10 +1,10 @@
 # Objetivo 0
 
-Añade en la tabla el enlace al PR en *tu* repositorio, siguiendo las
+ Añade en la tabla el enlace al PR en *tu* repositorio, siguiendo las
 instrucciones en [el guión](https://jj.github.io/IV/proyectos/objetivo-0). Usa
 la línea con tu nick de GitHub (si lo has proporcionado). Si no lo has hecho,
 primero ponlo en la hoja de equivalencias y a continuación usa la línea con tus
-iniciales.
+							  iniciales.
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
@@ -57,7 +57,7 @@ iniciales.
 | [OchoTumbao/MLEdu](https://github.com/OchoTumbao/MLEdu/pull/1) | v0.0.1 | |
 | https://github.com/RafaelT00/AutoIV/pull/2 | v0.1 | |
 | https://github.com/ignaciotitos/IV---HealthForAll/pull/4 | v0.0.4 | ✓ |
-| https://github.com/luistf24/Trozo-de-panceta/pull/1 | v0.0.1 | |
+| https://github.com/luistf24/Trozo-de-panceta/pull/1 | v0.0.1 | ✓  |
 | [joseantonio2001/SportZone](https://github.com/joseantonio2001/SportZone/pull/1) | v0.1 | |
 | https://github.com/mariavallejo20/proyecto_mvo/pull/1 | v0.0.1 | |
 | https://github.com/vdeq79/Projecto-XSZ/pull/1 | v0.1 | ✓ |
