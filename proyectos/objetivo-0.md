@@ -24,7 +24,7 @@ primero ponlo en la hoja de equivalencias y a continuación usa la línea con tu
 | https://github.com/alvarogaro/AGR-MVS/pull/1 |v0.1| ✓ |
 | https://github.com/juanmihdz/beFit/pull/1 |v0.0.1 | |
 | <!-- Enlace de martahuetem --> | | |
-| <!-- Enlace de manujurado1 --> | | |
+| https://github.com/manujurado1/SportsBar-IV/pull/1 |v0.1 | |
 | <!-- Enlace de JoseCarlosJC --> | | |
 | https://github.com/albegadel/IV-SLA/pull/1 | v0.0.1| |
 | <!-- Enlace de adrianlc3 --> | | |
