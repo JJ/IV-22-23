@@ -34,7 +34,7 @@ primero ponlo en la hoja de equivalencias y a continuación usa la línea con tu
 | https://github.com/Davidmd00/iv-DMD/pull/3 | v0.0.1 | |
 | https://github.com/LuisMart7/ProBusiness/pull/1 | v0.0.1 | |
 | https://github.com/lovelace9981/IV/pull/2 | 1.0 |  ✓ |
-| <!-- Enlace de M S P D --> | | |
+| [PabloSpiegel/WikiDisp](https://github.com/PabloSpiegel/WikiDisp/pull/1) | v0.0.1 | |
 | <!-- Enlace de M M J M --> | | |
 | https://github.com/dmonjasm/IV/pull/1 | v0.0.1 | ✓ |
 | https://github.com/santim15/Aegis/pull/1 | v0.0.1 | |
