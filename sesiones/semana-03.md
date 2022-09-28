@@ -83,4 +83,4 @@ Agruparemos a los estudiantes en aquellos que hayan superado el objetivo 0, en
 
 ## Siguientes sesiones
 
-[Cuarta semana](semana-04.md)
+[Cuarta semana](semana-04.md). [Semana anterior](semana-02.md)
