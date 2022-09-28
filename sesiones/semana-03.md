@@ -5,7 +5,7 @@ vivamente la asistencia tanto a "teoría" como a "prácticas", para llevar a cab
 los objetivos de la asignatura, en la medida de lo posible, dentro de las horas
 asignadas al mismo.
 
-**Importante** comienza el *hacktoberfest*. Buscad *issues* en GitHub con la
+**Importante** comienza en breve el *hacktoberfest*. Buscad *issues* en GitHub con la
 etiqueta *hacktoberfest* en todo GitHub y referenciarlos al hacer los
 pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 
@@ -24,7 +24,16 @@ Una vez entregado, se debería de haber comenzado ya a trabajar con el objetivo 
 1. Entender cómo se empieza a diseñar el código de una aplicación desde 0.
 2. Entender las mejores prácticas ágiles en este sentido.
 
-## Contenidos
+### Clase dividida, 29 de septiembre
+
+Agruparemos a los estudiantes en aquellos que hayan superado el objetivo 0, en
+  los que lo hayan enviado y no superado y los que no lo hayan enviado; también
+  los que hayan enviado (y no superado) el objetivo 1. Irán
+  rotando en las primeras mesas de la sala e iremos planteando los problemas y
+  resolviéndolos en grupo.
+
+
+## Clase conjunta, 30 de septiembre
 
 * Consejos:
   * Corrige los errores en cuanto que ocurran.
@@ -50,13 +59,18 @@ Una vez entregado, se debería de haber comenzado ya a trabajar con el objetivo 
       nube (y en cualquier otro sitio).
   * Usa toda la documentación adicional que necesites para entender la
     naturaleza del problema, los posibles usuarios (incluyendo, muy importante,
-    el que va a dar pasta para el mismo), los *user journeys* (cómo se va a usar
-    eventualmente la aplicación), y otros conceptos como *épicas*.
-  * Ordena las historias de usuario de forma que te guíen a por dónde empezar en
-    la implementación, y por tanto qué producto mínimamente viable (===
-    milestone) vas a producir o publicar primero.
+    el que va a dar pasta para el mismo).
 
-## Material para la clase
+* Qué es la arquitectura limpia.
+* Organizar el desarrollo del producto en una serie de etapas de [productos
+  mínimamente viables](https://jj.github.io/IV/preso/pmv.html).
+* Entender qué es lo que se pide en el proyecto de la asignatura, y
+  por tanto en el
+  [objetivo del
+  proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura).
+
+
+## Si se ha superado el objetivo 1
 
 * [Planteando un proyecto](https://jj.github.io/curso-tdd/temas/ddd.html)
 * [Descripción de una

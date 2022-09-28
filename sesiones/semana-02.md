@@ -44,7 +44,6 @@ todas ellas tendrán que estar al día.
 * Plantear los problemas que se hayan tenido tengan con el [objetivo
   0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
 
-* Qué es la arquitectura limpia.
 
 ### Clase dividida, 22 de septiembre
 
