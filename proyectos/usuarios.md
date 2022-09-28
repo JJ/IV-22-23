@@ -16,7 +16,7 @@
 | <!-- Enlace de martahuetem --> | | |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de JoseCarlosJC --> | | |
-| <!-- Enlace de L A S --> | | |
+| <!-- Enlace de albegadel --> | | |
 | <!-- Enlace de adrianlc3 --> | | |
 | <!-- Enlace de JesusJMMA --> | | |
 | <!-- Enlace de Gundisalvus2 --> | | |
