@@ -3,3 +3,4 @@
 | Quien | Trabaja sobre el repo de |
 |------------|---------------------|
 | iscoct     | delightfulagony |
+| delightfulagony | jmramirezG |
