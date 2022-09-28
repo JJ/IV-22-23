@@ -11,7 +11,7 @@ primero ponlo en la hoja de equivalencias y a continuación usa la línea con tu
 | [aacosa34/Keikaku](https://github.com/aacosa34/Keikaku/pull/1) | v0.0.1 | ✓ |
 | <!-- Enlace de ArturoAcf --> | | |
 | https://github.com/PacoCP5/proyecto-PCP/pull/1 | v0.0.1 | ✓ |
-| <!-- Enlace de C C S --> | | |
+| https://github.com/SixtoCoca/IV-autoCalen/pull/1 | v0.0.1 | |
 | <!-- Enlace de C V C --> | | |
 | https://github.com/iscoct/cotan/pull/11 | v0.0.2 | ✓ |
 | <!-- Enlace de D H J M --> | | |
