@@ -2,18 +2,18 @@
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| <!-- Enlace de aacosa34 --> | | |
+| [aacosa34/Keikaku/pull/2](https://github.com/aacosa34/Keikaku/pull/2) | v0.1.0 | |
 | <!-- Enlace de ArturoAcf --> | | |
 | <!-- Enlace de PacoCP5 --> | | |
 | <!-- Enlace de SixtoCoca --> | | |
 | <!-- Enlace de C V C --> | | |
-| https://github.com/iscoct/cotan/pull/12 | v0.0.1 | |
+| https://github.com/iscoct/cotan/pull/12 | v0.0.1 |  ✓ |
 | <!-- Enlace de D H J M --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de dfolcha --> | | |
-| <!-- Enlace de JaimeGM96 --> | | |
+| https://github.com/JaimeGM96/IV-JGM/pull/2 | v0.1.1 | |
 | <!-- Enlace de fjgallardo00 --> | | |
 | <!-- Enlace de alvarogaro --> | | |
 | <!-- Enlace de Juanmihdz --> | | |
@@ -27,20 +27,20 @@
 | <!-- Enlace de pedromarting3 --> | | |
 | <!-- Enlace de Davidmd00 --> | | |
 | <!-- Enlace de LuisMart7 --> | | |
-| <!-- Enlace de lovelace9981 --> | | |
+| https://github.com/lovelace9981/IV/pull/6 | v1.1 | |  
 | <!-- Enlace de PabloSpiegel --> | | |
 | <!-- Enlace de M M J M --> | | |
 | <!-- Enlace de dmonjasm --> | | |
 | <!-- Enlace de santim15 --> | | |
 | <!-- Enlace de M P I --> | | |
-| <!-- Enlace de MauronMP --> | | |
+| https://github.com/MauronMP/PMP_IV/pull/4 | v0.0.2 | |
 | <!-- Enlace de amogue73 --> | | |
-| https://github.com/delightfulagony/oishi/pull/11 | v0.1.0 | |
+| https://github.com/delightfulagony/oishi/pull/11 | v0.1.0 | ✓ |
 | <!-- Enlace de pablo1mc315 --> | | |
 | <!-- Enlace de antoniojesuus --> | | |
 | <!-- Enlace de ottoeprz --> | | |
 | <!-- Enlace de danielsp13 --> | | |
-| <!-- Enlace de jmramirezG --> | | |
+| https://github.com/jmramirezG/WhatCook/pull/6 | v0.1.0 | |
 | <!-- Enlace de R B C --> | | |
 | <!-- Enlace de chowfie --> | | |
 | <!-- Enlace de crdelapuente --> | | |

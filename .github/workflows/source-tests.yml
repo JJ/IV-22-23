@@ -3,7 +3,8 @@ on:
   pull_request_target:
     paths:
       - "proyectos/*.md"
-
+permissions:
+  pull-requests: write
 jobs:
   ops-on-pr:
     runs-on: ubuntu-latest
@@ -216,10 +217,13 @@ jobs:
       user: ${{ needs.ops-on-pr.outputs.user }}
       repo: ${{ needs.ops-on-pr.outputs.repo }}
       pull_number: ${{ needs.ops-on-pr.outputs.pull_number }}
-      GITHUB_TOKEN: ${{ secrets.IV_COMMENTS_TOKEN }}
+      this_pr_number: ${{github.event.number}}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
     steps:
       - name: Fuentes de este repo (para JSON)
         uses: actions/checkout@v2
+      - name: Paquete no fatpackeado
+        run: sudo cpan LWP::Protocol::https
       - name: Revisores aleatorios
         run: scripts/random-reviewer

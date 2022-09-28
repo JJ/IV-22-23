@@ -29,6 +29,7 @@ my $user          = $ENV{'user'};
 my $repo          = $ENV{'repo'};
 my $pull_number   = $ENV{'pull_number'};
 my $auth_token    = $ENV{'GITHUB_TOKEN'};
+my $pr_number     = $ENV{'this_pr_number'};
 
 my @these_students = @{$objetivos[$este_objetivo]};
 
@@ -45,19 +46,22 @@ for ( my $i = 0; $i < $num_reviewers; $i ++ ) {
   push( @reviewers, "\@".$this_reviewer );
 }
 
-my $data = "⛹ Revisores → ". join(" ", @reviewers);
+my $data = "[🔗](https://github.com/$user/$repo/pull/$pull_number) ⛹ Revisores → ". join(" ", @reviewers);
 my $post_data = sprintf('{"body":"%s"}', $data);
-my $url = sprintf('https://api.github.com/repos/%s/%s/issues/%s/comments', $user, $repo, $pull_number);
+my $url = sprintf('https://api.github.com/repos/JJ/IV-22-23/issues/%s/comments', $pr_number);
 
 warning($data);
 
 my $ua = LWP::UserAgent->new();
 my $request = new HTTP::Request('POST' => $url,
                                 [
-                                 'Authorization' => "token $auth_token",
-                                 'Accept' =>  'application/vnd.github.v3.raw'
+                                 'Authorization' => "Bearer $auth_token",
+                                 'Accept' =>  'application/vnd.github+json'
                                 ]);
 $request->content($post_data);
-my $response = $ua->request($request)->as_string() || die "No puedo poner comentario: $@";
+my $response;
+
+eval { $response = $ua->request($request)->as_string() } || set_failed "No puedo poner comentario: $@";
+
 warning($response);
 
