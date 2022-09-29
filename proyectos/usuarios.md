@@ -37,7 +37,6 @@
 | <!-- Enlace de ottoeprz --> | | |
 | <!-- Enlace de danielsp13 --> | | |
 | <!-- Enlace de jmramirezG --> | | |
-| <!-- Enlace de R B C --> | | |
 | <!-- Enlace de chowfie --> | | |
 | <!-- Enlace de crdelapuente --> | | |
 | <!-- Enlace de fjromeero --> | | |

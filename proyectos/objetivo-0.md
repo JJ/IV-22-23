@@ -47,7 +47,6 @@ primero ponlo en la hoja de equivalencias y a continuación usa la línea con tu
 | https://github.com/ottoeprz/glowing-engine/pull/1 | v0.0.1 | |
 | <!-- Enlace de danielsp13 --> | | |
 | https://github.com/jmramirezG/WhatCook/pull/1 | v0.0.1 | ✓ |
-| <!-- Enlace de R B C --> | | |
 | https://github.com/chowfie/PROBLEM/pull/5 | v0.0.1 |  ✓ |
 | https://github.com/crdelapuente/SmartFood/pull/1 | v0.0.1 | |
 | https://github.com/fjromeero/MangaForum/pull/1 | v0.0.1 | |
