@@ -47,7 +47,7 @@
 | <!-- Enlace de fjromeero --> | | |
 | https://github.com/marcosrmartin/PerroAndaluz/pull/7 | v0.0.1 | |
 | <!-- Enlace de Carlos-SE --> | | |
-| <!-- Enlace de arsa-dev --> | | |
+| https://github.com/arsa-dev/OMP-Logic/pull/3 | v0.1.1 | |
 | <!-- Enlace de OchoTumbao --> | | |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
