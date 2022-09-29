@@ -47,7 +47,7 @@
 | <!-- Enlace de fjromeero --> | | |
 | <!-- Enlace de marcosrmartin --> | | |
 | <!-- Enlace de Carlos-SE --> | | |
-| <!-- Enlace de arsa-dev --> | | |
+| https://github.com/arsa-dev/OMP-Logic/pull/3 | v0.1.1 | |
 | <!-- Enlace de OchoTumbao --> | | |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
