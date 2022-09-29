@@ -45,7 +45,7 @@
 | <!-- Enlace de chowfie --> | | |
 | <!-- Enlace de crdelapuente --> | | |
 | <!-- Enlace de fjromeero --> | | |
-| <!-- Enlace de marcosrmartin --> | | |
+| https://github.com/marcosrmartin/PerroAndaluz/pull/7 | v0.0.1 | |
 | <!-- Enlace de Carlos-SE --> | | |
 | <!-- Enlace de arsa-dev --> | | |
 | <!-- Enlace de OchoTumbao --> | | |
