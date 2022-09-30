@@ -17,7 +17,7 @@ primero ponlo en la hoja de equivalencias y a continuación usa la línea con tu
 | <!-- Enlace de D H J M --> | | |
 | https://github.com/MarinoFajardo/ControlaTuGasto/pull/1 | 1.0 |  ✓ |
 | <!-- Enlace de F V J A --> | | |
-| <!-- Enlace de pabloFernandezRR --> | | |
+| https://github.com/pabloFernandezRR/IV-22-23/pull/1 | v0.0.1 | |
 | <!-- Enlace de F A D --> | | |
 | https://github.com/JaimeGM96/IV-JGM/pull/1 | v0.1 | ✓ |
 | https://github.com/fjgallardo00/Akinah/pull/1 | v0.1 | |
