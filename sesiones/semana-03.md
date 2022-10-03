@@ -92,6 +92,6 @@ Agruparemos a los estudiantes en aquellos que hayan superado el objetivo 0, en
 
 * [Introducción a diferentes conceptos de infraestructura virtual](http://jj.github.io/IV/documentos/temas/Intro_concepto_y_soporte_fisico)
 
-## Siguientes sesiones
+## Otras sesiones
 
 [Cuarta semana](semana-04.md). [Semana anterior](semana-02.md)
