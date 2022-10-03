@@ -35,7 +35,9 @@ Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
   * Corrige los errores en cuanto que ocurran, tanto en los envíos de PR como en
     las revisiones.
   * Objetivo 0:
-    * Para resolver el problema hay que aportar los datos necesarios. No porque
+    * Para resolver el problema hay que aportar los datos necesarios, es decir,
+      no se debe esperar que el usuario introduzca ningún dato ni que uno
+      introduzca datos aleatorios. *Hay que trabajar con datos reales*. No porque
       sea así en general (aunque ayuda), sino porque procesar datos es lo
       esencial de las aplicaciones de esta asignatura.
     * Piensa en *verdaderos problemas*, no en lo que crees que podría colar en
