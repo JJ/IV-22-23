@@ -43,7 +43,16 @@ Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
 
 ## Material para la clase
 
+* Entender qué es lo que se pide en el proyecto de la asignatura, y
+  por tanto en el
+  [objetivo del
+  proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura).
 
+* [Planteando un proyecto](https://jj.github.io/curso-tdd/temas/ddd.html)
+* [Descripción de una
+  entidad](https://jj.github.io/IV/documentos/proyecto/2.Entidad), según la
+  metodología de *domain driven design*.
+  
 ## Otras sesiones
 
 * [Tercera semana](semana-03.md)
