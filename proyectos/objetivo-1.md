@@ -13,7 +13,7 @@
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de dfolcha --> | | |
-| https://github.com/JaimeGM96/IV-JGM/pull/2 | v0.1.1 | |
+| https://github.com/JaimeGM96/IV-JGM/pull/2 | v0.1.1 | ✓ |
 | <!-- Enlace de fjgallardo00 --> | | |
 | https://github.com/alvarogaro/AGR-MVS/pull/2 |v0.1.1| |
 | <!-- Enlace de Juanmihdz --> | | |
@@ -50,7 +50,7 @@
 | <!-- Enlace de OchoTumbao --> | | |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
-| <!-- Enlace de luistf24 --> | | |
+| https://github.com/luistf24/Trozo-de-panceta/pull/2 | v0.0.3 | |
 | <!-- Enlace de joseantonio2001 --> | | |
 | <!-- Enlace de mariavallejo20 --> | | |
 | https://github.com/vdeq79/Projecto-XSZ/pull/2 | v1.1 | ✓  |
