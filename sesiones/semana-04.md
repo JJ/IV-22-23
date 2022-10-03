@@ -44,6 +44,9 @@ Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
       una práctica donde te preguntaran por problemas a resolver.
   * Objetivo 1:
     * Los productos son entregables. Tienes que describirlos como tales.
+    * Hay que *creerse* que los HUs, issues, hitos y todo eso sirven realmente
+      para poder manejar fácilmente el desarrollo de una aplicación compleja por
+      parte de un equipo de desarrollo.
 
 ## Material para la clase
 
