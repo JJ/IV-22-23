@@ -28,6 +28,8 @@ quien esté trabajando en el objetivo cero todavía.
 
 ## Material para la clase
 
+* Leer [el concepto de *domain driven design*](https://jj.github.io/IV/preso/ddd.html).
+* [Objetivo 2](https://jj.github.io/IV/documentos/proyecto/2.Entidad).
 
 ## Otras sesiones
 

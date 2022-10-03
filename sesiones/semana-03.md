@@ -88,10 +88,6 @@ Agruparemos a los estudiantes en aquellos que hayan superado el objetivo 0, en
   entidad](https://jj.github.io/IV/documentos/proyecto/2.Entidad), según la
   metodología de *domain driven design*.
 
-## Material adicional
-
-* [Introducción a diferentes conceptos de infraestructura virtual](http://jj.github.io/IV/documentos/temas/Intro_concepto_y_soporte_fisico)
-
 ## Otras sesiones
 
 [Cuarta semana](semana-04.md). [Semana anterior](semana-02.md)
