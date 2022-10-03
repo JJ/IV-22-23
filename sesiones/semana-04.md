@@ -19,8 +19,10 @@ el objetivo 1.
 ## Objetivos a cubrir en la sesión
 
 1. Entender cómo se empieza a diseñar el código de una aplicación desde 0.
+2. Entender el flujo HU → hito → issue → mensaje de commit → código y cómo es
+   importante para auto-documentar el código.
 
-### Clase dividida, 29 de septiembre
+### Clase dividida, 6 de octubre
 
 Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
   cero, uno y dos. Irán
