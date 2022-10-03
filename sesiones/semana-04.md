@@ -18,6 +18,8 @@ el objetivo 1.
 
 ## Objetivos a cubrir en la sesión
 
+1. Entender los flujos de trabajo en un repositorio de git. ¿Qué es una rama,
+   qué es un *pull request*, cómo se trabaja en una rama?
 1. Entender cómo se empieza a diseñar el código de una aplicación desde 0.
 2. Entender el flujo HU → hito → issue → mensaje de commit → código y cómo es
    importante para auto-documentar el código.
