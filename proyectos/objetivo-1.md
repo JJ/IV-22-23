@@ -50,7 +50,7 @@
 | <!-- Enlace de OchoTumbao --> | | |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
-| <!-- Enlace de luistf24 --> | | |
+| https://github.com/luistf24/Trozo-de-panceta/pull/2 | v0.0.3 | |
 | <!-- Enlace de joseantonio2001 --> | | |
 | <!-- Enlace de mariavallejo20 --> | | |
 | https://github.com/vdeq79/Projecto-XSZ/pull/2 | v1.1 | ✓  |
