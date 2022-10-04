@@ -7,3 +7,4 @@
 | arsa-dev   | MauronMP |
 | jmramirezG | iscoct |
 | vdeq79 | arsa-dev |
+| MauronMP | JaimeGM96 |
