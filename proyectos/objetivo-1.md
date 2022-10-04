@@ -51,7 +51,7 @@
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
 | https://github.com/luistf24/Trozo-de-panceta/pull/2 | v0.0.3 | |
-| <!-- Enlace de joseantonio2001 --> | | |
+| [joseantonio2001/OlivApp](https://github.com/joseantonio2001/OlivApp/pull/2) | v.0.2 | |
 | <!-- Enlace de mariavallejo20 --> | | |
 | https://github.com/vdeq79/Projecto-XSZ/pull/2 | v1.1 | ✓  |
 
