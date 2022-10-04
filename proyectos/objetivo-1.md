@@ -13,7 +13,7 @@
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de dfolcha --> | | |
-| https://github.com/JaimeGM96/IV-JGM/pull/2 | v0.1.1 | |
+| https://github.com/JaimeGM96/IV-JGM/pull/2 | v0.1.1 | ✓ |
 | <!-- Enlace de fjgallardo00 --> | | |
 | https://github.com/alvarogaro/AGR-MVS/pull/2 |v0.1.1| |
 | <!-- Enlace de Juanmihdz --> | | |
@@ -36,7 +36,7 @@
 | https://github.com/MauronMP/PMP_IV/pull/4 | v0.0.2 | ✓ |
 | <!-- Enlace de amogue73 --> | | |
 | https://github.com/delightfulagony/oishi/pull/11 | v0.1.0 | ✓ |
-| <!-- Enlace de pablo1mc315 --> | | |
+| https://github.com/pablo1mc315/iv_pablomc/pull/2 | v0.0.1 | |
 | <!-- Enlace de antoniojesuus --> | | |
 | <!-- Enlace de ottoeprz --> | | |
 | <!-- Enlace de danielsp13 --> | | |
@@ -50,8 +50,8 @@
 | <!-- Enlace de OchoTumbao --> | | |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
-| <!-- Enlace de luistf24 --> | | |
-| <!-- Enlace de joseantonio2001 --> | | |
+| https://github.com/luistf24/Trozo-de-panceta/pull/2 | v0.0.3 | |
+| [joseantonio2001/OlivApp](https://github.com/joseantonio2001/OlivApp/pull/2) | v.0.2 | |
 | https://github.com/mariavallejo20/proyecto_mvo/pull/2 | v0.0.1 | |
 | https://github.com/vdeq79/Projecto-XSZ/pull/2 | v1.1 | ✓  |
 

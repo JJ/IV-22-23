@@ -18,9 +18,13 @@ el objetivo 1.
 
 ## Objetivos a cubrir en la sesión
 
+1. Entender los flujos de trabajo en un repositorio de git. ¿Qué es una rama,
+   qué es un *pull request*, cómo se trabaja en una rama?
 1. Entender cómo se empieza a diseñar el código de una aplicación desde 0.
+2. Entender el flujo HU → hito → issue → mensaje de commit → código y cómo es
+   importante para auto-documentar el código.
 
-### Clase dividida, 29 de septiembre
+### Clase dividida, 6 de octubre
 
 Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
   cero, uno y dos. Irán
@@ -33,13 +37,18 @@ Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
   * Corrige los errores en cuanto que ocurran, tanto en los envíos de PR como en
     las revisiones.
   * Objetivo 0:
-    * Para resolver el problema hay que aportar los datos necesarios. No porque
+    * Para resolver el problema hay que aportar los datos necesarios, es decir,
+      no se debe esperar que el usuario introduzca ningún dato ni que uno
+      introduzca datos aleatorios. *Hay que trabajar con datos reales*. No porque
       sea así en general (aunque ayuda), sino porque procesar datos es lo
       esencial de las aplicaciones de esta asignatura.
     * Piensa en *verdaderos problemas*, no en lo que crees que podría colar en
       una práctica donde te preguntaran por problemas a resolver.
   * Objetivo 1:
     * Los productos son entregables. Tienes que describirlos como tales.
+    * Hay que *creerse* que los HUs, issues, hitos y todo eso sirven realmente
+      para poder manejar fácilmente el desarrollo de una aplicación compleja por
+      parte de un equipo de desarrollo.
 
 ## Material para la clase
 
