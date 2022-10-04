@@ -6,3 +6,4 @@
 | delightfulagony | jmramirezG |
 | arsa-dev   | MauronMP |
 | jmramirezG | iscoct |
+| vdeq79 | arsa-dev |
