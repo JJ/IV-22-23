@@ -45,7 +45,7 @@ primero ponlo en la hoja de equivalencias y a continuación usa la línea con tu
 | https://github.com/pablo1mc315/iv_pablomc/pull/1 | v0.0.1 | ✓ |
 | https://github.com/antoniojesuus/IV/pull/2 | v0.0.1 | |
 | https://github.com/ottoeprz/glowing-engine/pull/1 | v0.0.1 | |
-| [danielsp13/SuperCatch](https://github.com/danielsp13/SuperCatch/pull/1) | v0.0.1 | |
+| [danielsp13/SuperCatch](https://github.com/danielsp13/SuperCatch/pull/1) | v0.0.1 | ✓ |
 | https://github.com/jmramirezG/WhatCook/pull/1 | v0.0.1 | ✓ |
 | https://github.com/chowfie/PROBLEM/pull/5 | v0.0.1 |  ✓ |
 | https://github.com/crdelapuente/SmartFood/pull/1 | v0.0.1 | |
