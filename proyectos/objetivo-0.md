@@ -20,7 +20,7 @@ primero ponlo en la hoja de equivalencias y a continuación usa la línea con tu
 | https://github.com/pabloFernandezRR/IV-22-23/pull/1 |v 0.0.1 | |
 | <!-- Enlace de F A D --> | | |
 | https://github.com/JaimeGM96/IV-JGM/pull/1 | v0.1 | ✓ |
-| https://github.com/fjgallardo00/Akinah/pull/1 | v0.1 | |
+| https://github.com/fjgallardo00/Akinah/pull/1 | v0.1 | ✓ |
 | https://github.com/alvarogaro/AGR-MVS/pull/1 |v0.1| ✓ |
 | https://github.com/juanmihdz/beFit/pull/1 |v0.0.1 | |
 | https://github.com/martahuetem/IV_HorseMatch/pull/1 |v0.1| ✓ |
