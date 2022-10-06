@@ -30,7 +30,7 @@
 | https://github.com/lovelace9981/IV/pull/6 | v1.1 | |
 | <!-- Enlace de PabloSpiegel --> | | |
 | <!-- Enlace de M M J M --> | | |
-| https://github.com/dmonjasm/RouteCheck/pull/6 | v0.0.1 | |
+| https://github.com/dmonjasm/RouteCheck/pull/6 | v0.0.1 |  ✓ |
 | <!-- Enlace de santim15 --> | | |
 | <!-- Enlace de M P I --> | | |
 | https://github.com/MauronMP/PMP_IV/pull/4 | v0.0.2 | ✓ |
