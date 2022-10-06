@@ -33,6 +33,9 @@ el objetivo 1.
      ❌ ❌ ❌ ❌ ❌ ❌
 ```
 
+Este era [el estado en la semana equivalente el año
+pasado](https://github.com/JJ/IV-21-22/blob/master/sesiones/semana-04.md).
+
 ## Objetivos a cubrir en la sesión
 
 1. Entender los flujos de trabajo en un repositorio de git. ¿Qué es una rama,
