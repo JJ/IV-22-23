@@ -67,7 +67,7 @@ Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
       para poder manejar fácilmente el desarrollo de una aplicación compleja por
       parte de un equipo de desarrollo.
 
-## Material para la clase
+## Material para la clase conjunta, 7 de octubre
 
 * Entender qué es lo que se pide en el proyecto de la asignatura, y
   por tanto en el
