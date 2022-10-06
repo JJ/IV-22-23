@@ -9,7 +9,7 @@
 | <!-- Enlace de C V C --> | | |
 | https://github.com/iscoct/cotan/pull/12 | v0.0.1 |  ✓ |
 | <!-- Enlace de D H J M --> | | |
-| <!-- Enlace de MarinoFajardo --> | | |
+| https://github.com/MarinoFajardo/ControlaTuGasto/pull/5 | | |
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de dfolcha --> | | |
