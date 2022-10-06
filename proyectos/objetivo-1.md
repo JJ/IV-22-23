@@ -4,7 +4,7 @@
 |--------------------------------------------|---------|-----------|
 | [aacosa34/Keikaku/pull/2](https://github.com/aacosa34/Keikaku/pull/2) | v0.1.0 | |
 | <!-- Enlace de ArturoAcf --> | | |
-| <!-- https://github.com/PacoCP5/proyecto-PCP/pull/2 --> | | |
+| <!-- https://github.com/PacoCP5/proyecto-PCP/pull/2 --> | v0.0.2 | |
 | <!-- Enlace de SixtoCoca --> | | |
 | <!-- Enlace de C V C --> | | |
 | https://github.com/iscoct/cotan/pull/12 | v0.0.1 |  ✓ |
