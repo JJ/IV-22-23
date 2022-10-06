@@ -21,10 +21,10 @@ el objetivo 1.
      🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
      ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
      ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
- 1 🧮: 19%🚧 13%✅ 66%❌ ⇒
-     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
-     ✅ ✅ ✅ ✅ ✅ ✅ ✅
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 1 🧮: 15%🚧 21%✅ 62%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
  2 🧮:  1%🚧  0%✅ 98%❌ ⇒
      🚧
 
@@ -69,6 +69,9 @@ Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
     * Hay que *creerse* que los HUs, issues, hitos y todo eso sirven realmente
       para poder manejar fácilmente el desarrollo de una aplicación compleja por
       parte de un equipo de desarrollo.
+    * Revisar los PRs asignados (o cualquier otro) te ayuda a entender mejor ese
+      objetivo, familiarizarte con un repo que se te podría asignar en la
+      siguiente ronda y conseguir crédito adicional.
 
 ## Material para la clase conjunta, 7 de octubre
 
