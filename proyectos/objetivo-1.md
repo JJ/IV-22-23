@@ -4,7 +4,7 @@
 |--------------------------------------------|---------|-----------|
 | [aacosa34/Keikaku/pull/2](https://github.com/aacosa34/Keikaku/pull/2) | v0.1.0 | |
 | <!-- Enlace de ArturoAcf --> | | |
-| <!-- Enlace de PacoCP5 --> | | |
+| <!-- https://github.com/PacoCP5/proyecto-PCP/pull/2 --> | | |
 | <!-- Enlace de SixtoCoca --> | | |
 | <!-- Enlace de C V C --> | | |
 | https://github.com/iscoct/cotan/pull/12 | v0.0.1 |  ✓ |
@@ -36,7 +36,7 @@
 | https://github.com/MauronMP/PMP_IV/pull/4 | v0.0.2 | ✓ |
 | <!-- Enlace de amogue73 --> | | |
 | https://github.com/delightfulagony/oishi/pull/11 | v0.1.0 | ✓ |
-| https://github.com/pablo1mc315/iv_pablomc/pull/2 | v0.0.1 |  ✓ |
+| https://github.com/pablo1mc315/iv_pablomc/pull/2 | v0.0.1 | |
 | <!-- Enlace de antoniojesuus --> | | |
 | <!-- Enlace de ottoeprz --> | | |
 | <!-- Enlace de danielsp13 --> | | |
