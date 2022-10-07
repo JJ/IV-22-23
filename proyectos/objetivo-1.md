@@ -20,7 +20,7 @@
 | <!-- Enlace de martahuetem --> | | |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de JoseCarlosJC --> | | |
-| <!-- Enlace de L A S --> | | |
+| https://github.com/albegadel/IV-SLA/pull/4 |v0.1.1 | |
 | <!-- Enlace de adrianlc3 --> | | |
 | <!-- Enlace de JesusJMMA --> | | |
 | <!-- Enlace de Gundisalvus2 --> | | |
