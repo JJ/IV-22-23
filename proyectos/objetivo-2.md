@@ -7,7 +7,7 @@
 | <!-- Enlace de PacoCP5 --> | | |
 | <!-- Enlace de SixtoCoca --> | | |
 | <!-- Enlace de C V C --> | | |
-| https://github.com/delightfulagony/oishi/pull/24 | 0.0.1 | | 
+| https://github.com/delightfulagony/oishi/pull/24 | 0.0.2 | | 
 | <!-- Enlace de D H J M --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de F V J A --> | | |
