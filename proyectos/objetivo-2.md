@@ -35,7 +35,7 @@
 | <!-- Enlace de M P I --> | | |
 | <!-- Enlace de MauronMP --> | | |
 | <!-- Enlace de amogue73 --> | | |
-| <!-- Enlace de delightfulagony --> | | |
+| https://github.com/jmramirezG/WhatCook/pull/9 | 0.0.1 | |
 | <!-- Enlace de pablo1mc315 --> | | |
 | <!-- Enlace de antoniojesuus --> | | |
 | <!-- Enlace de ottoeprz --> | | |
