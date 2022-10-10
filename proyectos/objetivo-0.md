@@ -32,7 +32,7 @@ primero ponlo en la hoja de equivalencias y a continuación usa la línea con tu
 |  https://github.com/Gundisalvus2/Wind-of-change/pull/1 |v.0.1| ✓ |
 | https://github.com/pedromarting3/OnTime/pull/1 | v0.0.1 | ✓ |
 | https://github.com/Davidmd00/iv-DMD/pull/3 | v0.0.1 | ✓ |
-| https://github.com/LuisMart7/ProBusiness/pull/1 | v0.0.1 | |
+| https://github.com/LuisMart7/ProBusiness/pull/3 | v0.0.2 | |
 | https://github.com/lovelace9981/IV/pull/2 | 1.0 |  ✓ |
 | [PabloSpiegel/WikiDisp](https://github.com/PabloSpiegel/WikiDisp/pull/1) | v0.0.1 | ✓ |
 | <!-- Enlace de M M J M --> | | |
