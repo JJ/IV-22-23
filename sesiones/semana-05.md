@@ -24,7 +24,12 @@ quien esté trabajando en el objetivo cero todavía.
 ### Clase dividida, 29 de septiembre
 
 
-## Contenidos
+## Contenidos clase conjunta
+
+* Errores comunes
+  * Objetivo 1
+    * Las HUs se numeran desde la 1, los milestones desde el 0 (que suele ser un
+    milestone "interno").
 
 ## Material para la clase
 
