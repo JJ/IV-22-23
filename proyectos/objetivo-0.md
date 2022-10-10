@@ -25,7 +25,7 @@ primero ponlo en la hoja de equivalencias y a continuación usa la línea con tu
 | https://github.com/juanmihdz/beFit/pull/1 |v0.0.1 | |
 | https://github.com/martahuetem/IV_HorseMatch/pull/1 |v0.1| ✓ |
 | https://github.com/manujurado1/SportsBar-IV/pull/1 |v0.1 | |
-| https://github.com/JoseCarlosJC/UseTime/pull/1 | v0.0.1 | |
+| https://github.com/JoseCarlosJC/UseTime/pull/1 | v0.0.1 | ✓ |
 | https://github.com/albegadel/IV-SLA/pull/1 | v0.0.1|  ✓|
 | <!-- Enlace de adrianlc3 --> | | |
 | https://github.com/jesusjmma/Proyecto-Infraestructura-Virtual/pull/1 | v0.0.1 | ✓ |
