@@ -43,11 +43,20 @@ Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
 ## Contenidos clase conjunta
 
 * Errores comunes
+  * Todos los objetivos: Ponerse a trabajar en el objetivo siguiente
+    inmediatamente que se apruebe el anterior. Hay que superar un número mínimo
+    de objetivos, y si se deja tiempo puede que se deje ir y finalmente no se
+    tenga tiempo de superar todos los necesarios.
   * Objetivo 1
     * Las HUs se numeran desde la 1, los milestones desde el 0 (que suele ser un
     milestone "interno").
     * Poner "fichero para* no hace automáticamente un producto de un concepto o
       tarea.
+  * Objetivo 2
+    * Si se tiene un repositorio asignado, conviene ponerse a trabajar
+      inmediatamente en él; si no se tiene, alguno de los repositorios que se le
+      hayan asignado para revisar puede ser un buen candidato (siempre que se
+      revise, claro)
 * YAML es un lenguaje de serialización, que representa estructuras de datos
      de forma compacta.
      * Ejemplo [en este repo](../.github/workflows/ficheros.yml).
