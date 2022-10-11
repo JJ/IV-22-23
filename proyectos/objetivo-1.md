@@ -43,7 +43,7 @@
 | https://github.com/jmramirezG/WhatCook/pull/6 | v0.1.0 | ✓ |
 | <!-- Enlace de chowfie --> | | |
 | <!-- Enlace de crdelapuente --> | | |
-| <!-- Enlace de fjromeero --> | | |
+| https://github.com/fjromeero/MusicalFriends/pull/3 | v.0.0.2 | |
 | https://github.com/marcosrmartin/PerroAndaluz/pull/7 | v0.0.1 | ✓ |
 | <!-- Enlace de Carlos-SE --> | | |
 | https://github.com/arsa-dev/OMP-Logic/pull/3 | v0.1.1 |  ✓ |
