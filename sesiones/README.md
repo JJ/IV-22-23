@@ -8,6 +8,8 @@ Si quieres ponerte al día de lo impartido en clase, consulta los objetivos y
 material de la
 sesión que te hayas perdido, o consúltalos por orden cronológico.
 
+* [Quinta semana del curso](semana-05.md).
+* [Cuarta semana del curso](semana-04.md).
 * [Tercera semana del curso](semana-03.md).
 * [Segunda semana del curso](semana-02.md).
 * [Primera semana del curso](semana-01.md).
