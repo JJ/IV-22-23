@@ -47,7 +47,7 @@
 | <!-- Enlace de fjromeero --> | | |
 | <!-- Enlace de marcosrmartin --> | | |
 | <!-- Enlace de Carlos-SE --> | | |
-| https://github.com/MauronMP/PMP_IV/pull/9 | v0.0.3 | |
+| https://github.com/MauronMP/PMP_IV/pull/9 | v0.0.4 | |
 | <!-- Enlace de OchoTumbao --> | | |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
