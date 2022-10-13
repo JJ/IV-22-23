@@ -2,14 +2,14 @@
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| [aacosa34/Keikaku/pull/2](https://github.com/aacosa34/Keikaku/pull/2) | v0.1.0 | |
+| [aacosa34/Keikaku/pull/2](https://github.com/aacosa34/Keikaku/pull/2)| v0.1.0 |  ✓ |
 | <!-- Enlace de ArturoAcf --> | | |
 | https://github.com/PacoCP5/proyecto-PCP/pull/2 | v0.0.2 | |
 | <!-- Enlace de SixtoCoca --> | | |
 | <!-- Enlace de C V C --> | | |
 | https://github.com/iscoct/cotan/pull/12 | v0.0.1 |  ✓ |
 | <!-- Enlace de D H J M --> | | |
-| https://github.com/MarinoFajardo/ControlaTuGasto/pull/5 | | |
+| https://github.com/MarinoFajardo/ControlaTuGasto/pull/5 | | ✓ |
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de dfolcha --> | | |
