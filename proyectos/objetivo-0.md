@@ -59,3 +59,4 @@ primero ponlo en la hoja de equivalencias y a continuación usa la línea con tu
 | [joseantonio2001/SportZone](https://github.com/joseantonio2001/SportZone/pull/1) | v0.1 | ✓ |
 | https://github.com/mariavallejo20/proyecto_mvo/pull/1 | v0.0.1 |✓ |
 | https://github.com/vdeq79/Projecto-XSZ/pull/1 | v0.1 | ✓ |
+| https://github.com/DFolchA/LigaFantasyHelper/pull/1 | v0.1 |   |
