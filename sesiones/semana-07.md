@@ -1,4 +1,4 @@
-# Semana del 17 de octubre
+# Semana del 24 de octubre
 
 **Importante** Continúa el *hacktoberfest*. Buscad *issues* en GitHub con la
 etiqueta *hacktoberfest* en todo GitHub y GitLab. Recordad añadir
@@ -14,7 +14,7 @@ quien esté trabajando en los objetivos cero o uno.
 
 En el curso 2021-22,
 
-* El 10% había entregado ya el [objetivo
+* El 50% había entregado ya el [objetivo
   2](https://jj.github.io/IV/documentos/proyecto/2.Entidad).
 * El 90% ya había entregado el [objetivo
   1](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura).
