@@ -21,6 +21,10 @@ quien esté trabajando en el objetivo cero todavía.
 ## Estado de los objetivos
 
 
+
+Este era [el estado en la semana equivalente el año
+pasado](https://github.com/JJ/IV-21-22/blob/master/sesiones/semana-05.md).
+
 ## Objetivos a cubrir en la sesión
 
 * Entender el papel de la revisión de código en el desarrollo ágil.
