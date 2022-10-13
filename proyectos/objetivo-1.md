@@ -47,7 +47,6 @@
 | https://github.com/marcosrmartin/PerroAndaluz/pull/7 | v0.0.1 | ✓ |
 | [Carlos-SE/App-Chores](https://github.com/Carlos-SE/App-chores/pull/4) | v0.0.2 | |
 | https://github.com/arsa-dev/OMP-Logic/pull/3 | v0.1.1 |  ✓ |
-| <!-- Enlace de OchoTumbao --> | | |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
 | https://github.com/luistf24/Trozo-de-panceta/pull/2 | v0.0.3 |  ✓ |

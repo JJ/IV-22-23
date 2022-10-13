@@ -53,7 +53,6 @@ primero ponlo en la hoja de equivalencias y a continuación usa la línea con tu
 | https://github.com/marcosrmartin/PerroAndaluz/pull/1 |v0.0.1 | ✓  |
 | [Carlos-SE/App-chores/pull/1](https://github.com/Carlos-SE/App-chores/pull/1) | v0.0.1 |✓  |
 | https://github.com/arsa-dev/IV/pull/1 | v0.0.1 | ✓ |
-| [OchoTumbao/MLEdu](https://github.com/OchoTumbao/MLEdu/pull/1) | v0.0.1 | |
 | https://github.com/RafaelT00/AutoIV/pull/2 | v0.1 |  ✓ |
 | https://github.com/ignaciotitos/IV---HealthForAll/pull/4 | v0.0.4 | ✓ |
 | https://github.com/luistf24/Trozo-de-panceta/pull/1 | v0.0.1 | ✓  |
