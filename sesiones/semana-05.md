@@ -61,6 +61,10 @@ Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
       inmediatamente en él; si no se tiene, alguno de los repositorios que se le
       hayan asignado para revisar puede ser un buen candidato (siempre que se
       revise, claro)
+    * Considerar un ámbito demasiado pequeño de aplicación, creando, por
+      ejemplo, un solo objeto valor.
+    * No crear diferentes issues para decidir lo relativo a las estructuras de
+      datos que se implementen.
 * YAML es un lenguaje de serialización, que representa estructuras de datos
      de forma compacta.
      * Ejemplo [en este repo](../.github/workflows/ficheros.yml).
