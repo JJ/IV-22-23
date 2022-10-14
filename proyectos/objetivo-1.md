@@ -26,7 +26,7 @@
 | <!-- Enlace de Gundisalvus2 --> | | |
 | https://github.com/pedromarting3/OnTime/pull/2 | v0.1.1 | ✓ |
 | <!-- Enlace de Davidmd00 --> | | |
-| <!-- Enlace de LuisMart7 --> | | |
+| https://github.com/LuisMart7/ProBusiness/pull/10 | v0.1.1 | |
 | https://github.com/lovelace9981/IV/pull/6 | v1.1 | |
 | <!-- Enlace de PabloSpiegel --> | | |
 | <!-- Enlace de M M J M --> | | |
