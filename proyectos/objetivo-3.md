@@ -1,4 +1,4 @@
-# Objetivo 2
+# Objetivo 3
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
@@ -7,7 +7,7 @@
 | <!-- Enlace de PacoCP5 --> | | |
 | <!-- Enlace de SixtoCoca --> | | |
 | <!-- Enlace de C V C --> | | |
-| https://github.com/delightfulagony/oishi/pull/24 | 0.0.3 | | 
+| <!-- Enlace de iscoct --> | | |
 | <!-- Enlace de D H J M --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de F V J A --> | | |
@@ -35,23 +35,21 @@
 | <!-- Enlace de M P I --> | | |
 | <!-- Enlace de MauronMP --> | | |
 | <!-- Enlace de amogue73 --> | | |
-| https://github.com/jmramirezG/WhatCook/pull/9 | 0.0.2 | |
+| <!-- Enlace de delightfulagony --> | | |
 | <!-- Enlace de pablo1mc315 --> | | |
 | <!-- Enlace de antoniojesuus --> | | |
 | <!-- Enlace de ottoeprz --> | | |
 | <!-- Enlace de danielsp13 --> | | |
 | <!-- Enlace de jmramirezG --> | | |
-| <!-- Enlace de R B C --> | | |
 | <!-- Enlace de chowfie --> | | |
 | <!-- Enlace de crdelapuente --> | | |
 | <!-- Enlace de fjromeero --> | | |
 | <!-- Enlace de marcosrmartin --> | | |
 | <!-- Enlace de Carlos-SE --> | | |
-| https://github.com/MauronMP/PMP_IV/pull/9 | v0.0.4 | ✓ |
+| <!-- Enlace de arsa-dev --> | | |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
 | <!-- Enlace de luistf24 --> | | |
 | <!-- Enlace de joseantonio2001 --> | | |
 | <!-- Enlace de mariavallejo20 --> | | |
 | <!-- Enlace de vdeq79 --> | | |
-
