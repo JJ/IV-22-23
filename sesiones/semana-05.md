@@ -61,7 +61,7 @@ Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
 ## Contenidos clase conjunta
 
 * Errores comunes
-  * Todos los objetivos: Ponerse a trabajar en el objetivo siguiente
+  * Todos los objetivos: No ponerse a trabajar en el objetivo siguiente
     inmediatamente que se apruebe el anterior. Hay que superar un número mínimo
     de objetivos, y si se deja tiempo puede que se deje ir y finalmente no se
     tenga tiempo de superar todos los necesarios.
