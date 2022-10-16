@@ -20,6 +20,32 @@ En el curso 2021-22,
   1](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura).
 * Prácticamente todos habían entregado ya el objetivo 0.
 
+## Clase dividida, 20 de octubre.
+
+Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
+  cero, uno y dos. Irán
+  rotando en las primeras mesas de la sala e iremos planteando los problemas y
+  resolviéndolos en grupo.
+
+## Contenidos clase conjunta
+
+* Errores comunes
+  * Todos los objetivos:
+	* No ponerse a trabajar en el objetivo siguiente
+    inmediatamente que se apruebe el anterior. Hay que superar un número mínimo
+    de objetivos, y si se deja tiempo puede que se deje ir y finalmente no se
+    tenga tiempo de superar todos los necesarios.
+	* Entregar el objetivo justo antes de dejar de trabajar. Puede ser
+      que falle, y eso significa que o bien te enganchas para
+      arreglarlo perdiendo sueño o tiempo de ocio o bien lo dejas
+      hasta la sesión siguiente, olvidándote de cuál es el
+      problema. "Nunca se despliega en viernes", aplicado a la entrega
+      de IV.
+    * Objetivo 1
+      * Poner "fichero para* o "módulo de" no hace automáticamente un
+        producto de un concepto o tarea. Hay que expresar claramente
+        cuál es el producto que se va a entregar y qué lo hace
+        viable.
 
 ## Otras sesiones
 
