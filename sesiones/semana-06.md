@@ -22,6 +22,9 @@ En el curso 2021-22,
 
 ## Clase dividida, 20 de octubre.
 
+* Entender cómo se van construyendo los objetos, clases y módulos en
+[una aplicación](http://jj.github.io/IV/preso/entidad.html).
+
 Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
   cero, uno y dos. Irán
   rotando en las primeras mesas de la sala e iremos planteando los problemas y
@@ -46,6 +49,19 @@ Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
         producto de un concepto o tarea. Hay que expresar claramente
         cuál es el producto que se va a entregar y qué lo hace
         viable.
+
+## Material para la clase
+
+* [Herramientas de construcción, de tareas y
+  similares](http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas#vamos-a-hacer-una-aplicaci%C3%B3n-gestionar-porras-de-f%C3%BAtbol):
+  qué son, para qué sirven, como se usan.
+* [Presentación](https://jj.github.io/IV/preso/gestores-tareas.html).
+
+Guiones de objetivos en vigor:
+
+* [Objetivo 1](https://jj.github.io/IV/documentos/proyecto/1.Infraestructura).
+* [Objetivo 2](https://jj.github.io/IV/documentos/proyecto/2.Entidad).
+* [Objetivo 3: automatización](http://jj.github.io/IV/documentos/proyecto/3.Automatizar)
 
 ## Otras sesiones
 
