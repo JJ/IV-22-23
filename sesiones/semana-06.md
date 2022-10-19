@@ -44,11 +44,15 @@ Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
       hasta la sesión siguiente, olvidándote de cuál es el
       problema. "Nunca se despliega en viernes", aplicado a la entrega
       de IV.
-    * Objetivo 1
-      * Poner "fichero para* o "módulo de" no hace automáticamente un
-        producto de un concepto o tarea. Hay que expresar claramente
-        cuál es el producto que se va a entregar y qué lo hace
-        viable.
+  * Objetivo 1
+    * Poner "fichero para* o "módulo de" no hace automáticamente un
+      producto de un concepto o tarea. Hay que expresar claramente
+      cuál es el producto que se va a entregar y qué lo hace
+      viable.
+    * Lo importante es hacer una planificación del desarrollo de un producto,
+      que se pueda usar inmediatamente (a partir del objetivo 2). Los
+      *milestones*/PMVs son herramientas *reales* que se usan para el desarrollo
+      de productos.
 
 ## Material para la clase
 
