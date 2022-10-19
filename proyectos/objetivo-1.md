@@ -17,13 +17,13 @@
 | https://github.com/fjgallardo00/Akinah/pull/6 | v0.2.1 | |
 | https://github.com/alvarogaro/AGR-MVS/pull/2 |v0.1.1| ✓ |
 | <!-- Enlace de Juanmihdz --> | | |
-| https://github.com/martahuetem/IV_HorseMatch/pull/6 |v.0.0.1 |✓ |
+| https://github.com/martahuetem/IV_HorseMatch/pull/6 |v.0.0.1 | |
 | https://github.com/manujurado1/SportsBar-IV/pull/5 |v.0.1 | |
 | <!-- Enlace de JoseCarlosJC --> | | |
 | https://github.com/albegadel/IV-SLA/pull/4 |v0.1.1 | |
 | <!-- Enlace de adrianlc3 --> | | |
 | <!-- Enlace de JesusJMMA --> | | |
-| <!-- Enlace de Gundisalvus2 --> | | |
+| https://github.com/Gundisalvus2/Wind-of-change/pull/6 | v0.1.0 | |
 | https://github.com/pedromarting3/OnTime/pull/2 | v0.1.1 | ✓ |
 | https://github.com/Davidmd00/iv-DMD/pull/7 | v0.1.1| |
 | https://github.com/LuisMart7/ProBusiness/pull/10 | v0.1.1 | |
