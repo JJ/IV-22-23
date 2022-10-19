@@ -13,7 +13,7 @@
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de dfolcha --> | | |
-| <!-- Enlace de JaimeGM96 --> | | |
+| https://github.com/pedromarting3/OnTime/pull/8 | v0.2.2 | |
 | <!-- Enlace de fjgallardo00 --> | | |
 | <!-- Enlace de alvarogaro --> | | |
 | <!-- Enlace de Juanmihdz --> | | |
