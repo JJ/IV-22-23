@@ -22,6 +22,8 @@ En el curso 2021-22,
 
 ## Clase dividida, 20 de octubre.
 
+* Entender bien el objetivo 1: concepto de producto, la secuenciación de los
+  *milestones*, qué son las historias de usuario.
 * Entender cómo se van construyendo los objetos, clases y módulos en
 [una aplicación](http://jj.github.io/IV/preso/entidad.html).
 
@@ -45,6 +47,10 @@ Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
       problema. "Nunca se despliega en viernes", aplicado a la entrega
       de IV.
   * Objetivo 1
+    * Prácticamente nadie está revisando objetivos de otras personas. No vas a
+      conseguir la misma nota que si te pones a hacerlo cuando superes todos los
+      objetivos y necesites esos puntos adicionales para aprobar. Además, ahora
+      es cuando es más necesario para todo el mundo entender los conceptos básicos.
     * Poner "fichero para* o "módulo de" no hace automáticamente un
       producto de un concepto o tarea. Hay que expresar claramente
       cuál es el producto que se va a entregar y qué lo hace
