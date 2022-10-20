@@ -59,6 +59,14 @@ Agruparemos a los estudiantes en aquellos que estén trabajando en el objetivo
       que se pueda usar inmediatamente (a partir del objetivo 2). Los
       *milestones*/PMVs son herramientas *reales* que se usan para el desarrollo
       de productos.
+  * Objetivo 2:
+	* La metodología domain driven design es esencial para obtener un
+	modelo del problema sobre el que se pueda aplicar la lógica de
+	negocio.
+	* Los issues plantean problemas para entender el modelo y para
+      plasmar el modelo en estructuras de datos.
+	* El código se desarrolla siempre refiriéndose a los issues
+      anteriores.
 
 ## Material para la clase
 
