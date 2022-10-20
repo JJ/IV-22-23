@@ -28,7 +28,7 @@
 | https://github.com/Davidmd00/iv-DMD/pull/7 | v0.1.1| |
 | https://github.com/LuisMart7/ProBusiness/pull/10 | v0.1.1 | |
 | https://github.com/lovelace9981/IV/pull/6 | v1.1 | |
-| <!-- Enlace de PabloSpiegel --> | | |
+| [PabloSpiegel/WikiDisp](https://github.com/PabloSpiegel/WikiDisp/pull/1) | v0.0.2 | |
 | <!-- Enlace de M M J M --> | | |
 | https://github.com/dmonjasm/RouteCheck/pull/6 | v0.0.1 |  ✓ |
 | <!-- Enlace de santim15 --> | | |
