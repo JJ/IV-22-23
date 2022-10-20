@@ -39,7 +39,7 @@
 | https://github.com/pablo1mc315/iv_pablomc/pull/2 | v0.0.1 | ✓  |
 | <!-- Enlace de antoniojesuus --> | | |
 | <!-- Enlace de ottoeprz --> | | |
-| <!-- Enlace de danielsp13 --> | | |
+| https://github.com/danielsp13/SuperCatch/pull/8) | v0.0.2 | |
 | https://github.com/jmramirezG/WhatCook/pull/6 | v0.1.0 | ✓ |
 | <!-- Enlace de chowfie --> | | |
 | <!-- Enlace de crdelapuente --> | | |
