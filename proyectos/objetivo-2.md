@@ -53,5 +53,5 @@
 | <!-- Enlace de luistf24 --> | | |
 | <!-- Enlace de joseantonio2001 --> | | |
 | <!-- Enlace de mariavallejo20 --> | | |
-| https://github.com/arsa-dev/OMP-Logic/pull/10 | v2.1 | |
+| https://github.com/arsa-dev/OMP-Logic/pull/10 | v2.2 | |
 
