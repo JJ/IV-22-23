@@ -50,7 +50,7 @@
 | https://github.com/RafaelT00/AutoIV/pull/6 | v0.1.1 | |
 | [Ignacio Titos -- It's my time?](https://github.com/ignaciotitos/IV---HealthForAll/pull/8) | v0.0.2 | |
 | https://github.com/luistf24/Trozo-de-panceta/pull/2 | v0.0.3 |  ✓ |
-| [joseantonio2001/OlivApp](https://github.com/joseantonio2001/OlivApp/pull/2) | v.0.2 | |
+| [joseantonio2001/OlivApp](https://github.com/joseantonio2001/OlivApp/pull/2) | v.0.2 |✓ |
 | https://github.com/mariavallejo20/proyecto_mvo/pull/2 | v0.0.1 |  ✓ |
 | https://github.com/vdeq79/Projecto-XSZ/pull/2 | v1.1 | ✓  |
 
