@@ -20,6 +20,13 @@ En el curso 2021-22,
   1](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura).
 * Prácticamente todos habían entregado ya el objetivo 0.
 
+## Objetivos
+
+1. Entender el flujo HU → hito → issue → mensaje de commit → código y cómo es
+   importante para auto-documentar el código.
+2. Comprender el papel de las buenas prácticas y metodologías en la ingeniería
+   del software.
+
 ## Clase dividida, 20 de octubre.
 
 * Entender bien el objetivo 1: concepto de producto, la secuenciación de los
