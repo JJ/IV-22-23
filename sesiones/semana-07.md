@@ -28,6 +28,6 @@ asignatura para la convocatoria extraordinaria.
 
 ## Otras sesiones
 
-* [Quinta semana](semana-06.md)
-* [Séptima semana](semana-08.md)
+* [Sexta semana](semana-06.md)
+* [Octava semana](semana-08.md)
 
