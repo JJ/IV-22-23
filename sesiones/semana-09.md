@@ -1,4 +1,4 @@
-# Semana del 24 de octubre
+# Semana del 7 de Noviembre
 
 ## Antes de la clase
 

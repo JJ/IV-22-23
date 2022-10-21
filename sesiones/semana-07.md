@@ -17,7 +17,8 @@ En el curso 2021-22,
 * El 50% había entregado ya el [objetivo
   2](https://jj.github.io/IV/documentos/proyecto/2.Entidad).
 * El 90% ya había entregado el [objetivo
-  1](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura).
+  1](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura), y el 50% lo
+  había superado.
 
 
 Todas las *personas que aprobaron* habían superado el objetivo 0. Si todavía no
