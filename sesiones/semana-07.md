@@ -18,11 +18,16 @@ En el curso 2021-22,
   2](https://jj.github.io/IV/documentos/proyecto/2.Entidad).
 * El 90% ya había entregado el [objetivo
   1](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura).
-* Prácticamente todos habían entregado ya el objetivo 0.
+
+
+Todas las *personas que aprobaron* habían superado el objetivo 0. Si todavía no
+has superado el objetivo 0, aconsejamos que te planifiques el resto de la
+asignatura para la convocatoria extraordinaria.
+
 
 
 ## Otras sesiones
 
-* [Quinta semana](semana-05.md)
-* [Séptima semana](semana-07.md)
+* [Quinta semana](semana-06.md)
+* [Séptima semana](semana-08.md)
 
