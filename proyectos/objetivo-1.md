@@ -23,7 +23,7 @@
 | https://github.com/albegadel/IV-SLA/pull/4 |v0.1.1 | |
 | <!-- Enlace de adrianlc3 --> | | |
 | <!-- Enlace de JesusJMMA --> | | |
-| <!-- Enlace de Gundisalvus2 --> | | |
+| https://github.com/Gundisalvus2/Wind-of-change/pull/6 | v0.1.2 | |
 | https://github.com/pedromarting3/OnTime/pull/2 | v0.1.1 | ✓ |
 | https://github.com/Davidmd00/iv-DMD/pull/7 | v0.1.1| |
 | https://github.com/LuisMart7/ProBusiness/pull/10 | v0.1.1 | |
