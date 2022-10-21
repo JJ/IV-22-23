@@ -1,4 +1,4 @@
-name: "Genera fichero de objetivos cumplidos"
+name: "Genera ficheros de datos"
 on:
   push:
     branches:
@@ -24,7 +24,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Cache para las distros instaladas
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         id: meta6
         with:
           path: /home/raku/.raku/
@@ -35,12 +35,14 @@ jobs:
         run:  HOME=/home/raku zef install --deps-only .
       - name: Genera JSON
         run: raku -Ilib scripts/iv-objetivos.raku > data/objetivos.json
+      - name: Genera fechas de entrega
+        run: raku -Ilib scripts/iv-fechas-csv.raku > data/fechas-entrega.csv
       - name: Sube JSON actualizado
         run: |
           if [ -n "$(git status -s)" ]; then
               git config --global user.email "jjmerelo@gmail.com"
               git config --global user.name "IVDataBot"
-              git commit -am "Actualiza JSON"
+              git commit -am ":arrow_up: Actualiza datos"
               git push
           else
               echo "🟏 No ha habido cambios"
