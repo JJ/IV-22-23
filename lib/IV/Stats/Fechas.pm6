@@ -28,7 +28,7 @@ submethod BUILD( :@!fechas-entregas) {}
 
 method new() {
     my @student-list = lista-estudiantes();
-    my $file-history = Git::File::History.new(:files("proyectos/objetivo-*.md"));
+    my $file-history = Git::File::History.new(:glob("proyectos/objetivo-*.md"));
     my @fechas-entregas;
     for glob( "proyectos/objetivo-*.md" ).sort: { $^a cmp $^b} -> $f {
         my ($objetivo) := $f ~~ /(\d+)/;
