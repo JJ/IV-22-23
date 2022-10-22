@@ -23,7 +23,9 @@ En el curso 2021-22,
 
 Todas las *personas que aprobaron* habían superado el objetivo 0. Si todavía no
 has superado el objetivo 0, aconsejamos que te planifiques el resto de la
-asignatura para la convocatoria extraordinaria.
+asignatura para la [convocatoria
+extraordinaria](instrucciones-ordinaria-extraordinaria.md).
+
 
 ## Errores comunes (para referencia)
 
