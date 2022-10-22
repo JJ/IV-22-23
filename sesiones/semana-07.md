@@ -27,6 +27,14 @@ asignatura para la convocatoria extraordinaria.
 
 ## Errores comunes (para referencia)
 
+Es importante que recordéis que **hay que superar hasta el objetivo 5 para aprobar la
+asignatura**, en la convocatoria ordinaria o la extraordinaria. El estudiante
+tendrá que acomodar su ritmo de trabajo a este plan, ya que los objetivos se
+pueden entregar cuando se desee, con la salvedad de que hay que entregarlos de
+forma secuencial. Por lo tanto, un *error común* es no haber entregado, a estas
+alturas, el objetivo 2 tras haber superado el uno (tan común como el 88% de la
+clase).
+
 * Todos los objetivos a partir del 1
   * El repositorio debe describir un proyecto, no entregas de una asignatura. Se
     deben evitar referencias a "objetivos", porque los objetivos son etapas que
