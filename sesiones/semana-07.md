@@ -36,6 +36,14 @@ asignatura para la convocatoria extraordinaria.
   * Evitar incluir en el PR cambios o ediciones que correspondan a mejoras del
     objetivo anterior. El PR debe incluir sólo lo necesario para superar el
     objetivo que se esté evaluando.
+* Objetivo 1
+  * En general, cada milestone/PMV corresponde a un paso en el desarrollo de un
+    producto. En el caso de nuestra asignatura, están condensados. Pero
+    *siempre* hay que empezar por entender el problema haciendo un modelo del
+    mismo, usando la metodología de *design thinking* o algún otro enfoque
+    sistemático que pase del dominio del problema a la implementación. Sin este
+    modelo (cuyo producto tendrá que tener la forma de código, que además
+    compile), no se puede pasar al milestone siguiente.
 
 ## Otras sesiones
 
