@@ -33,6 +33,9 @@ asignatura para la convocatoria extraordinaria.
     hay que cubrir en el proyecto. En todo caso, debería organizarse la
     documentación en milestones, pero lo correcto es organizarla para que una
     persona que quiera usar el proyecto en el estado actual pueda hacerlo.
+  * Evitar incluir en el PR cambios o ediciones que correspondan a mejoras del
+    objetivo anterior. El PR debe incluir sólo lo necesario para superar el
+    objetivo que se esté evaluando.
 
 ## Otras sesiones
 
