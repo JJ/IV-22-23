@@ -35,7 +35,7 @@ jobs:
       rama: ${{ needs.ops-on-pr.outputs.rama }}
     steps:
       - name: Descarga fuente
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           repository: ${{env.checkout_repo}}
           ref: ${{env.rama}}
@@ -66,9 +66,9 @@ jobs:
       rama: ${{ needs.ops-on-pr.outputs.rama }}
     steps:
       - name: Descarga fuente
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Comprueba que el PR está asignado a un milestone
-        uses: actions/github-script@v4
+        uses: actions/github-script@v5
         if: ${{env.objetivo >= 2}}
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
@@ -81,7 +81,7 @@ jobs:
                 console.log( all_good(`PR asignado al milestone ${milestone}`))
             }
       - name: Comprueba hitos desde el 1
-        uses: actions/github-script@v4
+        uses: actions/github-script@v5
         if: ${{ env.objetivo >= 1 }}
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
@@ -165,7 +165,7 @@ jobs:
             }
       - name: Comprueba el estado de CI
         if: ${{env.objetivo >= 6 }}
-        uses: actions/github-script@v4
+        uses: actions/github-script@v5
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
@@ -222,7 +222,7 @@ jobs:
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
     steps:
       - name: Fuentes de este repo (para JSON)
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Paquete no fatpackeado
         run: sudo cpan LWP::Protocol::https
       - name: Revisores aleatorios
