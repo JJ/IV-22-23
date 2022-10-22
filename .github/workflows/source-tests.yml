@@ -91,7 +91,7 @@ jobs:
             const repo = process.env.repo
             const objetivo = process.env.objetivo
             console.log( objetivo_msg(1) )
-            const milestones = await github.issues.listMilestones( { owner: user, repo: repo } )
+            const milestones = await github.rest.issues.listMilestones( { owner: user, repo: repo } )
             if ( ! milestones.data.length ) {
                 core.setFailed( sorry( "Tiene que haber por lo menos un milestone") )
             }
@@ -110,7 +110,7 @@ jobs:
                 core.setFailed( sorry("No hay ningún issue en tus milestones"))
             }
 
-            const non_paginated_issues = await github.issues.listForRepo.endpoint.merge( { owner: user, repo: repo, state: 'all' })
+            const non_paginated_issues = await github.rest.issues.listForRepo.endpoint.merge( { owner: user, repo: repo, state: 'all' })
             const issues = await github.paginate( non_paginated_issues )
             const hus = issues.filter( issue => issue.title.match(/^\[HU/) )
             if ( !hus.length ) {
