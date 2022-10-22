@@ -25,7 +25,14 @@ Todas las *personas que aprobaron* habían superado el objetivo 0. Si todavía n
 has superado el objetivo 0, aconsejamos que te planifiques el resto de la
 asignatura para la convocatoria extraordinaria.
 
+## Errores comunes (para referencia)
 
+* Todos los objetivos a partir del 1
+  * El repositorio debe describir un proyecto, no entregas de una asignatura. Se
+    deben evitar referencias a "objetivos", porque los objetivos son etapas que
+    hay que cubrir en el proyecto. En todo caso, debería organizarse la
+    documentación en milestones, pero lo correcto es organizarla para que una
+    persona que quiera usar el proyecto en el estado actual pueda hacerlo.
 
 ## Otras sesiones
 
