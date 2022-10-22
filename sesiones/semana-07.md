@@ -45,6 +45,20 @@ forma secuencial. Por lo tanto, un *error común* es no haber entregado, a estas
 alturas, el objetivo 2 tras haber superado el uno (tan común como el 88% de la
 clase).
 
+* Todos los objetivos:
+  * No corregir inmediatamente los errores de test que se produzcan al hacer la
+    entrega.
+  * No entender que la columna de versión está precisamente para relanzar los
+    tests en caso de que se haya corregido en el repositorio propio el error que
+    haya ocurrido.
+  * No corregir con más o menos celeridad el objetivo cuando se hace la
+    corrección por el profesor, en todo caso antes de la siguiente sesión. Y si
+    todavía no se ha logrado corregir, no ir a clase para poder solucionar el
+    problema sobre la marcha. El plazo medio transcurrido entre entrega y
+    superación del objetivo en el 21-22 era de unos 4 días. Este año es de 6
+    días.
+![Tiempo entre entrega y superacion, 21-22 vs 22-23](entrega-superacion.jpg)
+
 * Todos los objetivos a partir del 1
   * El repositorio debe describir un proyecto, no entregas de una asignatura. Se
     deben evitar referencias a "objetivos", porque los objetivos son etapas que
