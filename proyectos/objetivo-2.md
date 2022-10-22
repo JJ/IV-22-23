@@ -2,7 +2,7 @@
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| <!-- Enlace de aacosa34 --> | | |
+| [luistf24/Trozo-de-panceta/pull/17](https://github.com/luistf24/Trozo-de-panceta/pull/17) | 0.2.3 | |
 | <!-- Enlace de ArturoAcf --> | | |
 | <!-- Enlace de PacoCP5 --> | | |
 | <!-- Enlace de SixtoCoca --> | | |
