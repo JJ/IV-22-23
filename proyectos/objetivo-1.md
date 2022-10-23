@@ -22,7 +22,7 @@
 | <!-- Enlace de JoseCarlosJC --> | | |
 | https://github.com/albegadel/IV-SLA/pull/4 |v0.1.1 | |
 | <!-- Enlace de adrianlc3 --> | | |
-| https://github.com/jesusjmma/Proyecto-Infraestructura-Virtual/pull/5 | v0.1.2 | | 
+| https://github.com/jesusjmma/Proyecto-Infraestructura-Virtual/pull/5 | v0.1.2 |✓|
 | https://github.com/Gundisalvus2/Wind-of-change/pull/6 | v0.1.2 | |
 | https://github.com/pedromarting3/OnTime/pull/2 | v0.1.1 | ✓ |
 | https://github.com/Davidmd00/iv-DMD/pull/7 | v0.1.1| |
