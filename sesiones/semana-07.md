@@ -76,6 +76,8 @@ clase).
     sistemático que pase del dominio del problema a la implementación. Sin este
     modelo (cuyo producto tendrá que tener la forma de código, que además
     compile), no se puede pasar al milestone siguiente.
+  * Hay que identificar claramente al cliente, porque para esa persona o grupo
+    se escribe la historia de usuario.
 
 ## Otras sesiones
 
