@@ -35,6 +35,11 @@ Por lo que sería *extremadamente conveniente* que en planificara la finalizaci�
 de los objetivos anteriores y la entrega del 3 *lo antes posible* y siempre
 antes de la **semana número 12** (principios de diciembre).
 
+## Objetivos
+
+1. Entender el flujo HU → hito → issue → mensaje de commit → código y cómo es
+   importante para auto-documentar el código.
+
 ## Errores comunes (para referencia)
 
 Es importante que recordéis que **hay que superar hasta el objetivo 5 para aprobar la
@@ -78,6 +83,9 @@ clase).
     compile), no se puede pasar al milestone siguiente.
   * Hay que identificar claramente al cliente, porque para esa persona o grupo
     se escribe la historia de usuario.
+* Objetivo 2: en este objetivo se trata, en general, de entender la metodología
+  por la cual sólo se añade código si lo necesita el cliente. Conviene repasar
+  el objetivo número 1 de esta semana (y de las anteriores).
 
 ## Otras sesiones
 
