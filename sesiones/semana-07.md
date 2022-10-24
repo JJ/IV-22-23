@@ -26,7 +26,7 @@ has superado el objetivo 0, aconsejamos que te planifiques el resto de la
 asignatura para la [convocatoria
 extraordinaria](instrucciones-ordinaria-extraordinaria.md).
 
-Por otro lado, la probabilidad de aprobar en la convocatoria extraordinaria
+Por otro lado, la probabilidad de aprobar en la convocatoria ordinaria (enero)
 según la semana de *entrega* del objetivo 3 sigue el siguiente gráfico
 
 ![Probabilidad vs. semana](probabilidad-aprobar-ordinaria-vs-semana.png)
