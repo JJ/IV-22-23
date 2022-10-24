@@ -40,7 +40,7 @@
 | <!-- Enlace de antoniojesuus --> | | |
 | <!-- Enlace de ottoeprz --> | | |
 | <!-- Enlace de danielsp13 --> | | |
-| <!-- Enlace de jmramirezG --> | | |
+| https://github.com/iscoct/cotan/pull/20 | v0.0.2 | |
 | <!-- Enlace de chowfie --> | | |
 | <!-- Enlace de crdelapuente --> | | |
 | <!-- Enlace de fjromeero --> | | |
