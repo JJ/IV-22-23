@@ -24,7 +24,7 @@
 | <!-- Enlace de adrianlc3 --> | | |
 | <!-- Enlace de JesusJMMA --> | | |
 | <!-- Enlace de Gundisalvus2 --> | | |
-| <!-- Enlace de pedromarting3 --> | | |
+| https://github.com/pablo1mc315/iv_pablomc/pull/7 | v0.1.2 | |
 | <!-- Enlace de Davidmd00 --> | | |
 | <!-- Enlace de LuisMart7 --> | | |
 | <!-- Enlace de lovelace9981 --> | | |
