@@ -20,7 +20,6 @@ En el curso 2021-22,
   1](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura), y el 50% lo
   había superado.
 
-
 Todas las *personas que aprobaron* habían superado el objetivo 0. Si todavía no
 has superado el objetivo 0, aconsejamos que te planifiques el resto de la
 asignatura para la [convocatoria
@@ -31,14 +30,27 @@ según la semana de *entrega* del objetivo 3 sigue el siguiente gráfico
 
 ![Probabilidad vs. semana](probabilidad-aprobar-ordinaria-vs-semana.png)
 
-Por lo que sería *extremadamente conveniente* que en planificara la finalización
+Por lo que sería *extremadamente conveniente* que se planificara la finalización
 de los objetivos anteriores y la entrega del 3 *lo antes posible* y siempre
 antes de la **semana número 12** (principios de diciembre).
+
+## Estado de los objetivos
+
+```
+```
+
+
+Este era [el estado en la semana equivalente el año
+pasado](https://github.com/JJ/IV-21-22/blob/master/sesiones/semana-07.md).
 
 ## Objetivos
 
 1. Entender el flujo HU → hito → issue → mensaje de commit → código y cómo es
    importante para auto-documentar el código.
+2. Comprender el concepto de "configuración como código" en el contexto de la
+   infraestructura virtual de un producto informático.
+3. Entender el proceso de toma de decisiones en el contexto de un proyecto y
+   cómo documentarlo.
 
 ## Errores comunes (para referencia)
 
@@ -98,6 +110,19 @@ clase).
     imaginados a partir de una historia de usuario y *proponer* unas estructuras
     de datos sin ninguna relación con el problema ni la lógica de negocio.
 * Objetivo 3: No haberlo entregado.
+
+## Material para la clase
+
+* [Herramientas de construcción, de tareas y
+  similares](http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas#vamos-a-hacer-una-aplicaci%C3%B3n-gestionar-porras-de-f%C3%BAtbol):
+  qué son, para qué sirven, como se usan.
+* [Presentación](https://jj.github.io/IV/preso/gestores-tareas.html).
+
+Guiones de objetivos en vigor:
+
+* [Objetivo 1](https://jj.github.io/IV/documentos/proyecto/1.Infraestructura).
+* [Objetivo 2](https://jj.github.io/IV/documentos/proyecto/2.Entidad).
+* [Objetivo 3: automatización](http://jj.github.io/IV/documentos/proyecto/3.Automatizar)
 
 ## Otras sesiones
 
