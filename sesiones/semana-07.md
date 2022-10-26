@@ -109,6 +109,11 @@ clase).
   * El *error más frecuente* es tomar los diferentes objetos descritos o
     imaginados a partir de una historia de usuario y *proponer* unas estructuras
     de datos sin ninguna relación con el problema ni la lógica de negocio.
+  * No se *proponen* estructuras que el propietario tiene que *aprobar*. Se
+    plantean en issues un modelo del problema de acuerdo con las historias de
+    usuario, y se hace un PR que, ese sí, se debe aprobar. Lo principal de este
+    objetivo es *entender* el problema, no *hacer ficheros* (ver también arriba
+    las claves del objetivo 1).
 * Objetivo 3: No haberlo entregado.
 
 ## Material para la clase
