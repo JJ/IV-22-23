@@ -114,6 +114,9 @@ clase).
     usuario, y se hace un PR que, ese sí, se debe aprobar. Lo principal de este
     objetivo es *entender* el problema, no *hacer ficheros* (ver también arriba
     las claves del objetivo 1).
+  * Revisar las especificaciones del fichero `iv.yaml` y poner todo lo que hay
+    que poner.
+  * La persona propietaria del repo tiene que asignar el PR a un milestone.
 * Objetivo 3: No haberlo entregado.
 
 ## Material para la clase
