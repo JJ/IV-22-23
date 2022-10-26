@@ -86,6 +86,18 @@ clase).
 * Objetivo 2: en este objetivo se trata, en general, de entender la metodología
   por la cual sólo se añade código si lo necesita el cliente. Conviene repasar
   el objetivo número 1 de esta semana (y de las anteriores).
+  * Lo esencial en este objetivo es modelizar el problema, lo que estará en el
+    milestone 0 del repositorio en el que se trabaje. Este milestone tendrá
+    designada al menos una historia de usuario. Hay que empezar creando una
+    serie de issues a partir de esa historia de usuario para entender
+    exactamente qué es lo que necesita la lógica de negocio.
+  * Los mensajes de commit deben hacer referencia a estos objetivos creados,
+    porque todo lo que se añada al repo debe estar en relación con el beneficio
+    del cliente.
+  * El *error más frecuente* es tomar los diferentes objetos descritos o
+    imaginados a partir de una historia de usuario y *proponer* unas estructuras
+    de datos sin ninguna relación con el problema ni la lógica de negocio.
+* Objetivo 3: No haberlo entregado.
 
 ## Otras sesiones
 
