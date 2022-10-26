@@ -4,7 +4,7 @@
 |--------------------------------------------|---------|-----------|
 | [luistf24/Trozo-de-panceta/pull/17](https://github.com/luistf24/Trozo-de-panceta/pull/17) | 0.2.3 | |
 | <!-- Enlace de ArturoAcf --> | | |
-| <!-- Enlace de PacoCP5 --> | | |
+| <!-- https://github.com/MarinoFajardo/ControlaTuGasto/pull/7 --> | v0.0.1 | |
 | <!-- Enlace de SixtoCoca --> | | |
 | <!-- Enlace de C V C --> | | |
 | https://github.com/delightfulagony/oishi/pull/24 | 0.0.3 | ✓ |
