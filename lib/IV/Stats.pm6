@@ -18,7 +18,6 @@ my @cumplimiento=[.05,.075, .15, .075, .15, 0.05, 0.05, 0.1, 0.1, 0.1, 0.1 ];
 
 method new( Str $file = "proyectos/usuarios.md") {
     my @student-list = lista-estudiantes( $file );
-    say @student-list;
     my %students;
     my @objetivos;
     my @entregas;

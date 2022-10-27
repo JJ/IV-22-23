@@ -41,6 +41,7 @@ method new() {
             for %estado-objetivos.kv -> $estudiante, $estado {
                 my $estado-actual =
                         @fechas-entregas[$objetivo]{$estudiante}<entrega>;
+                say "$estudiante, $estado";
                 given $estado {
                     when ENVIADO {
                         if !$estado-actual {
@@ -63,6 +64,7 @@ method new() {
                         }
                     }
                 }
+                say @fechas-entregas[$objetivo]{$estudiante};
             }
         }
     }
@@ -83,7 +85,7 @@ method to-CSV() {
                 my $dato = %datos{$e} // "";
                 $fila ~= "$dato;";
             }
-            if %datos<incompleto> {
+            if ( %datos<incompleto> || ! %datos<corregido> ) {
                 $fila ~= "Incompleto";
             } else {
                 $fila ~= "Completo";
