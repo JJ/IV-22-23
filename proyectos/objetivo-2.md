@@ -51,6 +51,6 @@
 | <!-- Enlace de ignaciotitos --> | | |
 | https://github.com/Carlos-SE/App-chores/pull/10 | v0.0.6 | |
 | <!-- Enlace de joseantonio2001 --> | | |
-| https://github.com/PacoCP5/proyecto-PCP/pull/10 | v0.0.2 | |
+| https://github.com/PacoCP5/proyecto-PCP/pull/10 | v0.0.3 | |
 | https://github.com/arsa-dev/OMP-Logic/pull/10 | v2.3 | ✓ |
 
