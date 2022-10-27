@@ -1,5 +1,10 @@
 # Repositorio de clase de Infraestructura Virtual de la [ETSIIT](https://etsiit.ugr.es)
 
+> Este repositorio está añadido al
+  [Hacktoberfest](https://hacktoberfest.com). Puedes ayudar mirando
+  los diferentes documentos, sobre todo sobre sesiones semanales, y
+  ayudar con errores de enlaces o aportando de cualquier otra
+  forma. También se agradecen cambios a los workflows de CI que se usan.
 
 Repositorio para el material específico de cada clase, planificación y ejercicios.
 
@@ -9,6 +14,6 @@ Repositorio para el material específico de cada clase, planificación y ejercic
 * Comienza con [la programación y objetivos de las diferentes sesiones de la asignatura](sesiones/README.md).
 * Las entregas de los diferentes objetivos se hacen mediante pull requests a
   ficheros en [este directorio](proyectos). Lee [las
-  instrucciones](proyectos/README.md) para hacerlo correctamente, y resolver los 
+  instrucciones](proyectos/README.md) para hacerlo correctamente, y resolver los
   conflictos que puedan surgir.
 
