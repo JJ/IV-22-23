@@ -17,7 +17,7 @@
 | <!-- Enlace de fjgallardo00 --> | | |
 | <!-- Enlace de alvarogaro --> | | |
 | <!-- Enlace de Juanmihdz --> | | |
-| https://github.com/mariavallejo20/proyecto_mvo/pull/11 | v0.0.1 | |
+| https://github.com/mariavallejo20/proyecto_mvo/pull/11 | v0.0.2 | |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de JoseCarlosJC --> | | |
 | <!-- Enlace de albegadel --> | | |
