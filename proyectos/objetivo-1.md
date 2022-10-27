@@ -41,7 +41,7 @@
 | <!-- Enlace de ottoeprz --> | | |
 | https://github.com/danielsp13/SuperCatch/pull/8) | v0.0.2 | ✓ |
 | https://github.com/jmramirezG/WhatCook/pull/6 | v0.1.0 | ✓ |
-| https://github.com/chowfie/PROBLEM/pull/8 | v.0.0.3| |
+| https://github.com/chowfie/PROBLEM/pull/8 | v.0.0.4| |
 | <!-- Enlace de crdelapuente --> | | |
 | https://github.com/fjromeero/MusicalFriends/pull/3 | v.0.0.2 | ✓ |
 | https://github.com/marcosrmartin/PerroAndaluz/pull/7 | v0.0.1 | ✓ |
