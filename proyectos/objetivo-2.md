@@ -24,7 +24,7 @@
 | <!-- Enlace de adrianlc3 --> | | |
 | <!-- Enlace de JesusJMMA --> | | |
 | <!-- Enlace de Gundisalvus2 --> | | |
-| https://github.com/pablo1mc315/iv_pablomc/pull/7 | v0.1.2 | |
+| https://github.com/pablo1mc315/iv_pablomc/pull/7 | v0.1.2 | ✓ |
 | <!-- Enlace de Davidmd00 --> | | |
 | <!-- Enlace de LuisMart7 --> | | |
 | <!-- Enlace de lovelace9981 --> | | |
@@ -35,7 +35,7 @@
 | <!-- Enlace de M P I --> | | |
 | https://github.com/JaimeGM96/IV-JGM/pull/6 | v0.2.2 | |
 | <!-- Enlace de amogue73 --> | | |
-| https://github.com/jmramirezG/WhatCook/pull/9 | 0.0.2 | |
+| https://github.com/jmramirezG/WhatCook/pull/9 | 0.0.2 |  ✓ |
 | https://github.com/alvarogaro/AGR-MVS/pull/5 | 0.0.3 | |
 | <!-- Enlace de antoniojesuus --> | | |
 | <!-- Enlace de ottoeprz --> | | |
