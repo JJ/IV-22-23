@@ -50,7 +50,7 @@
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
 | https://github.com/Carlos-SE/App-chores/pull/10 | v0.0.6 | |
-| <!-- Enlace de joseantonio2001 --> | | |
+| (https://github.com/martahuetem/IV_HorseMatch/pull/7) | v0.0.1 | |
 | https://github.com/PacoCP5/proyecto-PCP/pull/10 | v0.0.5 | |
 | https://github.com/arsa-dev/OMP-Logic/pull/10 | v2.3 | ✓ |
 
