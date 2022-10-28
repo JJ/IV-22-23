@@ -8,7 +8,7 @@ sub estado-objetivos( @student-list, $contenido, $objetivo ) is export {
     my @contenido = $contenido.split("\n").grep(/"|"/)[2..*];
     my %estados;
     my %asignaciones = asignaciones-objetivo2();
-    for @contenido.kv -> $index, $linea {
+    for @contenido -> $linea {
         my $usuario;
         next unless $linea ~~ /github/;
         $linea ~~ /"github.com/" $<usuario> = (\S+?) "/"/;
