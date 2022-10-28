@@ -16,6 +16,18 @@ has @!entregas;
 
 my @cumplimiento=[.05,.075, .15, .075, .15, 0.05, 0.05, 0.1, 0.1, 0.1, 0.1 ];
 
+
+sub asignaciones-objetivo2()  is export returns associative {
+    my @asignaciones = "proyectos/asignaciones-objetivo-2.md".IO.lines[4 ..*];
+
+    my %asignaciones;
+    for @asignaciones -> $line {
+        my ($programador,$product-manager) = $line.split(/\s* "|" \s*/)[1, 2];
+        %asignaciones{$product-manager} = $programador;
+    }
+    return %asignaciones;
+}
+
 method new( Str $file = "proyectos/usuarios.md") {
     my @student-list = lista-estudiantes( $file );
     my %students;
