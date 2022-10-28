@@ -22,7 +22,6 @@ sub estado-objetivos( @student-list, $contenido, $objetivo ) is export {
         } elsif  $marca ~~ /"✗"/  {
             %estados{$usuario} = INCOMPLETO;
         } elsif  $marca ~~ /"github.com"/  {
-            say "$usuario $marca";
             %estados{$usuario} = ENVIADO
         }
     }
