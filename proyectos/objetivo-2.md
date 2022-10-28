@@ -33,7 +33,7 @@
 | <!-- Enlace de dmonjasm --> | | |
 | <!-- Enlace de santim15 --> | | |
 | <!-- Enlace de M P I --> | | |
-| https://github.com/JaimeGM96/IV-JGM/pull/6 | v0.2.2 | |
+| https://github.com/JaimeGM96/IV-JGM/pull/6 | v0.2.2 |  ✓ |
 | <!-- Enlace de amogue73 --> | | |
 | https://github.com/jmramirezG/WhatCook/pull/9 | 0.0.2 | ✓ |
 | https://github.com/alvarogaro/AGR-MVS/pull/5 | 0.0.3 | ✓ |
