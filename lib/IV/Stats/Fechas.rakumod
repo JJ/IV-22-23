@@ -4,16 +4,25 @@ use IV::Stats;
 
 enum Estados is export <CUMPLIDO ENVIADO INCOMPLETO NINGUNO>;
 
-sub estado-objetivos( @student-list, $contenido) is export {
+sub estado-objetivos( @student-list, $contenido, $objetivo ) is export {
     my @contenido = $contenido.split("\n").grep(/"|"/)[2..*];
     my %estados;
-    for @student-list.kv -> $index, $usuario {
-        my $marca = @contenido[$index] // "";
+    for @contenido.kv -> $index, $linea {
+        my $usuario;
+        next unless $linea ~~ /github/;
+        if ( $objetivo == 2 ) {
+            $usuario = @student-list[$index]
+        } else {
+            $linea ~~ /"github.com/" $<usuario> = (\S+?) "/"/;
+            $usuario = $<usuario>;
+        }
+        my $marca = $linea // "";
         if  $marca  ~~  /"✓"/ {
             %estados{$usuario} = CUMPLIDO;
         } elsif  $marca ~~ /"✗"/  {
             %estados{$usuario} = INCOMPLETO;
         } elsif  $marca ~~ /"github.com"/  {
+            say "$usuario $marca";
             %estados{$usuario} = ENVIADO
         }
     }
@@ -37,11 +46,10 @@ method new() {
             my $this-version = %file-version<state>;
             my $fecha = %file-version<date>;
             my %estado-objetivos = estado-objetivos( @student-list,
-                    $this-version);
+                    $this-version, $objetivo);
             for %estado-objetivos.kv -> $estudiante, $estado {
                 my $estado-actual =
                         @fechas-entregas[$objetivo]{$estudiante}<entrega>;
-                say "$estudiante, $estado";
                 given $estado {
                     when ENVIADO {
                         if !$estado-actual {
@@ -64,7 +72,6 @@ method new() {
                         }
                     }
                 }
-                say @fechas-entregas[$objetivo]{$estudiante};
             }
         }
     }
