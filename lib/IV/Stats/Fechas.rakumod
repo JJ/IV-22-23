@@ -79,11 +79,13 @@ method to-CSV() {
     my $csv = "Objetivo;Estudiante;Entrega;Correccion;Incompleto";
     for @!fechas-entregas.kv -> $o, %fechas {
         next unless %fechas;
-        my %sorted-by-date = %fechas.sort: {
-            Date.new(%^a{'entrega'}) <=> Date.new(%^b{'entrega'})
-        };
-        say %sorted-by-date;
-        for %sorted-by-date.kv -> $estudiante, %datos  {
+        my @por-fecha = %fechas.keys.sort:
+                {
+                    DateTime.new(%fechas{$^a}<entrega>)
+                            <=> DateTime.new(%fechas{$^b}<entrega>)
+                };
+        for @por-fecha -> $estudiante {
+            my %datos = %fechas{$estudiante};
             my $fila = "\n$o; $estudiante;";
             for <entrega corregido> -> $e {
                 my $dato = %datos{$e} // "";
