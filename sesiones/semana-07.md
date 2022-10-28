@@ -111,6 +111,11 @@ clase).
 * Objetivo 2: en este objetivo se trata, en general, de entender la metodología
   por la cual sólo se añade código si lo necesita el cliente. Conviene repasar
   el objetivo número 1 de esta semana (y de las anteriores).
+  * Empezamos con el nefasto fenómeno de "hago esto porque se lo he
+    visto al compañero/a". En este caso, con la clave sintácticamente incorrecta
+    "objetos valor" en el `iv.yaml`. Hay tolerancia 0 con la
+    copia. Si seguís con este tipo de prácticas ateneros a las
+    consecuencias.
   * Lo esencial en este objetivo es modelizar el problema, lo que estará en el
     milestone 0 del repositorio en el que se trabaje. Este milestone tendrá
     designada al menos una historia de usuario. Hay que empezar creando una
@@ -129,7 +134,15 @@ clase).
     las claves del objetivo 1).
   * Revisar las especificaciones del fichero `iv.yaml` y poner todo lo que hay
     que poner.
-  * La persona propietaria del repo tiene que asignar el PR a un milestone.
+  * La persona propietaria del repo tiene que asignar el PR a un
+    milestone.
+  * Otro error frecuente de la persona que maneja el repositorio:
+    decirle a quien programa que hay que hacer. Esto no es una
+    práctica de una asignatura, no es un *mandao*. La persona que
+    programa tiene que resolver el problema que esté en un issue. No
+    hay que *mandarle* ni *imponerle* una solución. El *product
+    manager* tiene que limitarse a aclarar qué es lo que se va a usar
+    en la lógica de negocio.
 * Objetivo 3: No haberlo entregado.
 
 ## Material para la clase
