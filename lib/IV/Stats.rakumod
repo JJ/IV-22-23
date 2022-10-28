@@ -17,7 +17,7 @@ has @!entregas;
 my @cumplimiento=[.05,.075, .15, .075, .15, 0.05, 0.05, 0.1, 0.1, 0.1, 0.1 ];
 
 
-sub asignaciones-objetivo2()  is export returns associative {
+sub asignaciones-objetivo2()  is export returns Associative {
     my @asignaciones = "proyectos/asignaciones-objetivo-2.md".IO.lines[4 ..*];
 
     my %asignaciones;

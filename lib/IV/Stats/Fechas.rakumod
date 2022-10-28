@@ -7,14 +7,14 @@ enum Estados is export <CUMPLIDO ENVIADO INCOMPLETO NINGUNO>;
 sub estado-objetivos( @student-list, $contenido, $objetivo ) is export {
     my @contenido = $contenido.split("\n").grep(/"|"/)[2..*];
     my %estados;
+    my %asignaciones = asignaciones-objetivo2();
     for @contenido.kv -> $index, $linea {
         my $usuario;
         next unless $linea ~~ /github/;
+        $linea ~~ /"github.com/" $<usuario> = (\S+?) "/"/;
+        $usuario = $<usuario>;
         if ( $objetivo == 2 ) {
-            $usuario = @student-list[$index]
-        } else {
-            $linea ~~ /"github.com/" $<usuario> = (\S+?) "/"/;
-            $usuario = $<usuario>;
+            $usuario = %asignaciones{$<usuario>}
         }
         my $marca = $linea // "";
         if  $marca  ~~  /"✓"/ {
