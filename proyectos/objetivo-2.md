@@ -9,7 +9,7 @@
 | <!-- Enlace de C V C --> | | |
 | https://github.com/delightfulagony/oishi/pull/24 | 0.0.3 | ✓ |
 | <!-- Enlace de D H J M --> | | |
-| <!-- Enlace de MarinoFajardo --> | | |
+| https://github.com/aacosa34/Keikaku/pull/10 | v.0.0.1 | |
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de dfolcha --> | | |
