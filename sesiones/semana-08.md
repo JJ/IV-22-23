@@ -10,6 +10,18 @@ asignatura para la convocatoria extraordinaria.
 
 ## Errores frecuentes
 
+### Todos los objetivos
+
+* La lista de comprobación está para guiar al estudiante sobre lo que
+hay que hacer; es, efectivamente, algo que tienes que comprobar para
+saber si lo que has hecho está bien o no. Si lo has hecho, se
+agradecer (para quien revise) una breve explicación. Si lo que pide no
+se ha llevado a cabo, debes tratar de ver qué es lo que no entiendes
+y rehacer el trabajo (o hacer lo que no se ha hecho), porque *no so
+optativas*.
+	* En todo caso, puedes entregar el objetivo y dejar que el revisor
+      o revisores te guien para mejorarlo, como es natural.
+
 ### objetivo 3
   * La infraestructura también forma parte de la planificación, y se merece un issue.
   * *Siempre* se trabaja hacia un producto mínimamente viable, así que ese issue
@@ -22,6 +34,6 @@ asignatura para la convocatoria extraordinaria.
 
 ## Otras sesiones
 
-* [Sexta semana](semana-06.md)
-* [Octava semana](semana-08.md)
+* [Séptima semana](semana-07.md)
+* [Novena semana](semana-09.md)
 
