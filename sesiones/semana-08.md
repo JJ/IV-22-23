@@ -4,13 +4,44 @@
 
 ## Antes de la clase
 
-Todas las *personas que aprobaron* habían superado el objetivo 0. Si todavía no
-has superado el objetivo 0, aconsejamos que te planifiques el resto de la
-asignatura para la convocatoria extraordinaria.
+Todas las *personas que aprobaron en la convocatoria ordinaria* habían
+superado el objetivo 0.
+
+> Si todavía no has superado el objetivo 0, aconsejamos que te
+planifiques el resto de la asignatura para la convocatoria
+extraordinaria.
+
+## Objetivos
+
+1. Entender el flujo HU → hito → issue → mensaje de commit → código y cómo es
+   importante para auto-documentar el código y para aportar valor al
+   cliente.
+2. Entender cómo el diseño dirigido por dominio ayuda a modelizar un
+   problema y convertirlo en estructuras de datos que ayuden a resolverlo.
 
 ## Errores frecuentes
 
+Si no has interiorizado los objetivos de aprendizaje señalados en las
+sesiones correspondientes, y a menudo repetidos, simplemente, *no vas
+a conseguir hacerlo bien*. Así que aprende primero, escribe
+después. En desarrollo de software, es conveniente primero pensar y
+luego programar (o escribir).
+
 ### Todos los objetivos
+
+* El problema principal es que, en muchos casos, no se da ninguna
+  importancia ni a la documentación, ni a lo explicado en clase, ni a
+  estas notas sobre errores frecuentes (si te estás leyendo esto, te
+  felicito: serás uno de los pocos que lo haga). De esta forma, se
+  evitan todos los posibles objetivos de aprendizaje, mirando *qué es
+  lo que hay que escribir ahí* o *qué es lo que quiere que ponga*. Lo
+  único que se consigue con esto es perder el tiempo tanto empleado en
+  "poner" algo equivocado como el del profesor que necesita corregirlo
+  (y pedirte que mires estas notas).  Lo que *quiero que se ponga* es
+  que me muestres, en la práctica, que se han interiorizado una serie
+  de buenas prácticas en el desarrollo de software, y las
+  explicaciones que se hacen van encaminadas a que entendáis cuales
+  son esas buenas prácticas.
 
 * La lista de comprobación está para guiar al estudiante sobre lo que
 hay que hacer; es, efectivamente, algo que tienes que comprobar para
@@ -22,7 +53,18 @@ optativas*.
 	* En todo caso, puedes entregar el objetivo y dejar que el revisor
       o revisores te guien para mejorarlo, como es natural.
 
-### objetivo 3
+### Objetivo 2
+
+* El principal error es tomar una palabra o palabras de las que se
+  mencionan en las HUs o el milestone, y "proponer" una estructura que
+  esté relacionada con esas palabras de forma más o menos vaga. Esto
+  es un error. Las estructuras de datos se "proponen" en el PR, y lo
+  que tienen que plantear los issues es un problema: cómo hacer un
+  modelo de algún o algunos artefactos, objetos o entidades que sirvan
+  para la lógica de negocio (y que se resuelven en el PR usando domain
+  driven design).
+
+### Objetivo 3
   * La infraestructura también forma parte de la planificación, y se merece un issue.
   * *Siempre* se trabaja hacia un producto mínimamente viable, así que ese issue
     debe estar en el milestone correspondiente.
