@@ -19,7 +19,7 @@
 | <!-- Enlace de Juanmihdz --> | | |
 | https://github.com/martahuetem/IV_HorseMatch/pull/6 |v.0.0.1 |✓ |
 | https://github.com/manujurado1/SportsBar-IV/pull/5 |v.0.1 | |
-| https://github.com/JoseCarlosJC/UseTime/pull/6 |v0.1.1 | 2e0f3cf |
+| https://github.com/JoseCarlosJC/UseTime/pull/6 |v0.1.1 |✓ |
 | https://github.com/albegadel/IV-SLA/pull/4 |v0.1.1 | |
 | <!-- Enlace de adrianlc3 --> | | |
 | https://github.com/jesusjmma/Proyecto-Infraestructura-Virtual/pull/5 | v0.1.2 |✓|
