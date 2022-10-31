@@ -63,8 +63,14 @@ optativas*.
   modelo de algún o algunos artefactos, objetos o entidades que sirvan
   para la lógica de negocio (y que se resuelven en el PR usando domain
   driven design).
+* Los mensajes de commit deben ser informativos de qué decisiones se han tomado
+  y por qué. "Cambio este fichero" "Actualizo #xx" no ayudan a nada.
 
 ### Objetivo 3
+  * Si no han terminado el objetivo 2 en vuestro repositorio, `git checkout
+    objetivo-2 iv.yaml src/entidad.js`, donde `objetivo-2` será el nombre de la
+    rama del otro usuario, y `src/entidad.js` el nombre del fichero que se
+    mencione en dicho fichero.
   * La infraestructura también forma parte de la planificación, y se merece un issue.
   * *Siempre* se trabaja hacia un producto mínimamente viable, así que ese issue
     debe estar en el milestone correspondiente.
