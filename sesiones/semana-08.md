@@ -53,6 +53,12 @@ optativas*.
 	* En todo caso, puedes entregar el objetivo y dejar que el revisor
       o revisores te guien para mejorarlo, como es natural.
 
+* Incluir cambios que tenían que haberse hecho antes del PR, añadiendo ruido al
+  mismo y ocultando los cambios reales que hay que revisar.
+* Los milestones no se pueden dejar a medias; es decir, no se pueden empezar a
+  asignar PRs a un milestone x+1 si no se han llevado a cabo todos los issues
+  del x.
+
 ### Objetivo 2
 
 * El principal error es tomar una palabra o palabras de las que se
@@ -78,7 +84,11 @@ optativas*.
     completa, hay que indicar qué criterios se han seguido para establecerla.
   * Los criterios de elección de una herramienta u otra deben ser objetivos.
   * *Siempre* hay que seguir las mejores prácticas que haya en un momento
-    determinado para esta parte del *toolchain* del lenguaje que se haya elegido.
+    determinado para esta parte del *toolchain* del lenguaje que se haya
+    elegido.
+  * Hay que pensar a qué milestone se asigna, siguiendo lo indicado en los
+    errores frecuentes arriba, pero también teniendo en cuenta para qué sirve la
+    tarea que se va a programar.
 
 ## Otras sesiones
 
