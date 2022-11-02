@@ -61,6 +61,14 @@ optativas*.
   asignar PRs a un milestone x+1 si no se han llevado a cabo todos los issues
   del x.
 
+### Objetivo 1
+
+* No sé quién se inventó lo del *modelo de datos*, pero es cuestión de que lo/la
+  eliminéis del grupo de WhatsApp/Telegram correspondiente o simplemente dejéis
+  de hacerle caso. En general, es una práctica nefasta tratar de alcanzar el
+  objetivo sin entender lo que se está escribiendo o siquiera tratar de
+  entenderlo.
+
 ### Objetivo 2
 
 * El principal error es tomar una palabra o palabras de las que se
