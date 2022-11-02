@@ -157,6 +157,7 @@ Guiones de objetivos en vigor:
 * [Objetivo 1](https://jj.github.io/IV/documentos/proyecto/1.Infraestructura).
 * [Objetivo 2](https://jj.github.io/IV/documentos/proyecto/2.Entidad).
 * [Objetivo 3: automatización](http://jj.github.io/IV/documentos/proyecto/3.Automatizar)
+* [Objetivo 4: tests](https://jj.github.io/IV/documentos/proyecto/4.Tests)
 
 ## Otras sesiones
 

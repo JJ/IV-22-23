@@ -18,8 +18,11 @@ extraordinaria.
    cliente.
 2. Entender cómo el diseño dirigido por dominio ayuda a modelizar un
    problema y convertirlo en estructuras de datos que ayuden a resolverlo.
+2. Entender el ciclo de vida de una aplicación en la nube y cómo encaja la
+   gestión de dependencias dentro del mismo.
 3. Entender qué es un gestor de dependencias y cómo se usa en el concepto de la
    programación actual.
+
 
 ## Errores frecuentes
 
