@@ -18,6 +18,8 @@ extraordinaria.
    cliente.
 2. Entender cómo el diseño dirigido por dominio ayuda a modelizar un
    problema y convertirlo en estructuras de datos que ayuden a resolverlo.
+3. Entender qué es un gestor de dependencias y cómo se usa en el concepto de la
+   programación actual.
 
 ## Errores frecuentes
 
@@ -77,6 +79,8 @@ optativas*.
     objetivo-2 iv.yaml src/entidad.js`, donde `objetivo-2` será el nombre de la
     rama del otro usuario, y `src/entidad.js` el nombre del fichero que se
     mencione en dicho fichero.
+  * Para elegir un gestor de dependencias tienes primero que entender qué es un
+    gestor de dependencias.
   * La infraestructura también forma parte de la planificación, y se merece un issue.
   * *Siempre* se trabaja hacia un producto mínimamente viable, así que ese issue
     debe estar en el milestone correspondiente.
