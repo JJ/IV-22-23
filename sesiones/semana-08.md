@@ -45,7 +45,7 @@ luego programar (o escribir).
   explicaciones que se hacen van encaminadas a que entendáis cuales
   son esas buenas prácticas.
 
-* La lista de comprobación está para guiar al estudiante sobre lo que
+* La **lista de comprobación** está para guiar al estudiante sobre lo que
 hay que hacer; es, efectivamente, algo que tienes que comprobar para
 saber si lo que has hecho está bien o no. Si lo has hecho, se
 agradecer (para quien revise) una breve explicación. Si lo que pide no
@@ -101,6 +101,21 @@ optativas*.
   * Hay que pensar a qué milestone se asigna, siguiendo lo indicado en los
     errores frecuentes arriba, pero también teniendo en cuenta para qué sirve la
     tarea que se va a programar.
+  * No ejecutar `* check` para ver si funciona.
+
+## Material para la clase
+
+* [Presentación](https://jj.github.io/IV/preso/gestores-dependencias.html).
+* [Herramientas de construcción, de tareas y
+  similares](http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas#vamos-a-hacer-una-aplicaci%C3%B3n-gestionar-porras-de-f%C3%BAtbol):
+  qué son, para qué sirven, como se usan.
+* [Presentación](https://jj.github.io/IV/preso/gestores-tareas.html).
+
+Guiones de objetivos en vigor:
+
+* [Objetivo 1](https://jj.github.io/IV/documentos/proyecto/1.Infraestructura).
+* [Objetivo 2](https://jj.github.io/IV/documentos/proyecto/2.Entidad).
+* [Objetivo 3: automatización](http://jj.github.io/IV/documentos/proyecto/3.Automatizar)
 
 ## Otras sesiones
 
