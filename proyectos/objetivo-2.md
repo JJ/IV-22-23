@@ -30,7 +30,7 @@
 | <!-- Enlace de lovelace9981 --> | | |
 | <!-- Enlace de PabloSpiegel --> | | |
 | <!-- Enlace de M M J M --> | | |
-| <!-- Enlace de dmonjasm --> | | |
+| https://github.com/vdeq79/Projecto-XSZ/pull/14 | v0.1.0 | |
 | <!-- Enlace de santim15 --> | | |
 | <!-- Enlace de M P I --> | | |
 | https://github.com/JaimeGM96/IV-JGM/pull/6 | v0.2.2 |  ✓ |
