@@ -44,7 +44,7 @@
 | <!-- Enlace de chowfie --> | | |
 | <!-- Enlace de crdelapuente --> | | |
 | <!-- Enlace de fjromeero --> | | |
-| <!-- Enlace de marcosrmartin --> | | |
+|https://github.com/marcosrmartin/PerroAndaluz/pull/14|v0.0.2| |
 | <!-- Enlace de Carlos-SE --> | | |
 | https://github.com/MauronMP/PMP_IV/pull/9 | v0.0.4 | ✓ |
 | <!-- Enlace de RafaelT00 --> | | |
