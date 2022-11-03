@@ -15,7 +15,7 @@
 | <!-- Enlace de dfolcha --> | | |
 | https://github.com/pedromarting3/OnTime/pull/8 | v0.2.2 | |
 | <!-- Enlace de fjgallardo00 --> | | |
-| <!-- Enlace de alvarogaro --> | | |
+| https://github.com/marcosrmartin/PerroAndaluz/pull/14 | v0.0.2 | |
 | <!-- Enlace de Juanmihdz --> | | |
 | https://github.com/mariavallejo20/proyecto_mvo/pull/11 | v0.0.2 | |
 | <!-- Enlace de manujurado1 --> | | |
@@ -44,7 +44,7 @@
 | <!-- Enlace de chowfie --> | | |
 | <!-- Enlace de crdelapuente --> | | |
 | <!-- Enlace de fjromeero --> | | |
-|https://github.com/marcosrmartin/PerroAndaluz/pull/14|v0.0.2| |
+| <!-- Enlace de marcosrmartin --> | | |
 | <!-- Enlace de Carlos-SE --> | | |
 | https://github.com/MauronMP/PMP_IV/pull/9 | v0.0.4 | ✓ |
 | <!-- Enlace de RafaelT00 --> | | |
