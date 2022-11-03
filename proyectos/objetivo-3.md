@@ -51,5 +51,5 @@
 | <!-- Enlace de ignaciotitos -->                  |         |           |
 | <!-- Enlace de luistf24 -->                      |         |           |
 | <!-- Enlace de joseantonio2001 -->               |         |           |
-| <!-- Enlace de mariavallejo20 -->                |         |           |
+| https://github.com/mariavallejo20/proyecto_mvo/pull/25 | v3.0.0 |           |
 | https://github.com/vdeq79/Projecto-XSZ/pull/11 |   v3.2      |           |
