@@ -4,7 +4,7 @@
 |--------------------------------------------------|---------|-----------|
 | <!-- Enlace de aacosa34 -->                      |         |           |
 | <!-- Enlace de ArturoAcf -->                     |         |           |
-| <!-- Enlace de PacoCP5 -->                       |         |           |
+| https://github.com/PacoCP5/proyecto-PCP/pull/17  | v0.0.3  |           |
 | <!-- Enlace de SixtoCoca -->                     |         |           |
 | <!-- Enlace de C V C -->                         |         |           |
 | https://github.com/iscoct/cotan/pull/30 | v3.0.1 |    ✓    | 
