@@ -14,7 +14,7 @@
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de dfolcha --> | | |
 | https://github.com/pedromarting3/OnTime/pull/8 | v0.2.2 | |
-| https://github.com/LuisMart7/ProBusiness/pull/12| v0.2.2 | |
+| https://github.com/LuisMart7/ProBusiness/pull/12 | v0.2.2 | |
 | https://github.com/marcosrmartin/PerroAndaluz/pull/14 | v0.0.2 | ✓ |
 | <!-- Enlace de Juanmihdz --> | | |
 | https://github.com/mariavallejo20/proyecto_mvo/pull/11 | v0.0.2 | ✓ |
