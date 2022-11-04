@@ -116,6 +116,22 @@ optativas*.
   y por qué. "Cambio este fichero" "Actualizo #xx" no ayudan a nada.
 
 ### Objetivo 3
+
+No se trata de que
+1. Penséis qué vais a usar
+2. Busquéis información y pongáis tres o cuatro herramientas random con descripciones genéricas
+3. Digáis que vais a usar lo que ya habíais pensado desde el principio.
+
+Se trata de que aprendáis a elegir herramientas para vuestro proyecto. Para hacerlo, primero tenéis que 
+1. Entender qué es lo que hace realmente la herramienta, para ir más allá de poner lo que en Google aparece (o en su propia descripción) de esa herramienta.
+2. Saber cuales son las mejores prácticas para el lenguaje de programación, si eso condiciona la elección de alguna forma.
+3. Establecer una serie de criterios *en función del proyecto*
+4. Exponer diferentes herramienta que cumplan ese criterio, y cuales satisfacen en mayor o menor grado nuestros requisitos.
+5. Elegir una y entender qué ventajas e inconvenientes tiene esa
+elección.
+
+Otros errores frecuentes
+
   * Si no han terminado el objetivo 2 en vuestro repositorio, `git checkout
     objetivo-2 iv.yaml src/entidad.js`, donde `objetivo-2` será el nombre de la
     rama del otro usuario, y `src/entidad.js` el nombre del fichero que se
@@ -135,6 +151,7 @@ optativas*.
     errores frecuentes arriba, pero también teniendo en cuenta para qué sirve la
     tarea que se va a programar.
   * No ejecutar `* check` para ver si funciona.
+  
 
 ## Material para la clase
 
