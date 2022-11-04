@@ -1,7 +1,6 @@
 # Semana del 31 de octubre
 
 
-
 ## Antes de la clase
 
 Todas las *personas que aprobaron en la convocatoria ordinaria* habían
@@ -10,6 +9,38 @@ superado el objetivo 0.
 > Si todavía no has superado el objetivo 0, aconsejamos que te
 planifiques el resto de la asignatura para la convocatoria
 extraordinaria.
+
+## Estado de los objetivos
+
+```
+
+ 0 🧮:  8%🚧 78%✅ 14%❌ ⇒
+     🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 1 🧮: 16%🚧 54%✅ 30%❌ ⇒
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 2 🧮: 16%🚧 22%✅ 62%❌ ⇒
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 3 🧮:  8%🚧 10%✅ 82%❌ ⇒
+     🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 4 🧮:  2%🚧  2%✅ 96%❌ ⇒
+     🚧
+     ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+     ❌ ❌ ❌ ❌
+```
+
+
+Este era [el estado en la semana equivalente el año
+pasado](https://github.com/JJ/IV-21-22/blob/master/sesiones/semana-08.md).
 
 ## Objetivos
 
@@ -22,7 +53,6 @@ extraordinaria.
    gestión de dependencias dentro del mismo.
 3. Entender qué es un gestor de dependencias y cómo se usa en el concepto de la
    programación actual.
-
 
 ## Errores frecuentes
 
