@@ -8,6 +8,11 @@ asignatura para la convocatoria extraordinaria.
 
 ## Errores frecuentes
 
+### Todos los objetivos
+
+**No se puede cerrar un issue desde el botón**, o dará error en todos los
+tests. Siempre se cierra desde un commit (o desde un PR, que crea un commit al fusionarse).
+
 ### Objetivo 2
 
 Como ya hemos dicho, lo principal en este objetivo es seguir la metodología que
