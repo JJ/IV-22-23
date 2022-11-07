@@ -13,7 +13,7 @@
 | <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de dfolcha --> | | |
-| https://github.com/pedromarting3/OnTime/pull/8 | v0.2.2 | |
+| https://github.com/pedromarting3/OnTime/pull/8 | v0.2.2 | ✓ |
 | <!-- Enlace de fjgallardo00 --> | | |
 | https://github.com/marcosrmartin/PerroAndaluz/pull/14 | v0.0.2 | ✓ |
 | <!-- Enlace de Juanmihdz --> | | |
