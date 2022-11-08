@@ -19,10 +19,14 @@ asignatura para la convocatoria extraordinaria.
 
 ## Errores frecuentes
 
-### Todos los objetivos
+* **No se puede cerrar un issue desde el botón**, o dará error en todos los
+tests. Siempre se cierra desde un commit (o desde un PR, que crea un commit al
+fusionarse).
 
-**No se puede cerrar un issue desde el botón**, o dará error en todos los
-tests. Siempre se cierra desde un commit (o desde un PR, que crea un commit al fusionarse).
+* *Usad **de verdad** la lista de comprobación*. Si marcáis algo que no habéis
+  hecho, es doble trabajo para la persona que corrige, que tiene que comprobar
+  que efectivamente lo habéis hecho, y para vosotros que tendréis en muchos
+  casos que empezar desde cero.
 
 ### Objetivo 2
 
@@ -33,6 +37,9 @@ permita añadir valor con el código a lo que quiere el cliente.
   mal*. Si los issues están mal hechos, por tanto, *hay que comenzar desde cero
   a plantear los problemas  y escribir el código resolviéndolos*. No se puede simplemente
   cambiar los issues.
+* Volviendo a la lista de comprobación, en este caso la persona que sea
+  propietaria del repositorio tiene  *también* que pasar la lista de
+  comprobación sobre el código hecho.
 
 ### Objetivo 3
 
