@@ -151,7 +151,7 @@ Otros errores frecuentes
     errores frecuentes arriba, pero también teniendo en cuenta para qué sirve la
     tarea que se va a programar.
   * No ejecutar `* check` para ver si funciona.
-  
+
 
 ## Material para la clase
 
