@@ -13,6 +13,9 @@ asignatura para la convocatoria extraordinaria.
    cliente.
 2. Entender cómo el diseño dirigido por dominio ayuda a modelizar un
    problema y convertirlo en estructuras de datos que ayuden a resolverlo.
+3. Establecer un marco para toma de decisiones sobre herramientas a usar en el
+   proyecto, de forma que se dejen abiertas las opciones y se decida de forma
+   objetiva.
 
 ## Errores frecuentes
 
@@ -37,6 +40,8 @@ permita añadir valor con el código a lo que quiere el cliente.
   irrelevantes para su elección o no como tal herramienta.
 * Poner criterios y luego decir que eliges uno u otro por una razón totalmente
   aleatoria.
+* En cualquier lenguaje de programación siempre se podrán tener en consideración
+  herramientas genéricas como `make`.
 
 ## Material para clase
 
