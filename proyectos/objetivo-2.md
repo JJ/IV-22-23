@@ -45,7 +45,7 @@
 | <!-- Enlace de crdelapuente --> | | |
 | <!-- Enlace de fjromeero --> | | |
 | <!-- Enlace de marcosrmartin --> | | |
-| [joseantonio2001/OlivApphttps://github.com/joseantonio2001/OlivApp/pull/14](https://github.com/joseantonio2001/OlivApp/pull/14) | v0.2.7 | |
+| [OlivApp](https://github.com/joseantonio2001/OlivApp/pull/14) | v0.2.7 | |
 | https://github.com/MauronMP/PMP_IV/pull/9 | v0.0.4 | ✓ |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
