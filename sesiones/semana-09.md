@@ -6,6 +6,14 @@ Todas las *personas que aprobaron en la convocatoria ordinaria* habían superado
 has superado este objetivo, aconsejamos que te planifiques el resto de la
 asignatura para la convocatoria extraordinaria.
 
+## Objetivos
+
+1. Entender el flujo HU → hito → issue → mensaje de commit → código y cómo es
+   importante para auto-documentar el código y para aportar valor al
+   cliente.
+2. Entender cómo el diseño dirigido por dominio ayuda a modelizar un
+   problema y convertirlo en estructuras de datos que ayuden a resolverlo.
+
 ## Errores frecuentes
 
 ### Todos los objetivos
