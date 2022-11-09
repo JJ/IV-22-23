@@ -6,6 +6,11 @@ Todas las *personas que aprobaron en la convocatoria ordinaria* habían superado
 has superado este objetivo, aconsejamos que te planifiques el resto de la
 asignatura para la convocatoria extraordinaria.
 
+## Estado de los objetivos
+
+Este era [el estado en la semana equivalente el año
+pasado](https://github.com/JJ/IV-21-22/blob/master/sesiones/semana-09.md).
+
 ## Objetivos
 
 1. Entender el flujo HU → hito → issue → mensaje de commit → código y cómo es
@@ -60,6 +65,15 @@ Guiones de objetivos en vigor:
 * [Objetivo 4: test unitarios](http://jj.github.io/IV/documentos/proyecto/4.Tests)
 * [Objetivo 5: contenedores para
   pruebas](http://jj.github.io/IV/documentos/proyecto/5.Docker)
+
+
+Presentaciones relativas al objetivo 3:
+* [Presentación](https://jj.github.io/IV/preso/gestores-deps.html) sobre
+  gestores de dependencias.
+* [Presentación](https://jj.github.io/IV/preso/gestores-tareas.html).
+
+Tanto al tres como al cuatro:
+* [Presentación sobre criterios para elección de herramientas](https://jj.github.io/IV/preso/criterios-herramientas.html).
 
 ## Otras sesiones
 
