@@ -48,6 +48,11 @@ permita añadir valor con el código a lo que quiere el cliente.
 
 ### Objetivo 3
 
+Probabilidades de aprobar en convocatoria extraordinaria según semana de
+*entrega* de este objetivo:
+
+![Según datos del año pasado](probabilidad-aprobar-ordinaria-vs-semana-9.png)
+
 * Poner descripciones de las herramientas aleatorias, redundantes y totalmente
   irrelevantes para su elección o no como tal herramienta.
 * Poner criterios y luego decir que eliges uno u otro por una razón totalmente
