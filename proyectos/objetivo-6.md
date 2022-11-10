@@ -46,7 +46,7 @@
 | <!-- Enlace de fjromeero --> | | |
 | <!-- Enlace de marcosrmartin --> | | |
 | <!-- Enlace de Carlos-SE --> | | |
-| https://github.com/arsa-dev/OMP-Logic/pull/21 | v6.0.1 | |
+| https://github.com/arsa-dev/OMP-Logic/pull/21 | v6.0.2 | |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
 | <!-- Enlace de luistf24 --> | | |
