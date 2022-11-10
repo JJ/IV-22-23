@@ -155,7 +155,8 @@ Otros errores frecuentes
 
 ## Material para la clase
 
-* [Presentación](https://jj.github.io/IV/preso/gestores-deps.html).
+* [Presentación](https://jj.github.io/IV/preso/gestores-deps.html) sobre
+  gestores de dependencias.
 * [Herramientas de construcción, de tareas y
   similares](http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas#vamos-a-hacer-una-aplicaci%C3%B3n-gestionar-porras-de-f%C3%BAtbol):
   qué son, para qué sirven, como se usan.

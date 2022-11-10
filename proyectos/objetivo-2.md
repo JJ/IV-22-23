@@ -14,7 +14,7 @@
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de dfolcha --> | | |
 | https://github.com/pedromarting3/OnTime/pull/8 | v0.2.2 | ✓ |
-| <!-- Enlace de fjgallardo00 --> | | |
+| https://github.com/LuisMart7/ProBusiness/pull/12 | v0.2.3 | |
 | https://github.com/marcosrmartin/PerroAndaluz/pull/14 | v0.0.2 | ✓ |
 | <!-- Enlace de Juanmihdz --> | | |
 | https://github.com/mariavallejo20/proyecto_mvo/pull/11 | v0.0.2 | ✓ |
@@ -45,7 +45,7 @@
 | <!-- Enlace de crdelapuente --> | | |
 | <!-- Enlace de fjromeero --> | | |
 | <!-- Enlace de marcosrmartin --> | | |
-| [joseantonio2001/OlivApphttps://github.com/joseantonio2001/OlivApp/pull/14](https://github.com/joseantonio2001/OlivApp/pull/14) | v0.2.7 | |
+| [OlivApp](https://github.com/joseantonio2001/OlivApp/pull/14) | v0.2.7 | |
 | https://github.com/MauronMP/PMP_IV/pull/9 | v0.0.4 | ✓ |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
