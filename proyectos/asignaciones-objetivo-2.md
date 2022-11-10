@@ -30,3 +30,4 @@
 |chowfie | fjromeero |
 | JoseCarlosJC | fjgallardo00 |
 | PabloSpiegel | manujurado1 |
+| manujurado1 | ignaciotitos |
