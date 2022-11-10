@@ -175,7 +175,7 @@ jobs:
             console.log( objetivo_msg(6) )
             console.log( "» Analizando repo " + repo + " del usuario 🔥" + user )
             const all_checks_before_pag =
-                    await github.checks.listForRef.endpoint.merge(
+                    await github.rest.checks.listForRef.endpoint.merge(
                         { owner: user,
                           repo: repo,
                           ref: rama,
@@ -184,7 +184,7 @@ jobs:
             const all_checks = await github.paginate( all_checks_before_pag)
             console.log( "Checks → ", all_checks)
             const checks_before_pag =
-                    await github.checks.listForRef.endpoint.merge(
+                    await github.rest.checks.listForRef.endpoint.merge(
                         { owner: user,
                           repo: repo,
                           ref: rama,
