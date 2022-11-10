@@ -33,7 +33,7 @@
 | <!-- Enlace de dmonjasm --> | | |
 | <!-- Enlace de santim15 --> | | |
 | <!-- Enlace de M P I --> | | |
-| https://github.com/MauronMP/PMP_IV/pull/23  | v1.0.4 | |
+| https://github.com/MauronMP/PMP_IV/pull/23 | v1.0.4 | |
 | <!-- Enlace de amogue73 --> | | |
 | https://github.com/delightfulagony/oishi/pull/37 | v4.0.2 | |
 | <!-- Enlace de pablo1mc315 --> | | |
