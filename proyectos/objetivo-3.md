@@ -4,10 +4,10 @@
 |--------------------------------------------------|---------|-----------|
 | <!-- Enlace de aacosa34 -->                      |         |           |
 | <!-- Enlace de ArturoAcf -->                     |         |           |
-| https://github.com/PacoCP5/proyecto-PCP/pull/17  | v0.0.3  |           |
+| https://github.com/PacoCP5/proyecto-PCP/pull/17  | v0.0.3  |   ✓       |
 | <!-- Enlace de SixtoCoca -->                     |         |           |
 | <!-- Enlace de C V C -->                         |         |           |
-| https://github.com/iscoct/cotan/pull/30 | v3.0.1 |    ✓    | 
+| https://github.com/iscoct/cotan/pull/30          | v3.0.1  |    ✓      |
 | <!-- Enlace de D H J M -->                       |         |           |
 | <!-- Enlace de MarinoFajardo -->                 |         |           |
 | <!-- Enlace de F V J A -->                       |         |           |
