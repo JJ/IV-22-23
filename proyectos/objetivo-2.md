@@ -2,7 +2,7 @@
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| [luistf24/Trozo-de-panceta/pull/17](https://github.com/luistf24/Trozo-de-panceta/pull/17) | 0.2.3 | |
+| [luistf24/Trozo-de-panceta/pull/17](https://github.com/luistf24/Trozo-de-panceta/pull/17) | 0.2.3 |  ✓|
 | <!-- Enlace de ArturoAcf --> | | |
 | https://github.com/MarinoFajardo/ControlaTuGasto/pull/7 | v0.0.2 | ✓ |
 | <!-- Enlace de SixtoCoca --> | | |
