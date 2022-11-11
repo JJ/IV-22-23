@@ -38,7 +38,7 @@
 | https://github.com/delightfulagony/oishi/pull/11 | v0.1.0 | ✓ |
 | https://github.com/pablo1mc315/iv_pablomc/pull/2 | v0.0.1 | ✓  |
 | <!-- Enlace de antoniojesuus --> | | |
-| <!-- Enlace de ottoeprz --> | | |
+| https://github.com/ottoeprz/glowing-engine/pull/2 | v0.0.1 | |
 | https://github.com/danielsp13/SuperCatch/pull/8) | v0.0.2 | ✓ |
 | https://github.com/jmramirezG/WhatCook/pull/6 | v0.1.0 | ✓ |
 | https://github.com/chowfie/PROBLEM/pull/8 | v.0.2.0| ✓ |
