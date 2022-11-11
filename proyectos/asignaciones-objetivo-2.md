@@ -31,3 +31,5 @@
 | JoseCarlosJC | fjgallardo00 |
 | PabloSpiegel | manujurado1 |
 | manujurado1 | ignaciotitos |
+| ignaciotitos | RafaelT00 |
+| RafaelT00 | PabloSpiegel |
