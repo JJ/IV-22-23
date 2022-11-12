@@ -15,7 +15,7 @@
 | <!-- Enlace de dfolcha -->                       |         |           |
 | <!-- Enlace de JaimeGM96 -->                     |         |           |
 | <!-- Enlace de fjgallardo00 -->                  |         |           |
-| https://github.com/alvarogaro/AGR-MVS/pull/15    | v0.0.4  |           |
+| <!-- Enlace de alvarogaro -->                    |         |           |
 | <!-- Enlace de Juanmihdz -->                     |         |           |
 | <!-- Enlace de martahuetem -->                   |         |           |
 | <!-- Enlace de manujurado1 -->                   |         |           |
