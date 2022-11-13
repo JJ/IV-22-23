@@ -22,6 +22,6 @@ asignatura para la convocatoria extraordinaria.
   
 ## Otras sesiones
 
-* [Octava semana](semana-08.md)
-* [Décima semana](semana-10.md)
+* [Octava semana](semana-09.md)
+* [Décima semana](semana-11.md)
 
