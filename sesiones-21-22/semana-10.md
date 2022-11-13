@@ -51,7 +51,7 @@ Errores frecuentes:
     general, juntar "objeto" y "cosas que hace el objeto" en una sola clase.
   * Nadie os ha pedido, ni os va a pedir, un programa principal. No lo metáis
     "para probar".
-  
+
 
 ## Material para la clase
 
