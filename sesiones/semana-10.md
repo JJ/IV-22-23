@@ -13,8 +13,6 @@ pasado](../sesiones-21-22/semana-10.md).
 
 ## Objetivos a cubrir en la sesión
 
-1. Manejar conceptos básicos de administración de sistemas Linux: permisos,
-   UID/GID, sistemas de ficheros.
 2. Establecer un marco para toma de decisiones sobre herramientas a usar en el
    proyecto, de forma que se dejen abiertas las opciones y se decida de forma
    objetiva.
@@ -27,12 +25,23 @@ pasado](../sesiones-21-22/semana-10.md).
 
 ## Material para la clase
 
-* [Introducción a Docker](http://jj.github.io/IV/documentos/temas/Contenedores)
-* [Objetivo 5:
-  Contenedores](http://jj.github.io/IV/documentos/proyecto/5.Docker)
-* Ejemplos de contenedores:
-  [Raku](https://hub.docker.com/r/jjmerelo/alpine-raku),
-  [iv-test](https://hub.docker.com/r/jjmerelo/iv-test).
+Guiones de objetivos en vigor:
+
+* [Objetivo 2](https://jj.github.io/IV/documentos/proyecto/2.Entidad).
+* [Objetivo 3:
+  automatización](http://jj.github.io/IV/documentos/proyecto/3.Automatizar)
+* [Objetivo 4: test unitarios](http://jj.github.io/IV/documentos/proyecto/4.Tests)
+* [Objetivo 5: contenedores para
+  pruebas](http://jj.github.io/IV/documentos/proyecto/5.Docker)
+
+
+Presentaciones relativas al objetivo 3:
+* [Presentación](https://jj.github.io/IV/preso/gestores-deps.html) sobre
+  gestores de dependencias.
+* [Presentación](https://jj.github.io/IV/preso/gestores-tareas.html).
+
+Tanto al tres como al cuatro:
+* [Presentación sobre criterios para elección de herramientas](https://jj.github.io/IV/preso/criterios-herramientas.html).
 
 ## Otras sesiones
 
