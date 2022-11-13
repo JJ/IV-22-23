@@ -6,10 +6,24 @@ Todas las *personas que aprobaron* habían superado el objetivo 1. Si todavía n
 has superado este objetivo, aconsejamos que te planifiques el resto de la
 asignatura para la convocatoria extraordinaria.
 
+## Estado de los objetivos
+
+Este era [el estado en la semana equivalente el año
+pasado](../sesiones-21-22/semana-10.md).
+
 ## Objetivos a cubrir en la sesión
 
 1. Manejar conceptos básicos de administración de sistemas Linux: permisos,
    UID/GID, sistemas de ficheros.
+2. Establecer un marco para toma de decisiones sobre herramientas a usar en el
+   proyecto, de forma que se dejen abiertas las opciones y se decida de forma
+   objetiva.
+
+## Errores frecuentes
+
+### Objetivo 4
+
+* No usar issues (problemas) para avanzar en la implementación de la funcionalidad
 
 ## Material para la clase
 
@@ -19,9 +33,9 @@ asignatura para la convocatoria extraordinaria.
 * Ejemplos de contenedores:
   [Raku](https://hub.docker.com/r/jjmerelo/alpine-raku),
   [iv-test](https://hub.docker.com/r/jjmerelo/iv-test).
-  
+
 ## Otras sesiones
 
-* [Octava semana](semana-09.md)
-* [Décima semana](semana-11.md)
+* [Novena semana](semana-09.md)
+* [Undécima semana](semana-11.md)
 

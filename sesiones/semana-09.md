@@ -43,7 +43,7 @@ asignatura para la convocatoria extraordinaria.
 ```
 
 Este era [el estado en la semana equivalente el año
-pasado](https://github.com/JJ/IV-21-22/blob/master/sesiones/semana-09.md).
+pasado](../sesiones-21-22/semana-09.md).
 
 ## Objetivos
 
