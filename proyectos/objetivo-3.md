@@ -44,7 +44,7 @@
 | <!-- Enlace de chowfie -->                       |         |           |
 | <!-- Enlace de crdelapuente -->                  |         |           |
 | <!-- Enlace de fjromeero -->                     |         |           |
-| <!-- Enlace de marcosrmartin -->                 |         |           |
+| https://github.com/marcosrmartin/PerroAndaluz/pull/17 |v0.0.1|           |
 | <!-- Enlace de Carlos-SE -->                     |         |           |
 | https://github.com/arsa-dev/OMP-Logic/pull/15    | v3.2    | ✓         |
 | <!-- Enlace de RafaelT00 -->                     |         |           |
