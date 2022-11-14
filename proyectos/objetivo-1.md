@@ -10,7 +10,6 @@
 | https://github.com/iscoct/cotan/pull/12 | v0.0.1 |  ✓ |
 | <!-- Enlace de D H J M --> | | |
 | https://github.com/MarinoFajardo/ControlaTuGasto/pull/5 | | ✓ |
-| <!-- Enlace de F V J A --> | | |
 | <!-- Enlace de pabloFernandezRR --> | | |
 | <!-- Enlace de dfolcha --> | | |
 | https://github.com/JaimeGM96/IV-JGM/pull/2 | v0.1.1 | ✓ |
