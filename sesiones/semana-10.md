@@ -19,11 +19,18 @@ pasado](../sesiones-21-22/semana-10.md).
 
 ## Errores frecuentes
 
+No revisar objetivos de compañeros ahora que no hay tanto trabajo se echará de
+menos cuando se necesite puntuación para poder aprobar la asignatura o subir del
+aprobado pelado.
+
 ### Objetivo 2
 
 * Mala (o nula) aplicación de *domain driven design* que lleva a no distinguir
   un objeto-valor que describe algo de otro objeto-valor que guarda el estado
   específico en el que se encuentra algo.
+* Hay que concentrarse en resolver el problema específico que plantea el issue
+  con una estructura de datos mínima que lo resuelva. Ningún "pensé que..."
+  tiene cabida en esta estructrua mínima.
 
 ### Objetivo 3
 
