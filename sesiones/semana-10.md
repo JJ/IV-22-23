@@ -31,6 +31,10 @@ aprobado pelado.
 * Hay que concentrarse en resolver el problema específico que plantea el issue
   con una estructura de datos mínima que lo resuelva. Ningún "pensé que..."
   tiene cabida en esta estructrua mínima.
+* Los nombres de los ficheros deben "funcionar" en cualquier sistema operativo
+  (aparte de seguir buenas prácticas). Por ejemplo, hay sistemas operativos que
+  no distinguen mayúsculas de minúsculas, así que la práctica habitual es usar
+  solamente minúsculas.
 
 ### Objetivo 3
 
