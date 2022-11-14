@@ -48,7 +48,7 @@
 | https://github.com/arsa-dev/OMP-Logic/pull/15    | v3.2    | ✓         |
 | <!-- Enlace de RafaelT00 -->                     |         |           |
 | <!-- Enlace de ignaciotitos -->                  |         |           |
-| https://github.com/luistf24/Trozo-de-panceta/pull/39 | v0.2.4 |           |
+| https://github.com/luistf24/Trozo-de-panceta/pull/39 | v0.2.5 |           |
 | <!-- Enlace de joseantonio2001 -->               |         |           |
 | https://github.com/mariavallejo20/proyecto_mvo/pull/25 | v3.1.0 |   ✓         |
 | https://github.com/vdeq79/Projecto-XSZ/pull/11 |   v3.2      |   ✓         |
