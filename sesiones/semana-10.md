@@ -39,7 +39,10 @@ aprobado pelado.
 
 ### Objetivo 4
 
-* No usar issues (problemas) para avanzar en la implementación de la funcionalidad
+* No usar issues (problemas) para avanzar en la implementación de la
+  funcionalidad.
+* No haber completado todos los issues del milestone previo antes de comenzar
+  este, que corresponde a un nuevo milestone.
 
 ## Material para la clase
 
