@@ -19,6 +19,12 @@ pasado](../sesiones-21-22/semana-10.md).
 
 ## Errores frecuentes
 
+### Objetivo 2
+
+* Mala (o nula) aplicación de *domain driven design* que lleva a no distinguir
+  un objeto-valor que describe algo de otro objeto-valor que guarda el estado
+  específico en el que se encuentra algo.
+
 ### Objetivo 4
 
 * No usar issues (problemas) para avanzar en la implementación de la funcionalidad
