@@ -24,6 +24,8 @@ menos cuando se necesite puntuación para poder aprobar la asignatura o subir de
 aprobado pelado.
 
 * Hay que seguir las convenciones en los mensajes de *commit*.
+* Usar la lista de comprobación como tal, y no como "cosas que hay que marcar
+  para pasar el objetivo*.
 
 ### Objetivo 2
 
@@ -45,10 +47,13 @@ aprobado pelado.
 
 ### Objetivo 4
 
+Lo más importante es que hay que crear un PMV *que incluya la lógica de negocio*.
+
 * No usar issues (problemas) para avanzar en la implementación de la
   funcionalidad.
 * No haber completado todos los issues del milestone previo antes de comenzar
   este, que corresponde a un nuevo milestone.
+
 
 ## Material para la clase
 
