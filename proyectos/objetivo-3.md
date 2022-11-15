@@ -35,15 +35,15 @@
 |https://github.com/MauronMP/PMP_IV/pull/19        | v0.0.6  | ✓         |
 | <!-- Enlace de amogue73 -->                      |         |           |
 | https://github.com/delightfulagony/oishi/pull/32 | v3.0.0  | ✓         |
-| https://github.com/pablo1mc315/iv_pablomc/pull/29 | v0.3.3  |   ✓        |
+| https://github.com/pablo1mc315/iv_pablomc/pull/29 | v0.3.3  |   ✓      |
 | <!-- Enlace de antoniojesuus -->                 |         |           |
 | <!-- Enlace de ottoeprz -->                      |         |           |
 | <!-- Enlace de danielsp13 -->                    |         |           |
-| https://github.com/jmramirezG/WhatCook/pull/13   | 0.0.3   |           |
+| https://github.com/jmramirezG/WhatCook/pull/13   | 0.0.3   |    ✓      |
 | <!-- Enlace de chowfie -->                       |         |           |
 | <!-- Enlace de crdelapuente -->                  |         |           |
 | <!-- Enlace de fjromeero -->                     |         |           |
-| https://github.com/marcosrmartin/PerroAndaluz/pull/17 |v0.0.1|           |
+| https://github.com/marcosrmartin/PerroAndaluz/pull/17 |v0.0.1|         |
 | <!-- Enlace de Carlos-SE -->                     |         |           |
 | https://github.com/arsa-dev/OMP-Logic/pull/15    | v3.2    | ✓         |
 | <!-- Enlace de RafaelT00 -->                     |         |           |
