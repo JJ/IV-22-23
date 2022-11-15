@@ -68,9 +68,7 @@ Guiones de objetivos en vigor:
 
 
 Presentaciones relativas al objetivo 3:
-* [Presentación](https://jj.github.io/IV/preso/gestores-deps.html) sobre
-  gestores de dependencias.
-* [Presentación](https://jj.github.io/IV/preso/gestores-tareas.html).
+* [Tests](https://jj.github.io/IV/preso/tests.html) sobre gestores de dependencias.
 
 Tanto al tres como al cuatro:
 * [Presentación sobre criterios para elección de herramientas](https://jj.github.io/IV/preso/criterios-herramientas.html).
