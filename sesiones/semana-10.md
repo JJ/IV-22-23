@@ -23,6 +23,8 @@ No revisar objetivos de compañeros ahora que no hay tanto trabajo se echará de
 menos cuando se necesite puntuación para poder aprobar la asignatura o subir del
 aprobado pelado.
 
+* Hay que seguir las convenciones en los mensajes de *commit*.
+
 ### Objetivo 2
 
 * Mala (o nula) aplicación de *domain driven design* que lleva a no distinguir
