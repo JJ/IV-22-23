@@ -13,9 +13,13 @@ pasado](../sesiones-21-22/semana-10.md).
 
 ## Objetivos a cubrir en la sesión
 
+1. Entender el flujo HU → hito → issue → test y cómo los tests (y el código que
+   se escriba para que pasen) debe cubrir las necesidades del usuario.
 2. Establecer un marco para toma de decisiones sobre herramientas a usar en el
    proyecto, de forma que se dejen abiertas las opciones y se decida de forma
    objetiva.
+3. Entender cómo esta metodología es aplicable a todos los proyectos
+   informáticos, *incluyendo el TFG*.
 
 ## Errores frecuentes
 
