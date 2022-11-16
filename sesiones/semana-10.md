@@ -26,6 +26,12 @@ aprobado pelado.
 * Hay que seguir las convenciones en los mensajes de *commit*.
 * Usar la lista de comprobación como tal, y no como "cosas que hay que marcar
   para pasar el objetivo*.
+* Sólo se añade al objetivo lo que se vaya a evaluar. Si hay algún otro cambio,
+  *hay que hacerlo en un PR aparte*. Si ya se ha añadido al objetivo, se puede
+  1. Crear una rama nueva
+  2. Hacer check-out de la rama del PR a la nueva y añadirlos
+  3. Crear un nuevo PR, revisarlo y fusionarlo
+  4. Al actualizar la rama de PR desde main desaparecerán todos estos cambios.
 
 ### Objetivo 2
 
