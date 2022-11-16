@@ -82,8 +82,8 @@ Guiones de objetivos en vigor:
   pruebas](http://jj.github.io/IV/documentos/proyecto/5.Docker)
 
 
-Presentaciones relativas al objetivo 3:
-* [Tests](https://jj.github.io/IV/preso/tests.html) sobre gestores de dependencias.
+Presentaciones relativas al objetivo 4:
+* [Tests](https://jj.github.io/IV/preso/tests.html).
 
 Tanto al tres como al cuatro:
 * [Presentación sobre criterios para elección de herramientas](https://jj.github.io/IV/preso/criterios-herramientas.html).
