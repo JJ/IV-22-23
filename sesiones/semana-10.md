@@ -50,6 +50,11 @@ aprobado pelado.
 
 * Para comprobar la sintaxis hay que usar un comando que haga solamente eso,
   comprobar la sintaxis. *Linting* es algo totalmente diferente.
+* Las instrucciones en el `README.md` tienen que ser correctas, no saltarse
+  ninguna ni asumir que una herramienta determinada está instalada. Tampoco hace
+  falta que sean exhaustivas, con un enlace a "instalar no sé qué como dice
+  aquí" es suficiente (si son instrucciones extensas). **No copiéis las
+  instrucciones de instalación del sitio de la herramienta**.
 
 ### Objetivo 4
 
