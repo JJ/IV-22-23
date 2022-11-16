@@ -12,7 +12,7 @@
 | https://github.com/MarinoFajardo/ControlaTuGasto/pull/20 | v3.0.1  |           |
 | <!-- Enlace de pabloFernandezRR -->              |         |           |
 | <!-- Enlace de dfolcha -->                       |         |           |
-| <!-- Enlace de JaimeGM96 -->                     |         |           |
+| https://github.com/JaimeGM96/IV-JGM/pull/21                     |    v3.0.0     |           |
 | <!-- Enlace de fjgallardo00 -->                  |         |           |
 | https://github.com/alvarogaro/AGR-MVS/pull/15    | v0.0.6  |           |
 | <!-- Enlace de Juanmihdz -->                     |         |           |
