@@ -1,8 +1,9 @@
 use IO::Glob;
 use Git::File::History;
 
+constant PROYECTOS = "proyectos/";
 
-sub lista-estudiantes( Str $file = "proyectos/usuarios.md" ) is export {
+sub lista-estudiantes( Str $file = "{PROYECTOS}usuarios.md" ) is export {
     $file.IO.slurp.lines.grep( /"<!--"/ )
             .map( *.split( "--" )[1].split(" ")[3]);
 }
@@ -16,9 +17,8 @@ has @!entregas;
 
 my @cumplimiento=[.05,.075, .15, .075, .15, 0.05, 0.05, 0.1, 0.1, 0.1, 0.1 ];
 
-
 sub asignaciones-objetivo2()  is export returns Associative {
-    my @asignaciones = "proyectos/asignaciones-objetivo-2.md".IO.lines[4 ..*];
+    my @asignaciones = "{PROYECTOS}asignaciones-objetivo-2.md".IO.lines[4 ..*];
 
     my %asignaciones;
     for @asignaciones -> $line {
@@ -28,14 +28,14 @@ sub asignaciones-objetivo2()  is export returns Associative {
     return %asignaciones;
 }
 
-method new( Str $file = "proyectos/usuarios.md") {
+method new( Str $file = "{PROYECTOS}usuarios.md") {
     my @student-list = lista-estudiantes( $file );
     my %students;
     my @objetivos;
     my @entregas;
     @student-list.map: { %students{$_} = { :objetivos(set()), :entrega(0) } };
 
-    for glob( "proyectos/objetivo-*.md" ).sort: { $^a cmp $^b} -> $f {
+    for glob( "{PROYECTOS}objetivo-*.md" ).sort: { $^a cmp $^b} -> $f {
         my ($objetivo) := $f ~~ /(\d+)/;
         my @contenido = $f.IO.lines.grep(/"|"/);
         @objetivos[$objetivo] = set();
