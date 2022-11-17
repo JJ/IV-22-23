@@ -16,7 +16,7 @@
 | <!-- Enlace de fjgallardo00 -->                  |         |           |
 | https://github.com/alvarogaro/AGR-MVS/pull/15    | v0.0.6  |     ✓        |
 | <!-- Enlace de Juanmihdz -->                     |         |           |
-| <!-- Enlace de martahuetem -->                   |         |           |
+| https://github.com/martahuetem/IV_HorseMatch/pull/20 |    v.0.0.1     |           |
 | <!-- Enlace de manujurado1 -->                   |         |           |
 | <!-- Enlace de JoseCarlosJC -->                  |         |           |
 | <!-- Enlace de albegadel -->                     |         |           |
