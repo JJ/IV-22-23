@@ -14,7 +14,7 @@
 | <!-- Enlace de dfolcha -->                       |         |           |
 | https://github.com/JaimeGM96/IV-JGM/pull/21                     |    v3.0.1     |           |
 | <!-- Enlace de fjgallardo00 -->                  |         |           |
-| https://github.com/alvarogaro/AGR-MVS/pull/15    | v0.0.6  |     ✓        |
+| https://github.com/alvarogaro/AGR-MVS/pull/15    | v0.0.6  |     ✓     |
 | <!-- Enlace de Juanmihdz -->                     |         |           |
 | https://github.com/martahuetem/IV_HorseMatch/pull/20 |    v0.0.1     |           |
 | <!-- Enlace de manujurado1 -->                   |         |           |
