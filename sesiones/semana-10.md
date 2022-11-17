@@ -59,6 +59,10 @@ aprobado pelado.
   falta que sean exhaustivas, con un enlace a "instalar no sé qué como dice
   aquí" es suficiente (si son instrucciones extensas). **No copiéis las
   instrucciones de instalación del sitio de la herramienta**.
+* Nadie os ha pedido un panfleto publicitario de cada una de las
+  herramientas que listéis. Limitaros a describir lo que sea
+  pertinente para su elección o rechazo, relacionado con los
+  requisitos que hayáis establecido de antemano.
 
 ### Objetivo 4
 
