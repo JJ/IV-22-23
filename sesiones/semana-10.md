@@ -39,6 +39,10 @@ aprobado pelado.
 
 ### Objetivo 2
 
+* Este es un objetivo que tiene un 90% de resolución de problemas y un
+  10% de programación. Es esencial fijarse en las diferentes fases de
+  resolución del problema, empezando por las historias de usuario y la
+  lógica de negocio.
 * Mala (o nula) aplicación de *domain driven design* que lleva a no distinguir
   un objeto-valor que describe algo de otro objeto-valor que guarda el estado
   específico en el que se encuentra algo.
@@ -73,6 +77,11 @@ Lo más importante es que hay que crear un PMV *que incluya la lógica de negoci
 * No haber completado todos los issues del milestone previo antes de comenzar
   este, que corresponde a un nuevo milestone.
 
+## Clase del 18 noviembre
+
+Haremos una dinámica-hackatón para entender mejor cómo se lleva a cabo
+el diseño dirigido por dominio en un caso específico, y cómo se
+trabaja en equipo para conseguir fines específicos.
 
 ## Material para la clase
 
