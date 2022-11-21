@@ -2,7 +2,7 @@
 
 | URL                                              | Versión | Alcanzado |
 |--------------------------------------------------|---------|-----------|
-| https://github.com/aacosa34/Keikaku/pull/29      | v0.3.1  |           |
+| https://github.com/aacosa34/Keikaku/pull/29      | v0.3.1  |      ✓    |
 | <!-- Enlace de ArturoAcf -->                     |         |           |
 | https://github.com/PacoCP5/proyecto-PCP/pull/17  | v0.0.3  |   ✓       |
 | <!-- Enlace de SixtoCoca -->                     |         |           |
