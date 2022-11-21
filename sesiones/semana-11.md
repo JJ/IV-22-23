@@ -39,6 +39,9 @@ pasado](../sesiones-21-22/semana-11.md).
   calcular cosas con datos disponibles en el constructor. Un método que no tenga
   argumentos, en general, va a ser una mala práctica (excepciones: si lo que se
   calcula se hace una sola vez, se cachea y es demasiado pesado).
+* Las construcciones *funcionales* (`map`, `filter` y similares) son mucho más
+  eficientes y reducen la carga cognitiva con respecto a las `for`. Se deben
+  tratar de evitar estas últimas siempre que sea posible (casi siempre).
 
 ## Material para la clase
 
