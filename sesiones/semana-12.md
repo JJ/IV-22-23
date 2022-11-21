@@ -27,6 +27,6 @@ pasado](../sesiones-21-22/semana-12.md).
 
 ## Otras sesiones
 
-* [Décima semana](semana-10.md)
-* [Duodécima semana](semana-12.md)
+* [Décima semana](semana-11.md)
+* [Duodécima semana](semana-13.md)
 

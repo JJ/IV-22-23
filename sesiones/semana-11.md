@@ -37,9 +37,18 @@ pasado](../sesiones-21-22/semana-11.md).
 
 ## Material para la clase
 
-* [Introducción a Docker](http://jj.github.io/IV/documentos/temas/Contenedores)
-* [Objetivo 5:
-  Contenedores](http://jj.github.io/IV/documentos/proyecto/5.Docker)
+Guiones de objetivos en vigor:
+
+* [Objetivo 2](https://jj.github.io/IV/documentos/proyecto/2.Entidad).
+* [Objetivo 3:
+  automatización](http://jj.github.io/IV/documentos/proyecto/3.Automatizar)
+* [Objetivo 4: test unitarios](http://jj.github.io/IV/documentos/proyecto/4.Tests)
+* [Objetivo 5: contenedores para
+  pruebas](http://jj.github.io/IV/documentos/proyecto/5.Docker)
+
+Presentaciones relativas al objetivo 4:
+* [Tests](https://jj.github.io/IV/preso/tests.html).
+
 
 ## Otras sesiones
 
