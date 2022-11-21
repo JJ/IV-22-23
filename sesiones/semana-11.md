@@ -17,6 +17,20 @@ pasado](../sesiones-21-22/semana-11.md).
 
 ## Errores frecuentes
 
+* Resolver comentarios sin haber hecho nada, o sin comentar qué es lo que se ha
+  hecho. Los comentarios se hacen en una línea determinada, hay que cambiar esa
+  línea. Si no se hace, hay que justificar por qué no se hace (por ejemplo,
+  cambio en otro lugar) e indicar qué. Si resolvéis algo sin ninguna de estas
+  dos cosas, hay una altísima probabilidad de que no estéis entendiendo cuál es
+  el problema y que tengáis que volver a modificar el objetivo.
+
+### Objetivo 3
+
+* Usar "razones" totalmente aleatorias para elegir una herramienta. Por favor,
+  usad las que sean relevantes para la operación de la herramienta en si y
+  vuestro proyecto. Lo principal, en todo caso, es que tratéis de poner los
+  criterios que *realmente* hayáis usado para elegir una herramienta.
+
 ### Objetivo 4
 
 * No usar issues (problemas) para avanzar en la implementación de la funcionalidad

@@ -2,7 +2,7 @@
 
 ## Antes de la clase
 
-Todas las *personas que aprobaron* habían superado el objetivo 1. Si todavía no
+Todas las *personas que aprobaron* el año pasado habían superado el objetivo 1. Si todavía no
 has superado este objetivo, aconsejamos que te planifiques el resto de la
 asignatura para la convocatoria extraordinaria.
 
