@@ -33,7 +33,12 @@ pasado](../sesiones-21-22/semana-11.md).
 
 ### Objetivo 4
 
-* No usar issues (problemas) para avanzar en la implementación de la funcionalidad
+* No usar issues (problemas) para avanzar en la implementación de la
+  funcionalidad.
+* De la anterior vienen muchas cosas, como por ejemplo usar funciones para
+  calcular cosas con datos disponibles en el constructor. Un método que no tenga
+  argumentos, en general, va a ser una mala práctica (excepciones: si lo que se
+  calcula se hace una sola vez, se cachea y es demasiado pesado).
 
 ## Material para la clase
 
