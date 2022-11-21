@@ -29,7 +29,7 @@
 | <!-- Enlace de lovelace9981 --> | | |
 | <!-- Enlace de PabloSpiegel --> | | |
 | <!-- Enlace de M M J M --> | | |
-| https://github.com/vdeq79/Projecto-XSZ/pull/14 | v0.1.1 | |
+| https://github.com/vdeq79/Projecto-XSZ/pull/14 | v0.1.2 | |
 | <!-- Enlace de santim15 --> | | |
 | <!-- Enlace de M P I --> | | |
 | https://github.com/JaimeGM96/IV-JGM/pull/6 | v0.2.2 |  ✓ |
@@ -43,7 +43,7 @@
 | <!-- Enlace de chowfie --> | | |
 | <!-- Enlace de crdelapuente --> | | |
 | https://github.com/JoseCarlosJC/UseTime/pull/8 | v0.0.2 | |
-| https://github.com/dmonjasm/RouteCheck/pull/17 | v0.0.2 | |
+| https://github.com/dmonjasm/RouteCheck/pull/17 | v0.0.1 | |
 | [OlivApp](https://github.com/joseantonio2001/OlivApp/pull/14) | v0.2.7 | ✓ |
 | https://github.com/MauronMP/PMP_IV/pull/9 | v0.0.4 | ✓ |
 | <!-- Enlace de RafaelT00 --> | | |
