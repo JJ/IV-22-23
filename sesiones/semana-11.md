@@ -10,7 +10,7 @@ había entregado ya el *objetivo 3*.
 Este era [el estado en la semana equivalente el año
 pasado](../sesiones-21-22/semana-11.md).
 
-## Objetivos a cubrir en la sesión
+## Objetivos de aprendizaje a cubrir en la sesión
 
 1. Entender el flujo HU → hito → issue → test y cómo los tests (y el código que
    se escriba para que pasen) debe cubrir las necesidades del usuario.
@@ -20,6 +20,12 @@ pasado](../sesiones-21-22/semana-11.md).
    proyecto, de forma que se dejen abiertas las opciones y se decida de forma
    objetiva.
 3. Emplear las mejores prácticas en la elaboración de los mensajes de commit.
+4. Entender cómo se encajan los desarrollos relacionados con la infraestructura
+   dentro de entornos ágiles.
+
+Estos objetivos son importantes para los objetivos en curso o inmediatamente
+posteriores. El material necesario está enlazado desde los guiones de los
+objetivos; si algo no lo entiendes o no encuentras material pregunta.
 
 ## Errores frecuentes
 
@@ -29,6 +35,7 @@ pasado](../sesiones-21-22/semana-11.md).
   cambio en otro lugar) e indicar qué. Si resolvéis algo sin ninguna de estas
   dos cosas, hay una altísima probabilidad de que no estéis entendiendo cuál es
   el problema y que tengáis que volver a modificar el objetivo.
+* No resolver comentarios modificando la línea que comentan.
 
 ### Objetivo 3
 
