@@ -2,6 +2,9 @@
 
 ## Antes de la clase
 
+El 50% de los que aprobaron el año pasado habían entregado ya hasta el **objetivo 5**; el 75%
+había entregado ya el *objetivo 3*.
+
 ## Estado de los objetivos
 
 Este era [el estado en la semana equivalente el año

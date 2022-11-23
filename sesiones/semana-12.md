@@ -2,6 +2,9 @@
 
 ## Antes de la clase
 
+El 75% de los aprobados durante el año anterior en la convocatoria ordinaria
+había entregado ya el *objetivo 4*. El 50% el *objetivo 6*. El 90% el *objetivo 3*.
+
 ## Estado de los objetivos
 
 Este era [el estado en la semana equivalente el año
