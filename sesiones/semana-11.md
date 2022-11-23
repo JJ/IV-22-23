@@ -9,11 +9,14 @@ pasado](../sesiones-21-22/semana-11.md).
 
 ## Objetivos a cubrir en la sesión
 
+1. Entender el flujo HU → hito → issue → test y cómo los tests (y el código que
+   se escriba para que pasen) debe cubrir las necesidades del usuario.
 1. Manejar conceptos básicos de administración de sistemas Linux: permisos,
    UID/GID, sistemas de ficheros.
 2. Establecer un marco para toma de decisiones sobre herramientas a usar en el
    proyecto, de forma que se dejen abiertas las opciones y se decida de forma
    objetiva.
+3. Emplear las mejores prácticas en la elaboración de los mensajes de commit.
 
 ## Errores frecuentes
 
@@ -55,6 +58,7 @@ Guiones de objetivos en vigor:
   pruebas](http://jj.github.io/IV/documentos/proyecto/5.Docker)
 
 Presentaciones relativas al objetivo 4:
+* [Código limpio - *clean code*](https://jj.github.io/IV/preso/limpio.html).
 * [Tests](https://jj.github.io/IV/preso/tests.html).
 
 
