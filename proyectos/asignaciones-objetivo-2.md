@@ -26,8 +26,8 @@
 | fjgallardo00 | LuisMart7 |
 | fjromeero | JoseCarlosJC |
 | LuisMart7 | danielsp13 |
-| JesusJMMA | chowfie |
-|chowfie | fjromeero |
+| ottoeprz | chowfie |
+| chowfie | fjromeero |
 | JoseCarlosJC | fjgallardo00 |
 | PabloSpiegel | manujurado1 |
 | manujurado1 | ignaciotitos |
