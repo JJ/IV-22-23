@@ -56,6 +56,10 @@ objetivos; si algo no lo entiendes o no encuentras material pregunta.
   eficientes y reducen la carga cognitiva con respecto a las `for`. Se deben
   tratar de evitar estas últimas siempre que sea posible (casi siempre).
 
+## Hackatón 25 de noviembre
+
+Trabajaremos sobre el [proyecto PelooXtreem](https://github.com/JJ/pelooxtreem) centrándonos en la lógica de negocio, tests, y herramientas asociadas.
+
 ## Material para la clase
 
 Guiones de objetivos en vigor:
