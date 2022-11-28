@@ -36,6 +36,11 @@ pasado](../sesiones-21-22/semana-12.md).
   una *entidad* de orden superior que tenga goles indexados por el identificador
   único del jugador. Este es un error bastante común, y por eso requiere que se
   entienda, al menos, lo básico de diseño dirigido por dominio.
+* El uso de clases o de cualquier otra estructura de alto nivel tiene que ser
+  capaz de añadir valor a la simple agregación o yuxtaposición de
+  variables. Comprobar el tipo es una cosa, pero adicionalmente tendrá que
+  calcular algo, o asociar algo. TL;DR: Si a un constructor le pasas variables
+  que almacenas en atributos, no estás haciendo nada.
 
 ### Objetivo 3
 
