@@ -18,6 +18,9 @@ pasado](../sesiones-21-22/semana-12.md).
 
 ## Errores frecuentes
 
+En general, lo que hay que tener en cuenta es que la ingeniería es mucho más
+análisis que código o documentación. Así que si no estás dedicando el triple de
+tiempo a analizar que a codificar, es posible que estés haciendo algo mal.
 
 ### Objetivo 2
 
