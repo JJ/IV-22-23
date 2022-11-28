@@ -12,14 +12,27 @@ pasado](../sesiones-21-22/semana-12.md).
 
 ## Objetivos a cubrir en la sesión
 
+1. Entender el flujo HU → hito → issue → test y cómo los tests (y el código que
+   se escriba para que pasen) debe cubrir las necesidades del usuario.
+3. Emplear las mejores prácticas en la elaboración de los mensajes de commit.
 
 ## Errores frecuentes
 
+
+### Objetivo 2
+
+* Deja que la historia de usuario sea tu guía.
+* Los atributos y los argumentos del constructor son *cosas diferentes*. Los
+  atributos son el estado de los objetos, los argumentos son lo que hace falta
+  para construirlo. Los dos tienen que emanar del análisis (DDD) que se haga a
+  partir de las historias de usuario.
 
 ### Objetivo 3
 
 
 ### Objetivo 4
+
+
 
 
 ## Material para la clase
