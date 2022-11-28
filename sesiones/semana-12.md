@@ -26,6 +26,16 @@ pasado](../sesiones-21-22/semana-12.md).
   atributos son el estado de los objetos, los argumentos son lo que hace falta
   para construirlo. Los dos tienen que emanar del análisis (DDD) que se haga a
   partir de las historias de usuario.
+* Una de las partes fundamentales del análisis es distinguir un objeto valor
+  (inmutable) de una entidad (mutable, con lógica de negocio), pero sobre todo
+  entender el valor de los objetos inmutables, y cómo separar el objeto
+  inmutable de una actividad o estado en el que pueda estar el objeto en un
+  momento determinado. Por ejemplo, separar un jugador de los goles que haya
+  podido marcar; mientras que el jugador es inmutable, los goles que haya podido
+  marcar *no van a formar parte de un objeto que sólo tenga al jugador*, sino de
+  una *entidad* de orden superior que tenga goles indexados por el identificador
+  único del jugador. Este es un error bastante común, y por eso requiere que se
+  entienda, al menos, lo básico de diseño dirigido por dominio.
 
 ### Objetivo 3
 
