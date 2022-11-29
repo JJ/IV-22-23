@@ -49,6 +49,6 @@
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
 | <!-- Enlace de luistf24 --> | | |
-| https://github.com/joseantonio2001/OlivApp/pull/27 | v4.0 | |
+| https://github.com/joseantonio2001/OlivApp/pull/27 | v4.1 | |
 | <!-- Enlace de mariavallejo20 --> | | |
 | https://github.com/vdeq79/Projecto-XSZ/pull/22 | v4.3 | |
