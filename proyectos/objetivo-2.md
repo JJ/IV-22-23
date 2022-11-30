@@ -17,7 +17,7 @@
 | https://github.com/marcosrmartin/PerroAndaluz/pull/14 | v0.0.2 | ✓ |
 | <!-- Enlace de Juanmihdz --> | | |
 | https://github.com/mariavallejo20/proyecto_mvo/pull/11 | v0.0.2 | ✓ |
-| https://github.com/manujurado1/SportsBar-IV/pull/17 | v.0.2.1 | |
+| <!-- de manujurado --> | v.0.2.1 | |
 | <!-- Enlace de JoseCarlosJC --> | | |
 | <!-- Enlace de albegadel --> | | |
 | <!-- Enlace de adrianlc3 --> | | |
@@ -27,7 +27,7 @@
 | <!-- Enlace de Davidmd00 --> | | |
 | <!-- Enlace de LuisMart7 --> | | |
 | <!-- Enlace de lovelace9981 --> | | |
-| <!-- Enlace de PabloSpiegel --> | | |
+| https://github.com/manujurado1/SportsBar-IV/pull/17 | | |
 | <!-- Enlace de M M J M --> | | |
 | https://github.com/vdeq79/Projecto-XSZ/pull/14 | v0.1.1 | ✓ |
 | <!-- Enlace de santim15 --> | | |
