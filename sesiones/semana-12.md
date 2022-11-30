@@ -24,6 +24,8 @@ tiempo a analizar que a codificar, es posible que estés haciendo algo mal.
 
 ### Objetivo 2
 
+* Revisad la sintaxis de YAML, especialmente el retorno de carro al final, antes
+  de enviarlo.
 * Deja que la historia de usuario sea tu guía.
 * Los atributos y los argumentos del constructor son *cosas diferentes*. Los
   atributos son el estado de los objetos, los argumentos son lo que hace falta
