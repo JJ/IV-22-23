@@ -52,6 +52,11 @@ tiempo a analizar que a codificar, es posible que estés haciendo algo mal.
 Tratad de entender bien todo el sistema de importación de módulos, sea en
 JavaScript o en Python.
 
+## Hackatón 2 de diciembre
+
+Trabajaremos sobre el [proyecto
+PelooXtreem](https://github.com/JJ/pelooxtreem) centrándonos en la
+lógica de negocio, tests, y herramientas asociadas.
 
 ## Material para la clase
 
