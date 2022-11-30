@@ -47,12 +47,10 @@ tiempo a analizar que a codificar, es posible que estés haciendo algo mal.
   calcular algo, o asociar algo. TL;DR: Si a un constructor le pasas variables
   que almacenas en atributos, no estás haciendo nada.
 
-### Objetivo 3
-
-
 ### Objetivo 4
 
-
+Tratad de entender bien todo el sistema de importación de módulos, sea en
+JavaScript o en Python.
 
 
 ## Material para la clase
@@ -63,6 +61,6 @@ tiempo a analizar que a codificar, es posible que estés haciendo algo mal.
 
 ## Otras sesiones
 
-* [Décima semana](semana-11.md)
-* [Duodécima semana](semana-13.md)
+* [Undécima semana](semana-11.md)
+* [Decimotercera semana](semana-13.md)
 
