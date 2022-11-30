@@ -17,7 +17,7 @@
 | https://github.com/marcosrmartin/PerroAndaluz/pull/14 | v0.0.2 | ✓ |
 | <!-- Enlace de Juanmihdz --> | | |
 | https://github.com/mariavallejo20/proyecto_mvo/pull/11 | v0.0.2 | ✓ |
-| <!-- de manujurado --> | v.0.2.1 | |
+| https://github.com/ignaciotitos/IV---HealthForAll/pull/15 | v0.0.3 | |
 | <!-- Enlace de JoseCarlosJC --> | | |
 | <!-- Enlace de albegadel --> | | |
 | <!-- Enlace de adrianlc3 --> | | |
