@@ -35,7 +35,7 @@
 | https://github.com/MauronMP/PMP_IV/pull/23 | v1.0.4 | ✓ |
 | <!-- Enlace de amogue73 --> | | |
 | https://github.com/delightfulagony/oishi/pull/37 | v4.0.2 |  ✓ |
-| <!-- Enlace de pablo1mc315 --> | | |
+| https://github.com/pablo1mc315/iv_pablomc/pull/37 | v0.4.1 | |
 | <!-- Enlace de antoniojesuus --> | | |
 | <!-- Enlace de ottoeprz --> | | |
 | <!-- Enlace de danielsp13 --> | | |
@@ -51,4 +51,4 @@
 | <!-- Enlace de luistf24 --> | | |
 | https://github.com/joseantonio2001/OlivApp/pull/27 | v4.0.1 | |
 | https://github.com/mariavallejo20/proyecto_mvo/pull/33 | v4.0 | |
-| https://github.com/vdeq79/Projecto-XSZ/pull/22 | v4.3 | |
+| https://github.com/vdeq79/Projecto-XSZ/pull/22 | v4.3 |  ✓ |
