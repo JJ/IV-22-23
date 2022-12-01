@@ -29,7 +29,7 @@
 | <!-- Enlace de lovelace9981 -->                  |         |           |
 | <!-- Enlace de PabloSpiegel -->                  |         |           |
 | <!-- Enlace de M M J M -->                       |         |           |
-| <!-- Enlace de dmonjasm -->                      |         |           |
+| https://github.com/dmonjasm/RouteCheck/pull/26   | v3.0.1  |           |
 | <!-- Enlace de santim15 -->                      |         |           |
 | <!-- Enlace de M P I -->                         |         |           |
 |https://github.com/MauronMP/PMP_IV/pull/19        | v0.0.6  | ✓         |
