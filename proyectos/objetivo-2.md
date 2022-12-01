@@ -27,7 +27,7 @@
 | <!-- Enlace de Davidmd00 --> | | |
 | <!-- Enlace de LuisMart7 --> | | |
 | <!-- Enlace de lovelace9981 --> | | |
-| https://github.com/manujurado1/SportsBar-IV/pull/17 | v.0.2.1 | |
+| https://github.com/manujurado1/SportsBar-IV/pull/17 | v.0.2.1 |  ✓ |
 | <!-- Enlace de M M J M --> | | |
 | https://github.com/vdeq79/Projecto-XSZ/pull/14 | v0.1.1 | ✓ |
 | <!-- Enlace de santim15 --> | | |
