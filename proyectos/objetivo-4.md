@@ -50,5 +50,5 @@
 | <!-- Enlace de ignaciotitos --> | | |
 | <!-- Enlace de luistf24 --> | | |
 | https://github.com/joseantonio2001/OlivApp/pull/27 | v4.0.1 | |
-| <!-- Enlace de mariavallejo20 --> | | |
+| https://github.com/mariavallejo20/proyecto_mvo/pull/33 | v4.0 | |
 | https://github.com/vdeq79/Projecto-XSZ/pull/22 | v4.3 |  ✓ |
