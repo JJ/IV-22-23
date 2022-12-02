@@ -30,7 +30,9 @@ pasado](../sesiones-21-22/semana-13.md).
 * No buscar exhaustivamente las optciones que hay, sobre todo bibliotecas de
   aserciones. En cualquier lenguaje hay varias docenas. En esto es mejor que os
   salgáis de los primeros resultados en la búsqueda en Google o en los
-  repositorios de módulos.
+  repositorios de módulos. Por ejemplo, hay que buscar *unit test*, no solo
+  *assertions*. También *TDD* o *BDD*. En cuanto a los *test runners*, mirad
+  también *testing frameworks*
 
 
 ## Material para la clase
