@@ -27,6 +27,10 @@ pasado](../sesiones-21-22/semana-13.md).
 
 ### Objetivo 4
 
+* No buscar exhaustivamente las optciones que hay, sobre todo bibliotecas de
+  aserciones. En cualquier lenguaje hay varias docenas. En esto es mejor que os
+  salgáis de los primeros resultados en la búsqueda en Google o en los
+  repositorios de módulos.
 
 
 ## Material para la clase
