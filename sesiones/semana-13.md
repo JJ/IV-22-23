@@ -19,6 +19,8 @@ pasado](../sesiones-21-22/semana-13.md).
 
 ### Objetivo 2
 
+* Recordad exportar correctamente siguiendo la sintaxis del lenguaje de
+  programación que uséis los módulos, clases y funciones.
 
 ### Objetivo 3
 
