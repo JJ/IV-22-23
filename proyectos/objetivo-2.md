@@ -46,7 +46,7 @@
 | https://github.com/dmonjasm/RouteCheck/pull/17 | v0.0.1 | ✓|
 | [OlivApp](https://github.com/joseantonio2001/OlivApp/pull/14) | v0.2.7 | ✓ |
 | https://github.com/MauronMP/PMP_IV/pull/9 | v0.0.4 | ✓ |
-| https://github.com/RafaelT00/AutoIV/pull/13 | v2.0.0 | |
+| https://github.com/PabloSpiegel/WikiDisp/pull/27 | v2.0.0 | |
 | <!-- Enlace de ignaciotitos --> | | |
 | https://github.com/Carlos-SE/App-chores/pull/10 | v0.0.6 | ✓ |
 | (https://github.com/martahuetem/IV_HorseMatch/pull/7) | v0.0.1 | ✓|
