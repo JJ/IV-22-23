@@ -40,7 +40,7 @@
 | <!-- Enlace de ottoeprz --> | | |
 | https://github.com/jesusjmma/Proyecto-Infraestructura-Virtual/pull/9 | 0.1.4 | ✓ |
 | https://github.com/iscoct/cotan/pull/20 | v0.0.2 | ✓ |
-| <!-- Enlace de chowfie --> | | |
+| https://github.com/fjromeero/MusicalFriends/pull/9 | v.0.0.2 | |
 | <!-- Enlace de crdelapuente --> | | |
 | https://github.com/JoseCarlosJC/UseTime/pull/8 | v0.0.2 | ✓ |
 | https://github.com/dmonjasm/RouteCheck/pull/17 | v0.0.1 | ✓|
