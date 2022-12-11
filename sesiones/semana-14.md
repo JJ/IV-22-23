@@ -1,9 +1,15 @@
 # Semana del 12 de diciembre
 
+Se recomienda muy encarecidamente asistir a clase para poder dar orientación de
+los objetivos que faltan hasta el 5 (mínimo para aprobar).
+
 ## Antes de la clase
 
 Haber entregado el objetivo 4, haber empezado con el 5. Es la última semana
 completa, y convendría que se entregaran todos los objetivos antes de navidades.
+
+Ayudar atambién a los compañeros en sus PRs, salga uno "elegido" aleatoriamente
+o no.
 
 
 ## Estado de los objetivos
