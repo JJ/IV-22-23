@@ -25,7 +25,7 @@
 | <!-- Enlace de Gundisalvus2 --> | | |
 | https://github.com/pablo1mc315/iv_pablomc/pull/7 | v0.1.2 | ✓ |
 | <!-- Enlace de Davidmd00 --> | | |
-| <!-- Enlace de LuisMart7 --> | | |
+| https://github.com/danielsp13/SuperCatch/pull/10 | v0.0.2 | |
 | <!-- Enlace de lovelace9981 --> | | |
 | https://github.com/manujurado1/SportsBar-IV/pull/17 | v.0.2.1 |  ✓ |
 | <!-- Enlace de M M J M --> | | |
