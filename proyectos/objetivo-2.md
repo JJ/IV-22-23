@@ -21,7 +21,7 @@
 | <!-- Enlace de JoseCarlosJC --> | | |
 | <!-- Enlace de albegadel --> | | |
 | <!-- Enlace de adrianlc3 --> | | |
-| <!-- Enlace de JesusJMMA --> | | |
+| https://github.com/ottoeprz/glowing-engine/pull/6 | 0.2.0 | |
 | <!-- Enlace de Gundisalvus2 --> | | |
 | https://github.com/pablo1mc315/iv_pablomc/pull/7 | v0.1.2 | ✓ |
 | <!-- Enlace de Davidmd00 --> | | |
