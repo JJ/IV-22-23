@@ -37,6 +37,14 @@ pasado](../sesiones-21-22/semana-14.md).
 * No seguir las mejores prácticas en los nombres de clases, ficheros,
   directorios, y demás. Cada lenguaje tiene unas reglas específicas, que hay que
   seguir.
+* Diseño de errores poco específico o inadecuado. Parte de modelización del
+  problema está en diseñar los errores o excepciones que puedan surgir.
+
+### Objetivo 4
+
+* Usar valores incorrectos o imposibles como errores. Todos los lenguajes tienen
+  un modo específico de tratar con los errores y excepciones; hay que usarlo de
+  la mejor forma posible. Ver también los errores del objetivo 2, más arriba.
 
 ## Material para la clase
 
