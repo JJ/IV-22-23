@@ -28,17 +28,26 @@ pasado](../sesiones-21-22/semana-14.md).
 2. Emplear las mejores prácticas en la elaboración de los mensajes de commit.
 3. Entender cómo elegir y describir la infraestructura necesaria para probar, y
    eventualmente ejecutar un programa.
+4. Seguir las mejores prácticas, y entender la razón por la que se hace cada una
+   de ellas (evitar *cargo culting*).
 
 ## Errores frecuentes
 
 
 ### Objetivo 2
 
+El principal es no entender qué es el desarrollo ágil (centrado en el cliente) y
+por qué siempre hay que trabajar a partir de las historias de usuario, que
+expresan los deseos del cliente.
+
+Además:
+
 * No seguir las mejores prácticas en los nombres de clases, ficheros,
   directorios, y demás. Cada lenguaje tiene unas reglas específicas, que hay que
   seguir.
 * Diseño de errores poco específico o inadecuado. Parte de modelización del
   problema está en diseñar los errores o excepciones que puedan surgir.
+
 
 ### Objetivo 4
 
