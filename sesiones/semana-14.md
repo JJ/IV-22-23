@@ -47,13 +47,27 @@ Además:
   seguir.
 * Diseño de errores poco específico o inadecuado. Parte de modelización del
   problema está en diseñar los errores o excepciones que puedan surgir.
-
+* Para usar criterios verdaderamente objetivos, hay que usar comparativas que se
+  hayan publicado o bien [herramientas como Snyk
+  Advisor](https://snyk.io/advisor/), que examinan módulos de JavaScript, Python
+  y Go según una serie de criterios objetivos y asignan una puntuación en un
+  solo número.
 
 ### Objetivo 4
 
 * Usar valores incorrectos o imposibles como errores. Todos los lenguajes tienen
   un modo específico de tratar con los errores y excepciones; hay que usarlo de
   la mejor forma posible. Ver también los errores del objetivo 2, más arriba.
+
+### Objetivo 5
+
+* El criterio más importante a la hora de elegir una imagen base es el peso:
+  tanto el de la imagen base como el de la imagen creada usando esa imagen
+  base. Implica lo que va a tardar en descargarse esa imagen. La velocidad es
+  importante también, y esta dependerá de la versión del sistema operativo que
+  se use, pero los dos suman, no son independientes.
+* En desarrollo siempre se debe testear desde una cuenta sin privilegios. Hay
+  que o crear esa cuenta o informarse de si la imagen base la ha creado ya.
 
 ## Material para la clase
 
