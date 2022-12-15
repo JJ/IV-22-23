@@ -15,6 +15,34 @@ o no.
 ## Estado de los objetivos
 
 ```txt
+0 🧮:  8%🚧 79%✅ 12%❌ ⇒
+     🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌
+ 1 🧮:  8%🚧 65%✅ 26%❌ ⇒
+     🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 2 🧮: 12%🚧 46%✅ 40%❌ ⇒
+     🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 3 🧮:  2%🚧 40%✅ 57%❌ ⇒
+     🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 4 🧮: 10%🚧 10%✅ 79%❌ ⇒
+     🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 5 🧮:  2%🚧  6%✅ 91%❌ ⇒
+     🚧
+     ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 6 🧮:  0%🚧  4%✅ 95%❌ ⇒
+
+     ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
 
 ```
 
@@ -30,6 +58,7 @@ pasado](../sesiones-21-22/semana-14.md).
    eventualmente ejecutar un programa.
 4. Seguir las mejores prácticas, y entender la razón por la que se hace cada una
    de ellas (evitar *cargo culting*).
+5. Entender el concepto de *deuda técnica* y cómo se hace para evitarla.
 
 ## Errores frecuentes
 
@@ -55,9 +84,17 @@ Además:
 
 ### Objetivo 4
 
+El problema principal es no partir de las historias de usuario para
+llegar a una solución del problema, y usar las historias de usuario
+como guía para crear los tests.
+
 * Usar valores incorrectos o imposibles como errores. Todos los lenguajes tienen
   un modo específico de tratar con los errores y excepciones; hay que usarlo de
   la mejor forma posible. Ver también los errores del objetivo 2, más arriba.
+* Hacer tests de valores de atributos asignados en el
+  constructor. Todo esto no debe formar parte de los tests, sino de la
+  fase *arrange*, ya que si no funcionan, no van a funcionar el resto
+  de los tests (fases *act* y *assert*).
 
 ### Objetivo 5
 
@@ -71,7 +108,9 @@ Además:
 
 ## Material para la clase
 
-
+* [Introducción a Docker](http://jj.github.io/IV/documentos/temas/Contenedores)
+* [Objetivo 5:
+  Contenedores](http://jj.github.io/IV/documentos/proyecto/5.Docker)
 
 ## Otras sesiones
 
