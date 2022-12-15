@@ -42,7 +42,7 @@
 | https://github.com/jmramirezG/WhatCook/pull/13   | 0.0.3   |    ✓      |
 | <!-- Enlace de chowfie -->                       |         |           |
 | <!-- Enlace de crdelapuente -->                  |         |           |
-| https://github.com/fjromeero/MusicalFriends/pull/13                     | v0.0.3  |           |
+| https://github.com/fjromeero/MusicalFriends/pull/13                     | v0.0.3  |    ✓      |
 | https://github.com/marcosrmartin/PerroAndaluz/pull/17 |v0.0.1|     ✓     |
 | https://github.com/Carlos-SE/App-chores/pull/20 |    v0.0.8     |  ✓          |
 | https://github.com/arsa-dev/OMP-Logic/pull/15    | v3.2    | ✓         |
