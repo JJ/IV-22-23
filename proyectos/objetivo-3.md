@@ -27,7 +27,7 @@
 | <!-- Enlace de Davidmd00 -->                     |         |           |
 | <!-- Enlace de LuisMart7 -->                     |         |           |
 | <!-- Enlace de lovelace9981 -->                  |         |           |
-| <!-- Enlace de PabloSpiegel -->                  |         |           |
+| https://github.com/PabloSpiegel/WikiDisp/pull/29 | v2.1.0  |           |
 | <!-- Enlace de M M J M -->                       |         |           |
 | https://github.com/dmonjasm/RouteCheck/pull/26   | v3.0.2  | ✓         |
 | <!-- Enlace de santim15 -->                      |         |           |
