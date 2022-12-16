@@ -16,7 +16,8 @@ json:
 	raku -Ilib scripts/iv-objetivos.raku > data/objetivos.json
 
 notas:
-	raku -Ilib scripts/iv-notas.raku
+	@echo "⚠️Esta orden necesita tener instalado raku y zef y ejecutar a continuación\n\tzef install --deps-only .\npara instalar las dependencias necesarias. Si hay algún error, ejecuta lo anterior ⚠ \n\n"
+	@raku -Ilib scripts/iv-notas.raku
 
 revisores:
 	fatpack pack src/random-reviewer.pl > scripts/random-reviewer
