@@ -43,23 +43,11 @@ El problema principal es no partir de las historias de usuario para
 llegar a una solución del problema, y usar las historias de usuario
 como guía para crear los tests.
 
-* Usar valores incorrectos o imposibles como errores. Todos los lenguajes tienen
-  un modo específico de tratar con los errores y excepciones; hay que usarlo de
-  la mejor forma posible. Ver también los errores del objetivo 2, más arriba.
-* Hacer tests de valores de atributos asignados en el
-  constructor. Todo esto no debe formar parte de los tests, sino de la
-  fase *arrange*, ya que si no funcionan, no van a funcionar el resto
-  de los tests (fases *act* y *assert*).
+* Hay que diseñar y testear las excepciones correctamente.
+* No metáis getters para todo. Y menos para llamarlos desde la propia clase.
 
 ### Objetivo 5
 
-* El criterio más importante a la hora de elegir una imagen base es el peso:
-  tanto el de la imagen base como el de la imagen creada usando esa imagen
-  base. Implica lo que va a tardar en descargarse esa imagen. La velocidad es
-  importante también, y esta dependerá de la versión del sistema operativo que
-  se use, pero los dos suman, no son independientes.
-* En desarrollo siempre se debe testear desde una cuenta sin privilegios. Hay
-  que o crear esa cuenta o informarse de si la imagen base la ha creado ya.
 
 ## Material para la clase
 
