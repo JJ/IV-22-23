@@ -38,7 +38,7 @@
 | https://github.com/pablo1mc315/iv_pablomc/pull/29 | v0.3.3  |   ✓      |
 | <!-- Enlace de antoniojesuus -->                 |         |           |
 | <!-- Enlace de ottoeprz -->                      |         |           |
-| <!-- Enlace de danielsp13 -->                    |         |           |
+| https://github.com/danielsp13/SuperCatch/pull/24 | v0.0.3  |           |
 | https://github.com/jmramirezG/WhatCook/pull/13   | 0.0.3   |    ✓      |
 | <!-- Enlace de chowfie -->                       |         |           |
 | <!-- Enlace de crdelapuente -->                  |         |           |
