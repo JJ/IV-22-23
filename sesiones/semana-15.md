@@ -39,6 +39,8 @@ pasado](../sesiones-21-22/semana-15.md).
 
 ### Objetivo 4
 
+> Consultar también [la semana anterior](semana-14.md#objetivo-4).
+
 El problema principal es no partir de las historias de usuario para
 llegar a una solución del problema, y usar las historias de usuario
 como guía para crear los tests.

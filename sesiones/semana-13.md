@@ -57,6 +57,8 @@ pasado](../sesiones-21-22/semana-13.md).
 
 ### Objetivo 4
 
+> Consultar también [la semana anterior](semana-12.md#objetivo-4).
+
 * No buscar exhaustivamente las optciones que hay, sobre todo bibliotecas de
   aserciones. En cualquier lenguaje hay varias docenas. En esto es mejor que os
   salgáis de los primeros resultados en la búsqueda en Google o en los

@@ -76,6 +76,8 @@ tiempo a analizar que a codificar, es posible que estés haciendo algo mal.
 
 ### Objetivo 4
 
+> Consultar también [la semana anterior](semana-11.md#objetivo-4).
+
 Tratad de entender bien todo el sistema de importación de módulos, sea en
 JavaScript o en Python.
 

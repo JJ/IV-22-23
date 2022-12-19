@@ -79,6 +79,8 @@ objetivos; si algo no lo entiendes o no encuentras material pregunta.
 
 ### Objetivo 4
 
+> Consultar también [la semana anterior](semana-10.md#objetivo-4).
+
 * No usar issues (problemas) para avanzar en la implementación de la
   funcionalidad.
 * De la anterior vienen muchas cosas, como por ejemplo usar funciones para

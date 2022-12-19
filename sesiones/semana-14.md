@@ -84,6 +84,8 @@ Además:
 
 ### Objetivo 4
 
+> Consultar también [la semana anterior](semana-13.md#objetivo-4).
+
 El problema principal es no partir de las historias de usuario para
 llegar a una solución del problema, y usar las historias de usuario
 como guía para crear los tests.
