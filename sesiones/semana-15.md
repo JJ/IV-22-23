@@ -45,6 +45,12 @@ como guía para crear los tests.
 
 * Hay que diseñar y testear las excepciones correctamente.
 * No metáis getters para todo. Y menos para llamarlos desde la propia clase.
+* Los atributos incluyen el estado de la clase. Los resultados de una función,
+  específicamente la lógica de negocio, tienen que darse simplemente como
+  salidas de un método. Si no, hay que hacer dos llamadas (o más): una para
+  invocar la lógica de negocio, otras para recuperar los estados en atributos.
+* Los comentarios deben añadir información sobre todo para el desarollador (en
+  forma de docstrings). No deben repetir lo obvio.
 
 ### Objetivo 5
 
