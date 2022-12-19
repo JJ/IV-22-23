@@ -67,6 +67,6 @@ como guía para crear los tests.
 
 ## Otras sesiones
 
-* [Semana décimotercera](semana-13.md)
-* [Décimoquinta semana](semana-15.md) (y última)
+* [Semana décimocuarta](semana-14.md)
+
 
