@@ -51,6 +51,8 @@ como guía para crear los tests.
   invocar la lógica de negocio, otras para recuperar los estados en atributos.
 * Los comentarios deben añadir información sobre todo para el desarollador (en
   forma de docstrings). No deben repetir lo obvio.
+* "Testear" no es un issue. Es el código que indica si el problema (que está en
+  un issue) se ha resuelto.
 
 ### Objetivo 5
 
