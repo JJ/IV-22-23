@@ -35,7 +35,7 @@
 | https://github.com/MauronMP/PMP_IV/pull/36 | v5.0.2 |  ✓ |
 | <!-- Enlace de amogue73 --> | | |
 | <!-- Enlace de delightfulagony --> | | |
-| https://github.com/pablo1mc315/iv_pablomc/pull/52 | v5.0.1 | |
+| https://github.com/pablo1mc315/iv_pablomc/pull/52 | v5.0.2 | |
 | <!-- Enlace de antoniojesuus --> | | |
 | <!-- Enlace de ottoeprz --> | | |
 | <!-- Enlace de danielsp13 --> | | |
