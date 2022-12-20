@@ -63,6 +63,12 @@ como guía para crear los tests.
 
 ### Objetivo 5
 
+Se explicaron en clase los diferentes tipos de bases que se podían usar,
+incluyendo las que instalaban el lenguaje desde cero a partir de un sistema
+operativo. Repetir "la imagen oficial tiene slim, alpine y ubuntu pero me pillo
+la Alpine" no vale a estas alturas, porque indica poca investigación real de las
+posibles imágenes que hay y de cómo se construye, posiblemente desde cero, un
+contenedor, que es lo que se busca en este objetivo.
 
 ## Material para la clase
 
