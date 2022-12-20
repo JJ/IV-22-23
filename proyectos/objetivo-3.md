@@ -35,10 +35,10 @@
 |https://github.com/MauronMP/PMP_IV/pull/19        | v0.0.6  | ✓         |
 | <!-- Enlace de amogue73 -->                      |         |           |
 | https://github.com/delightfulagony/oishi/pull/32 | v3.0.0  | ✓         |
-| https://github.com/pablo1mc315/iv_pablomc/pull/29 | v0.3.3  |   ✓      |
+| https://github.com/pablo1mc315/iv_pablomc/pull/29 | v0.3.3 |   ✓       |
 | <!-- Enlace de antoniojesuus -->                 |         |           |
 | <!-- Enlace de ottoeprz -->                      |         |           |
-| https://github.com/danielsp13/SuperCatch/pull/24 | v0.0.3  |           |
+| https://github.com/danielsp13/SuperCatch/pull/24 | v0.0.3  |    ✓      |
 | https://github.com/jmramirezG/WhatCook/pull/13   | 0.0.3   |    ✓      |
 | <!-- Enlace de chowfie -->                       |         |           |
 | <!-- Enlace de crdelapuente -->                  |         |           |
