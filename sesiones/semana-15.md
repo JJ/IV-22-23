@@ -63,6 +63,8 @@ como guía para crear los tests.
 
 ### Objetivo 5
 
+> Consultar también [la semana anterior](semana-14.md#objetivo-5).
+
 Se explicaron en clase los diferentes tipos de bases que se podían usar,
 incluyendo las que instalaban el lenguaje desde cero a partir de un sistema
 operativo. Repetir "la imagen oficial tiene slim, alpine y ubuntu pero me pillo
