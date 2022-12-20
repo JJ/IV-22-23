@@ -36,6 +36,11 @@ pasado](../sesiones-21-22/semana-15.md).
 
 ### Objetivo 2
 
+El objetivo 2 debe hacerse mirando al objetivo 4, y siguiendo las mejores
+prácticas en diseño orientado a objetos.
+
+* Separación del interfaz y la implementación.
+* Los atributos representan estado, *nunca* resultados de funciones.
 
 ### Objetivo 4
 
