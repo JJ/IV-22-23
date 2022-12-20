@@ -39,7 +39,7 @@
 | <!-- Enlace de antoniojesuus --> | | |
 | <!-- Enlace de ottoeprz --> | | |
 | <!-- Enlace de danielsp13 --> | | |
-| <!-- Enlace de jmramirezG --> | | |
+| https://github.com/jmramirezG/WhatCook/pull/16 | v0.0.4 | |
 | <!-- Enlace de chowfie --> | | |
 | <!-- Enlace de crdelapuente --> | | |
 | <!-- Enlace de fjromeero --> | | |
