@@ -74,6 +74,8 @@ contenedor, que es lo que se busca en este objetivo.
 
 * La imagen debe incluir solo lo necesario. Si se ha copiado algún fichero para
   constuir la imagen y ya no es necesario, debe borrarse.
+* Es necesario distinguir entre `CMD` y `ENTRYPOINT`, y entender la diferencia e
+  usar el más adecuado aquí.
 
 ## Material para la clase
 
