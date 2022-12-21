@@ -72,6 +72,9 @@ la Alpine" no vale a estas alturas, porque indica poca investigación real de la
 posibles imágenes que hay y de cómo se construye, posiblemente desde cero, un
 contenedor, que es lo que se busca en este objetivo.
 
+* La imagen debe incluir solo lo necesario. Si se ha copiado algún fichero para
+  constuir la imagen y ya no es necesario, debe borrarse.
+
 ## Material para la clase
 
 * [Introducción a Docker](http://jj.github.io/IV/documentos/temas/Contenedores)
