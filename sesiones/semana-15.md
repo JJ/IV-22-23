@@ -72,6 +72,11 @@ la Alpine" no vale a estas alturas, porque indica poca investigación real de la
 posibles imágenes que hay y de cómo se construye, posiblemente desde cero, un
 contenedor, que es lo que se busca en este objetivo.
 
+Como todos los objetivos, no se trata de que pongáis una imagen que sea una
+modificación de dos o tres líneas de una existente y ya. Se trata de que
+aprendáis a hacer estas imágenes en cualquier circunstancia, incluyendo la
+posiblidad de que, por cualquier razón, no exista una imagen "oficial".
+
 * La imagen debe incluir solo lo necesario. Si se ha copiado algún fichero para
   constuir la imagen y ya no es necesario, debe borrarse.
 * Es necesario distinguir entre `CMD` y `ENTRYPOINT`, y entender la diferencia e
