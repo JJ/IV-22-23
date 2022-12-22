@@ -69,6 +69,12 @@ prácticas en diseño orientado a objetos.
 
 * Separación del interfaz y la implementación.
 * Los atributos representan estado, *nunca* resultados de funciones.
+* Buenas prácticas en nombres de variables.
+* En general, se trata de que el estudiante modelice, no de que dé
+  nombres a variables y clases vagamente relacionados con las palabras
+  mencionadas en las historias de usuario. Lo importante es ir tratando
+  de entender las diferentes partes del problema, hasta encontrar una
+  suficientemente simple para programarla.
 
 ### Objetivo 4
 
