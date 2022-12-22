@@ -23,7 +23,7 @@
 | <!-- Enlace de adrianlc3 --> | | |
 | <!-- Enlace de JesusJMMA --> | | |
 | <!-- Enlace de Gundisalvus2 --> | | |
-| https://github.com/pedromarting3/OnTime/pull/39 | v5.0.7 | |
+| https://github.com/pedromarting3/OnTime/pull/39 | v5.0.8 | |
 | <!-- Enlace de Davidmd00 --> | | |
 | <!-- Enlace de LuisMart7 --> | | |
 | <!-- Enlace de lovelace9981 --> | | |
