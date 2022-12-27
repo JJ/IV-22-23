@@ -51,4 +51,4 @@
 | <!-- Enlace de luistf24 --> | | |
 | <!-- Enlace de joseantonio2001 --> | | |
 | <!-- Enlace de mariavallejo20 --> | | |
-| <!-- Enlace de vdeq79 --> | | |
+| https://github.com/vdeq79/Projecto-XSZ/pull/30 | v5.2 | |
