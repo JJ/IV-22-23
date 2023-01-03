@@ -17,7 +17,7 @@
 | https://github.com/alvarogaro/AGR-MVS/pull/15    | v0.0.6  |     ✓     |
 | <!-- Enlace de Juanmihdz -->                     |         |           |
 | https://github.com/martahuetem/IV_HorseMatch/pull/20 |    v0.0.1     |    ✓     |
-| https://github.com/manujurado1/SportsBar-IV/pull/21 |   v0.0.1      |           |
+| https://github.com/manujurado1/SportsBar-IV/pull/21 |   v0.0.1      |     ✓       |
 | <!-- Enlace de JoseCarlosJC -->                  |         |           |
 | <!-- Enlace de albegadel -->                     |         |           |
 | <!-- Enlace de adrianlc3 -->                     |         |           |
