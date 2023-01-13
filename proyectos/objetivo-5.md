@@ -17,7 +17,7 @@
 | <!-- Enlace de alvarogaro --> | | |
 | <!-- Enlace de Juanmihdz --> | | |
 | <!-- Enlace de martahuetem --> | | |
-| <!-- Enlace de manujurado1 --> | | |
+| https://github.com/manujurado1/SportsBar-IV/pull/34 |v5.0.1 | |
 | <!-- Enlace de JoseCarlosJC --> | | |
 | <!-- Enlace de albegadel --> | | |
 | <!-- Enlace de adrianlc3 --> | | |
