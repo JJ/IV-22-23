@@ -44,7 +44,7 @@
 | <!-- Enlace de crdelapuente --> | | |
 | https://github.com/fjromeero/MusicalFriends/pull/15 | v.0.0.4 | |
 | [PerroAndaluz](https://github.com/marcosrmartin/PerroAndaluz/pull/29) | v0.0.4 | ✓ |
-| [Carlos-SE/App-chores](https://github.com/Carlos-SE/App-chores/pull/33) | v0.0.9 | |
+| [Carlos-SE/App-chores](https://github.com/Carlos-SE/App-chores/pull/33) | v0.4.1 | |
 | https://github.com/arsa-dev/OMP-Logic/pull/17 | v4.3 | ✓ |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
