@@ -43,7 +43,7 @@
 | <!-- Enlace de chowfie --> | | |
 | <!-- Enlace de crdelapuente --> | | |
 | <!-- Enlace de fjromeero --> | | |
-| [Perro](https://github.com/marcosrmartin/PerroAndaluz/pull/38) | v0.0.1 | |
+| [Perro](https://github.com/marcosrmartin/PerroAndaluz/pull/38) | v0.0.2 | |
 | <!-- Enlace de Carlos-SE --> | | |
 | https://github.com/arsa-dev/OMP-Logic/pull/20 | v5.0.3 |  ✓ |
 | <!-- Enlace de RafaelT00 --> | | |
