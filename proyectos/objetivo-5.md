@@ -17,7 +17,7 @@
 | https://github.com/alvarogaro/AGR-MVS/pull/34 | v0.1.1 |  ✓ |
 | <!-- Enlace de Juanmihdz --> | | |
 | <!-- Enlace de martahuetem --> | | |
-| https://github.com/manujurado1/SportsBar-IV/pull/34 |v5.0.1 | |
+| https://github.com/manujurado1/SportsBar-IV/pull/34 |v5.0.1 | ✓ |
 | <!-- Enlace de JoseCarlosJC --> | | |
 | <!-- Enlace de albegadel --> | | |
 | <!-- Enlace de adrianlc3 --> | | |
