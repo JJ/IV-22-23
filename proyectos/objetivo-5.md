@@ -44,7 +44,7 @@
 | <!-- Enlace de crdelapuente --> | | |
 | <!-- Enlace de fjromeero --> | | |
 | [Perro](https://github.com/marcosrmartin/PerroAndaluz/pull/38) | v0.0.2 |  ✓ |
-| <!-- Enlace de Carlos-SE --> | | |
+| [Carlos-SE](https://github.com/Carlos-SE/App-chores/pull/59) | v0.5.2 | |
 | https://github.com/arsa-dev/OMP-Logic/pull/20 | v5.0.3 |  ✓ |
 | <!-- Enlace de RafaelT00 --> | | |
 | <!-- Enlace de ignaciotitos --> | | |
