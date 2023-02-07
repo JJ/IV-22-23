@@ -38,7 +38,7 @@
 | <!-- Enlace de pablo1mc315 --> | | |
 | <!-- Enlace de antoniojesuus --> | | |
 | <!-- Enlace de ottoeprz --> | | |
-| https://github.com/danielsp13/SuperCatch/pull/72 | v0.1.0 | |
+| https://github.com/danielsp13/SuperCatch/pull/72 | v0.1.1 | |
 | <!-- Enlace de jmramirezG --> | | |
 | <!-- Enlace de chowfie --> | | |
 | <!-- Enlace de crdelapuente --> | | |
