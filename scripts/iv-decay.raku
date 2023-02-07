@@ -6,6 +6,13 @@ my $stats = IV::Stats.new;
 
 
 for $stats.objetivos -> $o {
+    my $aceptados = $stats.cumple-objetivo($o).elems;
+    my $entregados = $stats.hecha-entrega($o).elems;
     say "$o → {$o+1} ; ",
-            sprintf("%.2f", 100*$stats.bajas-totales($o)/$stats.cumple-objetivo($o) );
+            sprintf(
+                "%.2f", 100*$stats.bajas-totales($o)/$aceptados ),
+                "; ",
+            sprintf( "%.2f", 100*($entregados-$aceptados)/$entregados ),
+            "; ",
+            sprintf( "%.2f", 100*$stats.bajas-objetivos($o)/$entregados );
 }
