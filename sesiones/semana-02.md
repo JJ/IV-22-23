@@ -41,7 +41,7 @@ todas ellas tendrán que estar al día.
 
 ## Contenidos
 
-* Plantear los problemas que se hayan tenido tengan con el [objetivo
+* Plantear los problemas que se hayan tenido  con el [objetivo
   0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
 
 
